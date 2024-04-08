@@ -6,10 +6,9 @@
 2. [**Frações**](teoria/Frações.md)
 3. [**Produtos Notáveis**](/teoria/ProdutosNotáveis.md)
 4. [**Fatoração**](/teoria/Fatoração.md)
-5. [**Frações Algébricas**]
-6. [**Potenciação**]
-7. [**Radiciação**]
-8. [**Equações**]
+5. [**Potenciação**](/teoria/Potenciação.md)
+6. [**Radiciação**](/teoria/Radiciação.md)
+7. [**Equações**](/teoria/Equações.md)
 
 ---
 
