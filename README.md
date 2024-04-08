@@ -6,9 +6,9 @@
 ---
 ## Conteúdo deste Repositório
 
-- Pastas organizadas por temas, incluindo pré-cálculo, cálculo 1 e integrais.
+- Pastas organizadas por temas, incluindo álgebra básica, pré-cálculo e cálculo 1.
 - Arquivos Markdown com explicações de conceitos matemáticos, exemplos resolvidos e exercícios práticos.
-- Recursos adicionais, como links para vídeos, artigos e livros recomendados.
+- Recursos adicionais, como links para vídeos pdf's com exercícios.
 
 ---
 ## Guia
