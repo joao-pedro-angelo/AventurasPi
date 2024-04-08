@@ -18,7 +18,9 @@ onde `a` é a base e `n` é o expoente.
 2. **Divisão de Potências de Mesma Base**: repete a base e subtrai os expoentes
 3. **Potência de uma Potência**: multiplicam os expoentes
 4. **Potência de um Produto**: cada termo do produto deve ser elevado à potência
-5. **Potência de Expoente Negativo**: inverte a base e o expoente se torna positivo
+5. **Potência de uma Divisão**: cada termo da divisão deve ser elevado à potência
+6. **Potência de Expoente Fracionário**: radiciação
+7. **Potência de Expoente Negativo**: inverte a base e o expoente se torna positivo
 
 ## Exemplos
 
