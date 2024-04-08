@@ -19,13 +19,11 @@ Neste documento, abordaremos diferentes técnicas de fatoração utilizadas na �
 
 ## Fatoração por Trinômio do Segundo Grau:
 - Utilizada quando temos um trinômio do tipo ax² + bx + c.
+- É a tradicional soma e produto
+- Soma: -b/a
+- Produto: c/a
 - Exemplo:
-  - x² + 5x + 6 = (x + 2)(x + 3)
-
-## Fatoração por Trinômio do Terceiro Grau:
-- Utilizada quando temos um trinômio do tipo ax³ + bx² + cx + d.
-- Exemplo:
-  - x³ + 6x² + 11x + 6 = (x + 1)(x + 2)(x + 3)
+  - x² - 5x + 6 = (x + 2)(x + 3)
 
 ## Decomposição em Fatores Primos:
 - Consiste em decompor um número em seus fatores primos.
