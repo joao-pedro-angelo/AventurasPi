@@ -8,7 +8,6 @@
 4. [**Fatoração**](/teoria/Fatoração.md)
 5. [**Potenciação**](/teoria/Potenciação.md)
 6. [**Radiciação**](/teoria/Radiciação.md)
-7. [**Equações**](/teoria/Equações.md)
 
 ---
 
