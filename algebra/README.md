@@ -8,6 +8,8 @@
 4. [**Fatoração**](teoria/Fatoração.md)
 5. [**Potenciação**](teoria/Potenciação.md)
 6. [**Radiciação**](teoria/Radiciação.md)
+7. [**Racionalização de Denominadores**](teoria/RacionalizarDen.md)
+8. [**Dízima Periódica**](teoria/DízimaPeriódica.md)
 
 ---
 
