@@ -15,3 +15,4 @@ Onde `n` é o índice da raiz, `a` é o radicando e `b` é a raiz.
 ## Propriedades
 
 ![propriedades](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/radicia%C3%A7%C3%A3oProps.png)
+![expoenteFrac](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/expoenteFracion%C3%A1rio.png)
