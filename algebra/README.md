@@ -4,14 +4,15 @@
 
 1. [**Operações Elementares**](teoria/OperaçõesElementares.md)
 2. [**Frações**](teoria/Frações.md)
-3. [**Produtos Notáveis**]
-4. [**Fatoração**]
-5. [**Potenciação**]
-6. [**Radiciação**]
-7. [**Equações**]
+3. [**Produtos Notáveis**](/teoria/ProdutosNotáveis.md)
+4. [**Fatoração**](/teoria/Fatoração.md)
+5. [**Frações Algébricas**]
+6. [**Potenciação**]
+7. [**Radiciação**]
+8. [**Equações**]
 
 ---
 
 ## Exercícios em pdf
 
-> em construção
+1. [**Produtos Notáveis e Fatoração**](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/algebra/pdfs/produtosNot%C3%A1veis_Fatora%C3%A7%C3%A3o.pdf)
