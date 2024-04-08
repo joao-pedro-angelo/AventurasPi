@@ -68,9 +68,9 @@
 
 ## Expressões Algébricas:
 - Operações matemáticas com números e letras
-- Monômio: multiplicação entre números e letras -> 2xy ou xy ou 3x²...
+- Monômio: multiplicação ou divisão entre números e letras -> 2xy ou xy ou 3x²...
 - Polinômio: soma ou subtração entre monômios -> 2xy + xy - 3x²
-- O que separa um monômio de outro é o sinal de adição ou subtração, em um polinômio
+- O que separa um monômio de outro é o sinal de adição ou subtração
 
 ### Ordem das operações:
 1. Parênteses
