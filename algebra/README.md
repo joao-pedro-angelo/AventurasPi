@@ -16,3 +16,4 @@
 ## Exercícios em pdf
 
 1. [**Produtos Notáveis e Fatoração**](pdfs/produtosNot%C3%A1veis_Fatora%C3%A7%C3%A3o.pdf)
+2. [**Lista exercícios - Mat. Básica**](pdfs/matBasicaExerc.pdf)
