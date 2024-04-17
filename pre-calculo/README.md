@@ -7,9 +7,8 @@
 ## Básico
 1. **[Conjuntos numéricos](teoria/conjuntosTeoria.pdf)**
 2. **[Números reais e intervalos]**
-3. **[Revisão dos tópicos em álgebra]**
 3. **[Polinômios]**
-4. **[Exercícios em PDFs**]
+4. **[Exercícios em PDF**]
 
 ---
 ## Funções
@@ -20,7 +19,7 @@
 5. **[Logaritmo]**
 6. **[Função modular]**
 7. **[Função composta e inversa]**
-8. **[Exercícios em PDFs]**
+8. **[Exercícios em PDF]**
 
 ---
 ## Equações e inequações
@@ -29,11 +28,11 @@
 3. **[Exponencial]**
 4. **[Logarítmica]**
 5. **[Inequações quociente (ou fracionárias)]**
-6. **[Exercícios em PDFs]**
+6. **[Exercícios em PDF]**
 
 ---
 ## Trigonometria
 
 1. **[Conceitos gerais]**
 2. **[Funções trigonométricas]**
-3. **[Exercícios em PDFs]**
+3. **[Exercícios em PDF]**
