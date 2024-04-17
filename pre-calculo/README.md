@@ -5,7 +5,7 @@
 
 ---
 ## Básico
-1. **[Conjuntos numéricos]**
+1. **[Conjuntos numéricos](teoria/conjuntosTeoria.pdf)**
 2. **[Números reais e intervalos]**
 3. **[Revisão dos tópicos em álgebra]**
 3. **[Polinômios]**
