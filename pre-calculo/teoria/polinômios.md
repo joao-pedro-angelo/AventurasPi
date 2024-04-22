@@ -61,5 +61,4 @@ Basta somar ou subtrair os termos de mesmo grau.
 ---
 ### Divisão:
 
-Assista: [Vídeo explicativo](https://youtu.be/WjmENMLiKbc)
-
+[Vídeo explicativo](https://youtu.be/WjmENMLiKbc)
