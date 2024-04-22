@@ -7,7 +7,7 @@
 ## Básico
 1. **[Conjuntos numéricos](teoria/conjuntosTeoria.md)**
 2. **[Polinômios](teoria/polinômios.md)**
-3. **[Exercícios em PDF**]
+3. **[Exercícios em PDF](teoria/pdf/polinômiosEx.pdf)**
 
 ---
 ## Funções
