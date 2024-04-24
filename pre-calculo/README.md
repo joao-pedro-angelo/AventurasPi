@@ -34,4 +34,5 @@
 
 1. **[Conceitos gerais]**
 2. **[Funções trigonométricas]**
-3. **[Exercícios em PDF]**
+3. **[Playlist](https://www.youtube.com/playlist?list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo)**
+4. **[Exercícios em PDF]**
