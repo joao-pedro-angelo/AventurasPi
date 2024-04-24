@@ -15,3 +15,5 @@
 
 1. **Aprimorar a matemática básica:** [Tópicos em álgebra](/algebra)
 2. **Curso pré-cálculo:** [Pré-Cálculo](/pre-calculo)
+3. **Curso cálculo 1:** [Cálculo 1](/calculo1)
+4. **Integrais:** [Integrais](/integrais)
