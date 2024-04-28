@@ -62,3 +62,40 @@ Basta somar ou subtrair os termos de mesmo grau.
 ### Divisão:
 
 [Vídeo explicativo](https://youtu.be/WjmENMLiKbc)
+
+---
+### Fatorar com raízes:
+
+Sendo x1 e x2 as raízes de um polinômio, podemos fatorá-lo da seguinte forma:<br>
+(x - x1) * (x - x2)<br>
+Se alguma das raízes tiver multiplicidade maior que 1, basta usar como expoente. Veja um exemplo em que x1, x1 e x2 são as raízes de um polinômio de grau 3:<br>
+
+p(x) = (x - x1)² * (x - x2)
+
+---
+### Relações de Girard - 2º Grau:
+
+x1 + x2 = -b/a<br>
+x1 * x2 = c/a
+
+### Relações de Girard - 3º Grau:
+
+x1 + x2 + x3 = -b/a
+x1 * x2 * x3 = -d/a <br>
+(é sempre o termo independente sobre o 'a', o sinal depende se o grau é par ou ímpar)
+
+
+### Macete:
+
+Quando a soma dos coeficientes for nula, então o número 1 é uma das raízes.
+
+### Briot-Ruffini:
+
+Método usado para dividir um polinômio qualquer p(x) por um polinômio da forma (x - a) ou (x + a)<br>
+![briotRuffini.png]
+
+### Encontrar raízes polinômio grau 3:
+
+Um dos divisores do termo independente será raíz do polinômio. 
+Então, podemos dividir o polinômio por (x - raíz).
+O polinômio encontrado será de grau 2. Basta usar Bhaskara e encontrar as outras duas raízes.
