@@ -7,32 +7,29 @@
 ## Básico
 1. **[Conjuntos numéricos](teoria/conjuntosTeoria.md)**
 2. **[Polinômios](teoria/polinômios.md)**
-3. **[Exercícios em PDF](teoria/pdf/polinômiosEx.pdf)**
+3. **[Playlist - Polinômios](https://www.youtube.com/playlist?list=PLEfwqyY2ox84iIVoCHP8JjObsXQtVjh2k)**
+4. **[Exercícios em PDF](teoria/pdf/polinômiosEx.pdf)**
 
 ---
 ## Funções
-1. **[Conceitos gerais]**
-2. **[Função de 1º grau]**
-3. **[Função de 2º grau]**
-4. **[Função exponencial]**
-5. **[Logaritmo]**
-6. **[Função modular]**
-7. **[Função composta e inversa]**
-8. **[Exercícios em PDF]**
+1. **[Playlist - Conceitos gerais](https://www.youtube.com/playlist?list=PLTPg64KdGgYiYqKmotPzPJVchCwKpTLzm)**
+2. **[Playlist - Função de 1º grau](https://www.youtube.com/playlist?list=PLTPg64KdGgYjMtxN9pJGBaenIRwNX1EtI)**
+3. **[Playlist - Função de 2º grau](https://www.youtube.com/playlist?list=PLTPg64KdGgYjXe1Gcc6ji-juawdTSouUU)**
+4. **[Playlist - Função exponencial](https://www.youtube.com/playlist?list=PLTPg64KdGgYhllRJbaGMQGRa-3-3RNGzb)**
+5. **[Playlist - Logaritmo](https://www.youtube.com/playlist?list=PLTPg64KdGgYiyW4u-g8y-dSkT1iz2cUKA)**
+6. **[Playlist - Função modular](https://www.youtube.com/playlist?list=PLTPg64KdGgYg0ySZNYbCo9Xrjg-FB7Djb)**
+7. **[Vídeo - Função composta e inversa](https://www.youtube.com/watch?v=V9yhPL87lGs&ab_channel=ProfessorFerretto)**
 
 ---
 ## Equações e inequações
-1. **[1º grau]**
-2. **[2º grau]**
-3. **[Exponencial]**
-4. **[Logarítmica]**
-5. **[Inequações quociente (ou fracionárias)]**
-6. **[Exercícios em PDF]**
+1. **[Playlist - 1º grau](https://www.youtube.com/playlist?list=PLGyv8aUrOlzDYO94MDTPacS5cqVZ-1e-f)**
+2. **[Playlist - 2º grau](https://www.youtube.com/playlist?list=PLGyv8aUrOlzBk-ctqa9e7jBlLxnqGcrho)**
+3. **[Playlist - Inequações](https://www.youtube.com/playlist?list=PLFmAdtvd3O_zf4DxyqzUOGAiXYRk2okBI)**
 
 ---
 ## Trigonometria
 
 1. **[Conceitos gerais]**
 2. **[Funções trigonométricas]**
-3. **[Playlist](https://www.youtube.com/playlist?list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo)**
+3. **[Playlist - Trigonometria](https://www.youtube.com/playlist?list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo)**
 4. **[Exercícios em PDF]**
