@@ -80,7 +80,7 @@ x1 * x2 = c/a
 
 ### Relações de Girard - 3º Grau:
 
-x1 + x2 + x3 = -b/a
+x1 + x2 + x3 = -b/a<br>
 x1 * x2 * x3 = -d/a <br>
 (é sempre o termo independente sobre o 'a', o sinal depende se o grau é par ou ímpar)
 
@@ -92,7 +92,7 @@ Quando a soma dos coeficientes for nula, então o número 1 é uma das raízes.
 ### Briot-Ruffini:
 
 Método usado para dividir um polinômio qualquer p(x) por um polinômio da forma (x - a) ou (x + a)<br>
-![briotRuffini.png]
+![briotRuffini](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/briotRuffini.png)
 
 ### Encontrar raízes polinômio grau 3:
 
