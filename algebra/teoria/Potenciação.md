@@ -29,6 +29,3 @@ onde `a` é a base e `n` é o expoente.
 3. (2 x 3)³ = (2³) * (3³)
 4. (5² * 5³) = 5⁵
 5. (8⁻²) = (1/8²)
-
-A potenciação é uma operação fundamental em matemática, amplamente utilizada em diversas áreas, como álgebra, trigonometria, e cálculo.
-
