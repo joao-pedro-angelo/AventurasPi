@@ -29,7 +29,7 @@
 ---
 ## Trigonometria
 
-1. **[Conceitos gerais]**
+1. **[Conceitos gerais](teoria/trigonometriaGeral.md)**
 2. **[Funções trigonométricas]**
 3. **[Playlist - Trigonometria](https://www.youtube.com/playlist?list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo)**
 4. **[Exercícios em PDF]**
