@@ -22,7 +22,7 @@
 
 ## Subtração:
 - Operação inversa da adição;
-- minuente - subtraendo = diferença;
+- minuendo - subtraendo = diferença;
 - Também utiliza o valor posicional para realizar a operação;
 - Subtrair unidade com unidade, dezena com dezena...
 
@@ -62,7 +62,8 @@
 - quociente = q
 - resto = r
 
-### Operação mais fácil de errar, busque praticar, principalmente casos com vírgula.
+> Operação mais fácil de errar, busque praticar, principalmente casos com vírgula.<br>
+> Recomendo o canal do Marcos Aba Matemática, para estudar divisão.
 
 ---
 
