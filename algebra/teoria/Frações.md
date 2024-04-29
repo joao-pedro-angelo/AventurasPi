@@ -1,7 +1,8 @@
 # Frações
 
 - Representação matemática de uma quantidade que foi dividida em partes iguais;
-- **numerador** / **denominador** 
+- **numerador** / **denominador**;
+- partes divididas / partes totais
 
 ## Tipos de frações:
 - **Mista:**  4/4 + 1/4 = 1 + 1/4
