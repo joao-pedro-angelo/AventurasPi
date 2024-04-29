@@ -9,14 +9,15 @@ Um conjunto é uma coleção de objetos distintos, chamados de elementos do conj
 ## Descrição de Conjunto:
 
 Os conjuntos podem ser descritos de várias formas:
-- **Enumeração:** Listando todos os elementos do conjunto entre chaves. Exemplo: {1, 2, 3}.
-- **Propriedade característica:** Descrevendo os elementos do conjunto por meio de uma propriedade comum. Exemplo: {x | x é um número inteiro positivo}.
+- **Enumeração:** Listando todos os elementos do conjunto entre chaves. Exemplo: A = {1, 2, 3}.
+- **Propriedade característica:** Descrevendo os elementos do conjunto por meio de uma propriedade comum. Exemplo:<br>
+   A = {x | x é um número inteiro positivo}.
 
 ## Conjuntos Conhecidos:
 
 Alguns conjuntos importantes incluem:
-- **Naturais (N):** Conjunto dos números inteiros positivos.
-- **Inteiros (Z):** Conjunto dos números inteiros, positivos e negativos.
+- **Naturais (N):** Conjunto dos números inteiros positivos e o zero.
+- **Inteiros (Z):** Conjunto dos números inteiros, positivos e negativos e o zero.
 - **Racionais (Q):** Conjunto dos números que podem ser expressos como uma fração.
 - **Irracionais (I):** Conjunto dos números que não podem ser expressos como uma fração.
 - **Reais (R):** Conjunto que inclui todos os números racionais e irracionais.
