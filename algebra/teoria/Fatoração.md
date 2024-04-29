@@ -19,9 +19,8 @@ Neste documento, abordaremos diferentes técnicas de fatoração utilizadas na �
 
 ## Fatoração por Trinômio do Segundo Grau:
 - Utilizada quando temos um trinômio do tipo ax² + bx + c.
-- É a tradicional soma e produto
-- Soma: -b/a
-- Produto: c/a
+- É uma fatoração de polinômio por meio das suas raízes (x - raiz1)(x - raiz2)...
+- Observe que -2 e -3 são raízes do polinômio abaixo.
 - Exemplo:
   - x² - 5x + 6 = (x + 2)(x + 3)
 
