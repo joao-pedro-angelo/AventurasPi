@@ -5,8 +5,8 @@
 
 ### Razões trigonométricas no triângulo retângulo
 
-*Seno*: Cateto oposto / Hipotenusa
-*Cosseno*: Cateto adjascente / Hipotenusa
+*Seno*: Cateto oposto / Hipotenusa<br>
+*Cosseno*: Cateto adjascente / Hipotenusa<br>
 *Tangente*: Seno / Cosseno ou Cateto oposto / Cateto adjascente
 
 Para descobrir a medida da hipotenusa, use pitágoras:<br>
