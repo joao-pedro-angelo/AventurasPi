@@ -58,4 +58,45 @@ A medida do arco é em radianos.<br>
 O raio também é em alguma unidade linear.
 
 ---
-## Sen, cos e tg na circunferência
+## Circunferência Trigonométrica
+
+![circunferenciaTrigonometrica](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/circunferenciaTrigonometrica.png)
+
+![sinaisCircunferenciaTrigonometrica](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/sinaisCircunferenciaTrigonometria.png)
+
+A circunferência total tem 2πR de comprimento linear e 2π rad de medida angular.<br>
+
+Arcos côngruos são possuem a mesma medida angular. Como, por exemplo:<br>
+45º, 405º, 765º...<br>
+Quando encontrar um ângulo maior que 360º, subtráia 360º quantas vezes for necessário deste arco, até que 
+ele fique menor ou igual a 360º.
+
+---
+## Senos na Circunferência
+
+> Ângulos suplementares: quando somados resultam em 180º
+
+Para descobrir o seno de um ângulo suplementar, na circunferência, basta conhecer os senos dos ãngulos notáveis
+(30º, 45º, 90º) e realizar a seguinte operação:
+
+180º - ângulo suplementar = ângulo notável
+
+Exemplo:<br>
+Qual o seno de 150º ?
+Sabendo que 150º está no segundo quadrante, então o seno será positivo.<br>
+Agora, fazemos: 180º - 150º = 30º<br>
+Logo, sen 150º = sen 30º<br>
+Portanto, sen 150º = 1/2
+
+---
+## Cossenos na Circunferência
+
+A mesma lógica serve para encontrar cossenos de ângulos suplementares aos ângulos notáveis. Porém,
+o sinal do cosseno é invertido.<br>
+
+Veja:<br>
+Qual o cosseno de 135º?<br>
+O ângulo de 135º está no segundo quadrante, logo seu cosseno será negativo.<br>
+180º - 135º = 45º<br>
+Portanto, cos 135º = - cos 45º<br>
+Desse modo, cos 135º = - √2/2
