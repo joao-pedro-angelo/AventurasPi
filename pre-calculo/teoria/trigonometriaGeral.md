@@ -32,18 +32,18 @@ O raio é 'r'.<br>
 ### Radianos
 
 A medida utilizada no cálculo da medida de arcos, é o radiano.<br>
-Lembre que a medida de um arco é uma medida angular.
+Lembre que a medida de um arco é uma medida angular.<br>
 π rad = 180º<br>
-Para converter uma medida em graus para radiano, basta dividir o grau por 180º.
+Para converter uma medida de graus para radianos, basta dividir o grau por 180º e encontrará o seu equivalente em π rad.
 
 ### Comprimento linear do arco
 
 Para encontrar a medida linear (em cm ou m) de um arco, use a fórmula:
 
-l = alpha * r<br>
-l = comprimento<br>
-alpha = medida do arco, em radianos<br>
-r = raio, em cm ou m<br>
+L = alpha * r<br>
+> L = comprimento<br>
+> alpha = medida do arco, em radianos<br>
+> r = raio, em cm ou m<br>
 
 O comprimento total da circunferência é calculado por *2 * π * raio*
 
@@ -52,7 +52,10 @@ O comprimento total da circunferência é calculado por *2 * π * raio*
 Sabendo que o raio da circunferência abaixo é 4cm e a medida do arco AÔB é 1/6 pi rad, calcule o comprimento do arco.
 ![circunExComprimento](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/circunExComprimento.png)
 
-l = 1/6 pi rad * 4cm = 4/6 pi rad
+L = 1/6 pi * 4cm<br> 
+L = 4/6 π cm<br> 
+L = 2/3 π cm<br>
+> Como estamos falando do comprimento da circunferência, que é uma medida linear, utilizamos centímetros.
 
 Lembre-se, a medida do comprimento é dada em alguma unidade linear.<br>
 A medida do arco é em radianos.<br>
@@ -67,7 +70,7 @@ O raio também é em alguma unidade linear.
 
 A circunferência total tem 2πR de comprimento linear e 2π rad de medida angular.<br>
 
-Arcos côngruos são possuem a mesma medida angular. Como, por exemplo:<br>
+Arcos côngruos são arcos que possuem a mesma medida angular. Como, por exemplo:<br>
 45º, 405º, 765º...<br>
 Quando encontrar um ângulo maior que 360º, subtráia 360º quantas vezes for necessário deste arco, até que 
 ele fique menor ou igual a 360º.
@@ -77,7 +80,7 @@ ele fique menor ou igual a 360º.
 
 > Ângulos suplementares: quando somados resultam em 180º
 
-Para descobrir o seno de um ângulo suplementar, na circunferência, basta conhecer os senos dos ãngulos notáveis
+Para descobrir o seno de um ângulo suplementar, na circunferência, basta conhecer os senos dos ângulos notáveis
 (30º, 45º, 90º) e realizar a seguinte operação:
 
 180º - ângulo suplementar = ângulo notável
