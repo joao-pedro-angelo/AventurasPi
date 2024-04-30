@@ -32,6 +32,7 @@ O raio é 'r'.<br>
 ### Radianos
 
 A medida utilizada no cálculo da medida de arcos, é o radiano.<br>
+Lembre que a medida de um arco é uma medida angular.
 π rad = 180º<br>
 Para converter uma medida em graus para radiano, basta dividir o grau por 180º.
 
