@@ -1,9 +1,23 @@
 # Trigonometria
 
+## Sumário
+1. Trigonometria no triângulo retângulo
+2. Ângulos notáveis
+3. Trigonometria na circunferência
+4. Radianos
+5. Comprimento linear de um arco
+6. Circunferência trigonométrica
+7. Senos suplementares
+8. Cossenos suplementares
+9. Relação fundamental da trigonometria
+10. Secante
+11. Cossecante
+12. Cotangente
+13. Relações decorrentes da fundamental
+
+---
 ## Trigonometria no triângulo retângulo
 ![trigonometria](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/trianguloRetanguloTrigonometria.png)
-
-### Razões trigonométricas no triângulo retângulo
 
 *Seno*: Cateto oposto / Hipotenusa<br>
 *Cosseno*: Cateto adjascente / Hipotenusa<br>
@@ -47,21 +61,8 @@ L = alpha * r<br>
 > alpha = medida do arco, em radianos<br>
 > r = raio, em cm ou m<br>
 
-O comprimento total da circunferência é calculado por *2 * π * raio*
-
-### Exemplo
-
-Sabendo que o raio da circunferência abaixo é 4cm e a medida do arco AÔB é 1/6 pi rad, calcule o comprimento do arco.
-![circunExComprimento](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/circunExComprimento.png)
-
-L = 1/6 pi * 4cm<br> 
-L = 4/6 π cm<br> 
-L = 2/3 π cm<br>
-> Como estamos falando do comprimento da circunferência, que é uma medida linear, utilizamos centímetros.
-
-Lembre-se, a medida do comprimento é dada em alguma unidade linear.<br>
-A medida do arco é em radianos.<br>
-O raio também é em alguma unidade linear.
+O comprimento total da circunferência é calculado por *2 * π * raio*<br>
+A medida utilizada no comprimento deve ser uma medida linear, pois comprimento é linear.
 
 ---
 ## Circunferência Trigonométrica
@@ -78,7 +79,7 @@ Quando encontrar um ângulo maior que 360º, subtráia 360º quantas vezes for n
 ele fique menor ou igual a 360º.
 
 ---
-## Senos na Circunferência
+## Senos suplementares
 
 > Ângulos suplementares: quando somados resultam em 180º
 
@@ -95,7 +96,7 @@ Logo, sen 150º = sen 30º<br>
 Portanto, sen 150º = 1/2
 
 ---
-## Cossenos na Circunferência
+## Cossenos suplementares
 
 A mesma lógica serve para encontrar cossenos de ângulos suplementares aos ângulos notáveis. Porém,
 o sinal do cosseno é invertido.<br>
