@@ -29,14 +29,16 @@ A medida de um arco diz respeito ao ângulo formado pelo mesmo.<br>
 O comprimento de um arco é a distância linear, não angular.<br>
 O raio é 'r'.<br>
 
-### Radianos
+---
+## Radianos
 
 A medida utilizada no cálculo da medida de arcos, é o radiano.<br>
 Lembre que a medida de um arco é uma medida angular.<br>
 π rad = 180º<br>
 Para converter uma medida de graus para radianos, basta dividir o grau por 180º e encontrará o seu equivalente em π rad.
 
-### Comprimento linear do arco
+---
+## Comprimento linear do arco
 
 Para encontrar a medida linear (em cm ou m) de um arco, use a fórmula:
 
