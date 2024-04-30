@@ -104,3 +104,6 @@ O ângulo de 135º está no segundo quadrante, logo seu cosseno será negativo.<
 180º - 135º = 45º<br>
 Portanto, cos 135º = - cos 45º<br>
 Desse modo, cos 135º = - √2/2
+
+---
+## Relação Fundamental da Trigonometria
