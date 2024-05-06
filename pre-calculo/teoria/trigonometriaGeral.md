@@ -10,9 +10,10 @@
 7. Senos suplementares
 8. Cossenos suplementares
 9. Relação fundamental da trigonometria
-10. Secante
-11. Cossecante
-12. Cotangente
+10. Relações decorrentes da fundamental
+11. Secante
+12. Cossecante
+13. Cotangente
 
 ---
 ## Trigonometria no triângulo retângulo
