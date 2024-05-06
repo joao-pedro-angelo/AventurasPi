@@ -118,10 +118,10 @@ sen² x + cos² x = 1
 > Fundamental: sen²x + cos²x = 1
 
 1- Divide todos os termos por sen²x e encontra:
-    1 + cotag² x = cosec² x
+    ```1 + cotag² x = cosec² x```
 
 2- Divide todos os termos por cos²x e encontra:
-    tag²x + 1 = sec²x
+    ```tag²x + 1 = sec²x```
 
 ---
 ## Secante
