@@ -13,7 +13,6 @@
 10. Secante
 11. Cossecante
 12. Cotangente
-13. Relações decorrentes da fundamental
 
 ---
 ## Trigonometria no triângulo retângulo
@@ -110,3 +109,31 @@ Desse modo, cos 135º = - √2/2
 
 ---
 ## Relação Fundamental da Trigonometria
+
+sen² x + cos² x = 1
+
+---
+## Relações Decorrentes da Fundamental
+
+> Fundamental: sen²x + cos²x = 1
+
+1- Divide todos os termos por sen²x e encontra:
+    1 + cotag² x = cosec² x
+
+2- Divide todos os termos por cos²x e encontra:
+    tag²x + 1 = sec²x
+
+---
+## Secante
+
+É o inverso do cosseno.
+
+---
+## Cossecante
+
+É o inverso do seno.
+
+---
+## Cotangente
+
+É o inverso da tangente.
