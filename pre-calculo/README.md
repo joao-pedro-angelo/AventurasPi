@@ -32,4 +32,3 @@
 1. **[Conceitos gerais](teoria/trigonometriaGeral.md)**
 2. **[Playlist - Funções trigonométricas](https://www.youtube.com/playlist?list=PLTLS-I2PnyJi4Biu481NVdOL0GhvY8J0d)**
 3. **[Playlist - Trigonometria](https://www.youtube.com/playlist?list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo)**
-4. **[Exercícios em PDF]**
