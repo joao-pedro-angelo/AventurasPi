@@ -5,8 +5,8 @@
 ---
 ## Primeiro estágio - Limites
 
-1. **[O que são Limites?]**
-2. **[Gráficos]**
+1. **[O que são Limites?](teoria/definicaoLimites.md)**
+2. **[Gráficos](teoria/limitesGraficos.md)**
 3. **[Propriedades]**
 4. **[Teorema do confronto]**
 5. **[Indeterminação]**
