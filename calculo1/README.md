@@ -8,7 +8,7 @@
 1. **[O que são Limites?](teoria/definicaoLimites.md)**
 2. **[Gráficos](teoria/limitesGraficos.md)**
 3. **[Propriedades](teoria/propriedadesLimites.md)**
-4. **[Teorema do confronto]**
+4. **[Teorema do confronto](teoria/teoremaConfronto.md)**
 5. **[Indeterminação]**
 6. **[Limites laterais]**
 7. **[Limites no infinito]**
