@@ -5,6 +5,8 @@
 ---
 ## Primeiro estágio - Limites
 
+Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%201%20-%20Limite%20e%20continuidade.pdf)
+
 1. **[O que são Limites?](teoria/definicaoLimites.md)**
 2. **[Gráficos](teoria/limitesGraficos.md)**
 3. **[Propriedades](teoria/propriedadesLimites.md)**
