@@ -10,9 +10,16 @@ Para que lim f(x) exista, é necessário que ambos os limites laterais sejam igu
 
 Alguns exercícios típicos deste tópico:
 
-a) Analisar o limite de uma função por meio de gráficos.
+```a) Analisar o limite de uma função por meio de gráficos.```
 
-b) <br>f(x) = x, se x >= 1 
-   <br>f(x) = -x, se x < 1
+```b) f(x) = x, se x >= 1```
+   ```f(x) = -x, se x < 1```
 
-   Dado isso, calcule os limites laterais de f(x) com x tendendo a 1 e diga se existe o limite. 
+---
+### Exemplo
+
+![exemplo](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limitesLateraisEx.png)
+
+No exemplo acima, os limites laterais foram diferentes, então não há o limite.
+
+Veja que o método utilizado para encontrar o limite lateral é a substituição, bastando adicionar o expoente ⁺ ou ⁻
