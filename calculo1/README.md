@@ -11,7 +11,7 @@ Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedr
 2. **[Gráficos](teoria/limitesGraficos.md)**
 3. **[Propriedades](teoria/propriedadesLimites.md)**
 4. **[Teorema do confronto](teoria/teoremaConfronto.md)**
-5. **[Indeterminação]**
+5. **[Indeterminação](teoria/indeterminacao.md)**
 6. **[Limites laterais]**
 7. **[Limites no infinito]**
 8. **[Assíntotas]**
