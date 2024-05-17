@@ -16,3 +16,5 @@ Exemplos de artifícios algébricos costumeiramente utilizados:<br>
 É importante praticar para se acostumar com essas manipulações algébricas.
 Recomendo a lista de exercícios que está neste repositório:<br>
 [lista de exercícios](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%201%20-%20Limite%20e%20continuidade.pdf)
+
+[Aula no youtube sobre o assunto](https://youtu.be/BCoHH-cCy-g?list=PLTPg64KdGgYhACfQUtMf3CuhWOfLoTf_a)
