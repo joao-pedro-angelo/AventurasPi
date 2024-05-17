@@ -3,7 +3,7 @@
 > Playlist recomendada: https://www.youtube.com/playlist?list=PLTPg64KdGgYhACfQUtMf3CuhWOfLoTf_a
 
 ---
-## Primeiro estágio - Limites
+## Primeiro estágio - Limites e Continuidade
 
 Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%201%20-%20Limite%20e%20continuidade.pdf)
 
@@ -12,11 +12,13 @@ Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedr
 3. **[Propriedades](teoria/propriedadesLimites.md)**
 4. **[Teorema do confronto](teoria/teoremaConfronto.md)**
 5. **[Indeterminação](teoria/indeterminacao.md)**
-6. **[Limites laterais]**
+6. **[Limites laterais](teoria/limitesLaterais.md)**
 7. **[Limites no infinito]**
 8. **[Assíntotas]**
 9. **[Limites trigonométricos]**
 10. **[Limites exponenciais]**
+11. **[Continuidade de um ponto]**
+12. **[Teorema do valor intermediário]**
 
 ---
 ## Segundo estágio - Derivadas
