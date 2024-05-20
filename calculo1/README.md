@@ -13,10 +13,10 @@ Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedr
 4. **[Teorema do confronto](teoria/teoremaConfronto.md)**
 5. **[Indeterminação](teoria/indeterminacao.md)**
 6. **[Limites laterais](teoria/limitesLaterais.md)**
-7. **[Limites no infinito]**
-8. **[Assíntotas]**
-9. **[Limites trigonométricos]**
-10. **[Limites exponenciais]**
+7. **[Limites tendendo ao infinito](teoria/limitesTendendoAoInfinito.md)**
+8. **[Limites infinitos](teoria/limitesInfinitos.md)**
+9. **[Assíntotas]**
+10. **[Limites trigonométricos]**
 11. **[Continuidade de um ponto]**
 12. **[Teorema do valor intermediário]**
 
