@@ -15,3 +15,5 @@ Assim, por meio desses dois teoremas, conseguimos calcular o resultado de limite
 
 Quando tivermos uma função racional, basta dividir todos os termos da função pelo termo de maior grau do denominador.<br>
 O resultado encontrado será uma constante, ou zero, ou +infinito ou -infinito.
+
+[Vídeo com exercícios](https://youtu.be/MKms8CesZn8?si=9Bh84DqQT1GtQjiQ)
