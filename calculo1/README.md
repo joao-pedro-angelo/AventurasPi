@@ -17,8 +17,8 @@ Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedr
 8. **[Limites infinitos](teoria/limitesInfinitos.md)**
 9. **[Assíntotas](teoria/assintotas.md)**
 10. **[Limites trigonométricos]**
-11. **[Continuidade de um ponto]**
-12. **[Teorema do valor intermediário]**
+11. **[Continuidade de um ponto](teoria/continuidade.md)**
+12. **[Teorema do valor intermediário](teoria/teoremaIntermediario.md)**
 
 ---
 ## Segundo estágio - Derivadas
