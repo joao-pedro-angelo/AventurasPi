@@ -15,7 +15,7 @@ Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedr
 6. **[Limites laterais](teoria/limitesLaterais.md)**
 7. **[Limites tendendo ao infinito](teoria/limitesTendendoAoInfinito.md)**
 8. **[Limites infinitos](teoria/limitesInfinitos.md)**
-9. **[Assíntotas]**
+9. **[Assíntotas](teoria/assintotas.md)**
 10. **[Limites trigonométricos]**
 11. **[Continuidade de um ponto]**
 12. **[Teorema do valor intermediário]**
