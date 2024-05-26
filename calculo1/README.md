@@ -33,6 +33,7 @@ Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedr
 8. **[Funções especiais]**
 9. **[Regra da potência]**
 10. **[Derivadas trigonométricas]**
+11. **[Derivação Logarítmica]**
 
 ---
 ## Terceiro estágio - Integrais
