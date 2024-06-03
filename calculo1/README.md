@@ -23,10 +23,11 @@ Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedr
 ---
 ## Segundo estágio - Derivadas
 
+Exercícios: [Lista - Derivadas](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%202%20-%20Derivadas.pdf)
+
 1. **[Vídeo - O que são Derivadas?](https://youtu.be/4kjaMznGUnY)**
-2. **[Tabela de Derivadas](https://lilith.fisica.ufmg.br/fmecanica/exercs/int.html)**
-3. **[Vídeo - Regra da cadeia](https://youtu.be/SFYJEqLEKjI?list=PLmtT_GZAQdt-YD3msXQiJ_GMlKyOjm3XV)**
-4. **[Vídeo - Funções especiais](https://youtu.be/CqXrJxtOZhk?list=PLmtT_GZAQdt-YD3msXQiJ_GMlKyOjm3XV)**
+2. **[Tabela de Derivadas](https://www.if.ufrgs.br/tex/fisica-4/tab-integrais.pdf)**
+3. **[Vídeo - Resolvendo 40 Derivadas](https://youtu.be/W2AuEsUxSc0)**
 
 ---
 ## Terceiro estágio - Integrais
