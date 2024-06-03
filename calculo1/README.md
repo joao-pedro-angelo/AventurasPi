@@ -23,17 +23,10 @@ Exercícios: [Lista 1 - Limites e continuidade.pdf](https://github.com/joao-pedr
 ---
 ## Segundo estágio - Derivadas
 
-1. **[O que são Derivadas?]**
-2. **[Coeficiente de reta]**
-3. **[Reta tangente e reta normal]**
-4. **[Derivada de uma função]**
-5. **[Derivadas laterais e continuidade]**
-6. **[Regras de derivação]**
-7. **[Regra da cadeia]**
-8. **[Funções especiais]**
-9. **[Regra da potência]**
-10. **[Derivadas trigonométricas]**
-11. **[Derivação Logarítmica]**
+1. **[Vídeo - O que são Derivadas?](https://youtu.be/4kjaMznGUnY)**
+2. **[Tabela de Derivadas](https://lilith.fisica.ufmg.br/fmecanica/exercs/int.html)**
+3. **[Vídeo - Regra da cadeia](https://youtu.be/SFYJEqLEKjI?list=PLmtT_GZAQdt-YD3msXQiJ_GMlKyOjm3XV)**
+4. **[Vídeo - Funções especiais](https://youtu.be/CqXrJxtOZhk?list=PLmtT_GZAQdt-YD3msXQiJ_GMlKyOjm3XV)**
 
 ---
 ## Terceiro estágio - Integrais
