@@ -23,6 +23,9 @@ Exercícios: [Lista - Limites e continuidade.pdf](https://github.com/joao-pedro-
 ---
 ## Segundo estágio - Derivadas
 
+> Inseri apenas os conteúdos essenciais de Derivadas.<br>
+> Caso deseje aprofundar, há esta playlist: [Playlist - Derivadas](https://www.youtube.com/playlist?list=PLmtT_GZAQdt-YD3msXQiJ_GMlKyOjm3XV)
+
 Exercícios: [Lista - Derivadas](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%202%20-%20Derivadas.pdf)
 
 1. **[Vídeo - O que são Derivadas?](https://youtu.be/4kjaMznGUnY)**
