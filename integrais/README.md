@@ -7,7 +7,7 @@
 
 0. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/DerivadasComuns.png)**
 1. **[Primitivas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/PrimitivasComuns.png)**
-2. **[O que são Integrais?]**
+2. **[O que são Integrais?](teoria/IntegraisIntroducao.md)**
 3. **[Tabela de Integrais Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegraisComuns.png)**
 4. **[Propriedades]**
 5. **[Teorema fundamental do Cálculo]**
