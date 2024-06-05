@@ -5,12 +5,14 @@
 ---
 ## Básico sobre integrais
 
-1. **[Primitivas]**
+0. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/DerivadasComuns.png)**
+1. **[Primitivas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/PrimitivasComuns.png)**
 2. **[O que são Integrais?]**
-3. **[Propriedades]**
-4. **[Teorema fundamental do Cálculo]**
-5. **[Derivar uma integral]**
-6. **[Área delimitada entre curvas]**
+3. **[Tabela de Integrais Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegraisComuns.png)**
+4. **[Propriedades]**
+5. **[Teorema fundamental do Cálculo]**
+6. **[Derivar uma integral]**
+7. **[Área delimitada entre curvas]**
 
 ---
 ## Métodos de integração
