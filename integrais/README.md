@@ -9,10 +9,11 @@
 1. **[Primitivas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/PrimitivasComuns.png)**
 2. **[O que são Integrais?](teoria/IntegraisIntroducao.md)**
 3. **[Tabela de Integrais Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegraisComuns.png)**
-4. **[Propriedades]**
-5. **[Teorema fundamental do Cálculo]**
-6. **[Derivar uma integral]**
-7. **[Área delimitada entre curvas]**
+4. **[Propriedades](teoria/PropriedadesIntegrais.md)**
+5. **[Sinal da Integral](teoria/SinalDaIntegral.md)**
+6. **[Teorema fundamental do Cálculo]**
+7. **[Derivar uma integral]**
+8. **[Área delimitada entre curvas]**
 
 ---
 ## Métodos de integração
