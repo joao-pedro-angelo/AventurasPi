@@ -30,7 +30,8 @@ Exercícios: [Lista - Derivadas](https://github.com/joao-pedro-angelo/AventurasP
 
 1. **[Vídeo - O que são Derivadas?](https://youtu.be/4kjaMznGUnY)**
 2. **[Tabela de Derivadas](https://www.if.ufrgs.br/tex/fisica-4/tab-integrais.pdf)**
-3. **[Vídeo - Resolvendo 40 Derivadas](https://youtu.be/W2AuEsUxSc0)**
+3. **[Regra de L'Hospital](teoria/Lhospital.md)**
+4. **[Vídeo - Resolvendo 40 Derivadas](https://youtu.be/W2AuEsUxSc0)**
 
 ---
 ## Terceiro estágio - Integrais
