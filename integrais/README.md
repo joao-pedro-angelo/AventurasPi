@@ -11,9 +11,8 @@
 3. **[Tabela de Integrais Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegraisComuns.png)**
 4. **[Propriedades](teoria/PropriedadesIntegrais.md)**
 5. **[Sinal da Integral](teoria/SinalDaIntegral.md)**
-6. **[Teorema fundamental do Cálculo]**
-7. **[Derivar uma integral]**
-8. **[Área delimitada entre curvas]**
+6. **[Teorema Fundamental do Cálculo - Derivar Integral](teoria/DerivarIntegral.md)**
+7. **[Teorema Fundamental do Cálculo - Integral Definida](teoria/IntegralDefinida.md)**
 
 ---
 ## Métodos de integração
@@ -31,7 +30,9 @@
 
 ---
 ## Áreas
-1. **[Áreas de superfícies de revolução]**
+
+1. **[Área Delimitada entre curvas]**
+2. **[Áreas de superfícies de revolução]**
 
 ---
 ## Exercícios em PDF
