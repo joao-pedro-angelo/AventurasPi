@@ -40,3 +40,4 @@
 1. [Lista 01](pdfs/IntegraisEx01.pdf)
 2. [Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)
 3. [Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)
+4. [Playlist - Resolução de Integrais Definidas](https://www.youtube.com/playlist?list=PLSP4PNEIJatVgEQUSTaSqp4D8I4ZQKcda)
