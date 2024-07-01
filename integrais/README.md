@@ -25,18 +25,6 @@
 4. **[Frações parciais]**
 
 ---
-## Integrais impróprias
-
-1. **[Integrais e infinito]**
-2. **[Funções descontínuas]**
-
----
-## Áreas
-
-1. **[Área Delimitada entre curvas]**
-2. **[Áreas de superfícies de revolução]**
-
----
 ## Exercícios em PDF
 
 1. [Lista 01](pdfs/IntegraisEx01.pdf)
