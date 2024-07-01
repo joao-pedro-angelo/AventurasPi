@@ -19,10 +19,10 @@
 ---
 ## Métodos de integração
 
-1. **[Playlist - Substituição simples](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
-2. **[Integral por partes]**
-3. **[Integrais trigonométricas]**
-4. **[Frações parciais]**
+1. **[Playlist - Substituição Simples](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
+2. **[Integral por Partes]**
+3. **[Integrais Trigonométricas]**
+4. **[Frações Parciais]**
 
 ---
 ## Exercícios em PDF
