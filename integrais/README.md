@@ -6,6 +6,8 @@
 ---
 ## Básico sobre integrais
 
+> Os conteúdos abaixo servem como estudo para o 3º estágio de Cálculo 1.
+
 0. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/DerivadasComuns.png)**
 1. **[Primitivas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/PrimitivasComuns.png)**
 2. **[O que são Integrais?](teoria/IntegraisIntroducao.md)**
@@ -19,10 +21,12 @@
 ---
 ## Métodos de integração
 
-1. **[Playlist - Substituição Simples](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
-2. **[Integral por Partes]**
-3. **[Integrais Trigonométricas]**
-4. **[Frações Parciais]**
+1. **[Vídeo Explicativo - Integração por Substituição](https://youtu.be/fHom2rFJGjg)**
+2. **[Playlist de Exercícios 01](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
+3. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+4. **[Integral por Partes]**
+5. **[Integrais Trigonométricas]**
+6. **[Frações Parciais]**
 
 ---
 ## Exercícios em PDF
