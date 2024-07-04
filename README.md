@@ -5,7 +5,8 @@
 ---
 ## Guia
 
-1. **Aprimorar a matemática básica:** [Tópicos em álgebra](/algebra)
-2. **Curso pré-cálculo:** [Pré-Cálculo](/pre-calculo)
-3. **Curso cálculo 1:** [Cálculo 1](/calculo1)
-4. **Curso cálculo 2:** [Cálculo 2](/integrais)
+1. **Aprimorar a Matemática Básica:** [Tópicos em álgebra](/algebra)
+2. **Pré-Cálculo:** [Pré-Cálculo](/pre-calculo)
+3. **Cálculo 1:** [Cálculo 1](/calculo1)
+4. **Cálculo 2:** [Cálculo 2](/integrais)
+5. **Álgebra Linear:** [Álgebra Linear](/linear)
