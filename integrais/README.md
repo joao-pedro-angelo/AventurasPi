@@ -4,7 +4,7 @@
 > Canal recomendado para aprofundar o estudo sobre integrais: https://www.youtube.com/@diogodesantanagermano4263
 
 ---
-## Básico sobre integrais
+## Revisão - Básico sobre integrais
 
 > Os conteúdos abaixo servem como estudo para o 3º estágio de Cálculo 1.
 
@@ -19,7 +19,7 @@
 8. **[Playlist - Resolução de Integrais Definidas](https://www.youtube.com/playlist?list=PLSP4PNEIJatVgEQUSTaSqp4D8I4ZQKcda)**
 
 ---
-## Métodos de integração
+## 1º Estágio - Métodos de integração
 
 1. **[Vídeo Explicativo - Integração por Substituição](https://youtu.be/fHom2rFJGjg)**
 2. **[Playlist de Exercícios 01](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
