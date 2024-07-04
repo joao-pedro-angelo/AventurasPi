@@ -14,3 +14,10 @@
 7. **[Forma Escada, Posto e Nulidade]**
 8. **[Solução de Sistemas Lineares]**
 9. **[Determinantes]**
+
+---
+## Listas de Exercícios
+
+1. **[Lista - Matrizes](listas/linear1.pdf)**
+2. **[Lista - Sistemas Lineares](listas/linear2.pdf)**
+3. **[Lista - Determinantes](listas/linear3.pdf)**
