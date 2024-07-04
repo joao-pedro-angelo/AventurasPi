@@ -1,6 +1,6 @@
 # Aventuras π
 
-> Um repositório dedicado ao estudo de pré-cálculo, cálculo 1 e integrais, com materiais didáticos, exemplos resolvidos e exercícios para auxiliar na preparação para o curso universitário de Cálculo 2.<br>
+> Um repositório dedicado ao estudo de conteúdos matemáticos, com materiais didáticos e exercícios.<br>
 
 ---
 ## Guia
