@@ -8,12 +8,13 @@
 1. **[Introdução às Matrizes](teoria/introducaoMatrizes.md)**
 2. **[Tipos de Matrizes](teoria/tiposMatrizes.md)**
 3. **[Operações com Matrizes](teoria/operacoesMatrizes.md)**
-4. **[Inverter Matrizes]**
-5. **[Sistemas Lineares - Introdução]**
-6. **[Escalonamento]**
-7. **[Forma Escada, Posto e Nulidade]**
-8. **[Solução de Sistemas Lineares]**
-9. **[Determinantes]**
+4. **[Transposta, Simétrica e Antissimétrica](teoria/transpostaSimetricaAntissimetrica.md)**
+5. **[Inverter Matrizes]**
+6. **[Sistemas Lineares - Introdução]**
+7. **[Escalonamento]**
+8. **[Forma Escada, Posto e Nulidade]**
+9. **[Solução de Sistemas Lineares]**
+10. **[Determinantes]**
 
 ---
 ## Listas de Exercícios
