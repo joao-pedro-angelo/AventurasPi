@@ -11,7 +11,7 @@ Porém, há alguns links externos para vídeos e playlists do Youtube.<br>
 Quando uma palavra destacada for um link externo, uma indicação será mostrada na própria palavra.<br>
 Exemplo: **[Vídeo - ...]** **[Playlist - ...]**
 
-Caso não tenha essa indicação, o redirecionamento será para um arquivo markdown presente no próprio repositório.
+Caso não tenha essa indicação, o redirecionamento será para um arquivo *md* ou *pdf* presente no próprio repositório.
 
 ---
 ## Guia
