@@ -6,8 +6,8 @@
 ## Sobre Links Externos
 
 A maior parte dos conteúdos do **Aventuras π** está presente no próprio repositório.<br>
-
 Porém, há alguns links externos para vídeos e playlists do Youtube.<br>
+
 Quando uma palavra destacada for um link externo, uma indicação será mostrada na própria palavra.<br>
 Exemplo: **[Vídeo - ...]** **[Playlist - ...]**
 
