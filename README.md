@@ -3,7 +3,7 @@
 > Um repositório dedicado ao estudo de conteúdos matemáticos, com materiais didáticos e exercícios.<br>
 
 ---
-## Aviso sobre Links Externos
+## Sobre Links Externos
 
 A maior parte dos conteúdos do **Aventuras π**, está presente no próprio repositório.<br>
 Porém, há alguns links externos para vídeos e playlists do Youtube.<br>
