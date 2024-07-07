@@ -24,9 +24,10 @@
 1. **[Vídeo Explicativo - Integração por Substituição](https://youtu.be/fHom2rFJGjg)**
 2. **[Playlist de Exercícios 01](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
 3. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
-4. **[Integral por Partes]**
-5. **[Integrais Trigonométricas]**
-6. **[Frações Parciais]**
+4. **[Vídeo Explicativo - Integração por Partes](https://youtu.be/E3ZILV7ER54)**
+5. **[Vídeo de Exercícios - Integrais por Partes](https://youtu.be/YAsvuJapKjk?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+6. **[Integrais Trigonométricas]**
+7. **[Frações Parciais]**
 
 ---
 ## Exercícios em PDF
