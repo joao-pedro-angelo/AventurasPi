@@ -1,12 +1,12 @@
 # Integrais
 
-> Playlist recomendada: https://www.youtube.com/playlist?list=PLmtT_GZAQdt9FlOiqZvTdEHFmjZm4qPJR<br><br>
 > Canal recomendado para aprofundar o estudo sobre integrais: https://www.youtube.com/@diogodesantanagermano4263
 
 ---
 ## Revisão - Básico sobre integrais
 
-> Os conteúdos abaixo servem como estudo para o 3º estágio de Cálculo 1.
+> Os conteúdos abaixo servem como estudo para o 3º estágio de Cálculo 1.<br><br>
+> Playlist recomendada: https://www.youtube.com/playlist?list=PLmtT_GZAQdt9FlOiqZvTdEHFmjZm4qPJR
 
 0. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/DerivadasComuns.png)**
 1. **[Primitivas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/PrimitivasComuns.png)**
