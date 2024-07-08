@@ -7,7 +7,7 @@
 
 > Os conteúdos abaixo servem como estudo para o 3º estágio de Cálculo 1.<br>
 
-0. **[Playlist Recomendada](https://www.youtube.com/playlist?list=PLmtT_GZAQdt9FlOiqZvTdEHFmjZm4qPJR)** 
+0. **[Playlist - Básico sobre Integrais](https://www.youtube.com/playlist?list=PLmtT_GZAQdt9FlOiqZvTdEHFmjZm4qPJR)** 
 1. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/DerivadasComuns.png)**
 2. **[Primitivas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/PrimitivasComuns.png)**
 3. **[O que são Integrais?](teoria/IntegraisIntroducao.md)**
