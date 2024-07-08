@@ -29,9 +29,15 @@
 5. **[Frações Parciais]**
 
 ---
-## Exercícios em PDF
+## Listas de Exercícios
 
-1. [Lista de Revisão](pdfs/IntegraisEx01.pdf)
-2. [Lista do 1º Estágio](pdfs/Lista1.pdf)
-3. [Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)
-4. [Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)
+1. **[Lista de Revisão](pdfs/IntegraisEx01.pdf)**
+2. **[Lista do 1º Estágio](pdfs/Lista1.pdf)**
+3. **[Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)**
+4. **[Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)**
+
+---
+## Exercícios Resolvidos
+
+1. **[Integrais por Substituição]**
+2. **[Integrais por Partes]**
