@@ -31,7 +31,8 @@
 ---
 ## Exercícios em PDF
 
-1. [Lista 01](pdfs/IntegraisEx01.pdf)
-2. [Questões Resolvidas - Integral por Substituição](pdfs/ExSubstituicaoSimples.pdf)
-3. [Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)
-4. [Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)
+1. [Lista de Revisão](pdfs/IntegraisEx01.pdf)
+2. [Lista do 1º Estágio](pdfs/Lista1.pdf)
+3. [Questões Resolvidas - Integral por Substituição](pdfs/ExSubstituicaoSimples.pdf)
+4. [Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)
+5. [Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)
