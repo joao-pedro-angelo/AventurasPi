@@ -1,6 +1,9 @@
-## Teoria
+# Tópicos em Álgebra
 
 > Playlist recomendada: https://www.youtube.com/playlist?list=PLEfwqyY2ox858I4pyFQas8vqz4Vc7eTju
+
+---
+## Teoria
 
 1. [**Operações Elementares**](teoria/OperaçõesElementares.md)
 2. [**Frações**](teoria/Frações.md)
@@ -12,7 +15,6 @@
 8. [**Dízima Periódica**](teoria/DízimaPeriódica.md)
 
 ---
-
-## Exercícios em pdf
+## Exercícios
 
 1. [**Lista exercícios - Mat. Básica**](pdfs/matBasicaExerc.pdf)
