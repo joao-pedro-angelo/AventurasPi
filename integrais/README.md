@@ -39,5 +39,5 @@
 ---
 ## Exercícios Resolvidos
 
-1. **[Integrais por Substituição]**
+1. **[Integrais por Substituição](pdfs/ExResolvidosIntegralSubst.pdf)**
 2. **[Integrais por Partes]**
