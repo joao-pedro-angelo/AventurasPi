@@ -5,8 +5,6 @@
 ---
 ## Primeiro estágio - Limites e Continuidade
 
-Exercícios: [Lista - Limites e continuidade.pdf](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%201%20-%20Limite%20e%20continuidade.pdf)
-
 1. **[O que são Limites?](teoria/definicaoLimites.md)**
 2. **[Gráficos](teoria/limitesGraficos.md)**
 3. **[Propriedades](teoria/propriedadesLimites.md)**
@@ -26,8 +24,6 @@ Exercícios: [Lista - Limites e continuidade.pdf](https://github.com/joao-pedro-
 > Inseri apenas os conteúdos essenciais de Derivadas.<br>
 > Caso deseje aprofundar, há esta playlist: [Playlist - Derivadas](https://www.youtube.com/playlist?list=PLmtT_GZAQdt-YD3msXQiJ_GMlKyOjm3XV)
 
-Exercícios: [Lista - Derivadas](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%202%20-%20Derivadas.pdf)
-
 1. **[Vídeo - O que são Derivadas?](https://youtu.be/4kjaMznGUnY)**
 2. **[Tabela de Derivadas](https://www.if.ufrgs.br/tex/fisica-4/tab-integrais.pdf)**
 3. **[Regra de L'Hospital](teoria/Lhospital.md)**
@@ -38,3 +34,9 @@ Exercícios: [Lista - Derivadas](https://github.com/joao-pedro-angelo/AventurasP
 
 > Há um diretório apenas para integrais neste repositório, veja:<br>
 [Integrais](https://github.com/joao-pedro-angelo/AventurasPi/tree/main/integrais)
+
+---
+## Listas de Exercícios
+
+1. **[Lista - Limites e continuidade.pdf](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%201%20-%20Limite%20e%20continuidade.pdf)**
+2. **[Lista - Derivadas](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/Lista%202%20-%20Derivadas.pdf)**
