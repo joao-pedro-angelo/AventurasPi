@@ -7,16 +7,14 @@
 
 > Os conteúdos abaixo servem como estudo para o 3º estágio de Cálculo 1.<br>
 
-0. **[Playlist - Básico sobre Integrais](https://www.youtube.com/playlist?list=PLmtT_GZAQdt9FlOiqZvTdEHFmjZm4qPJR)** 
-1. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/DerivadasComuns.png)**
-2. **[Primitivas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/PrimitivasComuns.png)**
-3. **[O que são Integrais?](teoria/IntegraisIntroducao.md)**
-4. **[Tabela de Integrais Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegraisComuns.png)**
-5. **[Propriedades](teoria/PropriedadesIntegrais.md)**
-6. **[Sinal da Integral](teoria/SinalDaIntegral.md)**
-7. **[Teorema Fundamental do Cálculo - Derivar Integral](teoria/DerivarIntegral.md)**
-8. **[Teorema Fundamental do Cálculo - Integral Definida](teoria/IntegralDefinida.md)**
-9. **[Playlist - Resolução de Integrais Definidas](https://www.youtube.com/playlist?list=PLSP4PNEIJatVgEQUSTaSqp4D8I4ZQKcda)**
+1. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/tabelaDerivadas.pdf)**
+2. **[O que são Integrais?](teoria/IntegraisIntroducao.md)**
+3. **[Tabela de Integrais Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegraisComuns.png)**
+4. **[Propriedades](teoria/PropriedadesIntegrais.md)**
+5. **[Sinal da Integral](teoria/SinalDaIntegral.md)**
+6. **[Teorema Fundamental do Cálculo - Derivar Integral](teoria/DerivarIntegral.md)**
+7. **[Teorema Fundamental do Cálculo - Integral Definida](teoria/IntegralDefinida.md)**
+8. **[Playlist - Resolução de Integrais Definidas](https://www.youtube.com/playlist?list=PLSP4PNEIJatVgEQUSTaSqp4D8I4ZQKcda)**
 
 ---
 ## 1º Estágio - Métodos de integração
