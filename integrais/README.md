@@ -19,23 +19,41 @@
 ---
 ## 1º Estágio - Métodos de integração
 
-0. **[Playlist de Exercícios 01](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
-1. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
-2. **[Vídeo Explicativo - Integração por Substituição](https://youtu.be/fHom2rFJGjg)**
-3. **[Vídeo Explicativo - Integração por Partes](https://youtu.be/E3ZILV7ER54)**
-4. **[Integrais Trigonométricas]**
-5. **[Frações Parciais]**
+1. **[Playlist de Exercícios 01](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
+2. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+3. **[Vídeo Explicativo - Integração por Substituição](https://youtu.be/fHom2rFJGjg)**
+4. **[Vídeo Explicativo - Integração por Partes](https://youtu.be/E3ZILV7ER54)**
+5. **[Integrais Trigonométricas]**
+6. **[Frações Parciais]**
+
+---
+## 2º Estágio 
+
+---
+## 3º Estágio
 
 ---
 ## Listas de Exercícios
 
+#### 1º Estágio
 1. **[Lista de Revisão](pdfs/IntegraisEx01.pdf)**
 2. **[Lista do 1º Estágio](pdfs/Lista1.pdf)**
 3. **[Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)**
 4. **[Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)**
 
+#### 2º Estágio
+
+#### 3º Estágio
+
 ---
 ## Exercícios Resolvidos
 
+#### 1º Estágio
 1. **[Integrais por Substituição](pdfs/ExResolvidosIntegralSubst.pdf)**
-2. **[Integrais por Partes]**
+2. **[Integrais por Partes](pdfs/IntegraisPorPartesExerciciosResolvidos.pdf)**
+3. **[Integrais Trigonométricas]**
+4. **[Integrais Avançadas]**
+
+#### 2º Estágio
+
+#### 3º Estágio
