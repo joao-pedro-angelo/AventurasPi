@@ -8,7 +8,6 @@
 1. **[Conjuntos numéricos](teoria/conjuntosTeoria.md)**
 2. **[Polinômios](teoria/polinômios.md)**
 3. **[Playlist - Polinômios](https://www.youtube.com/playlist?list=PLEfwqyY2ox84iIVoCHP8JjObsXQtVjh2k)**
-4. **[Exercícios em PDF](teoria/pdf/polinômiosEx.pdf)**
 
 ---
 ## Funções
@@ -31,3 +30,8 @@
 
 1. **[Conceitos gerais](teoria/trigonometriaGeral.md)**
 2. **[Playlist - Trigonometria](https://www.youtube.com/playlist?list=PLEfwqyY2ox86JU-fviQa08fMH67W6oAKo)**
+
+---
+## Listas de Exercícios
+
+1. **[Exercícios em PDF sobre Polinômios](teoria/pdf/polinômiosEx.pdf)**
