@@ -9,7 +9,7 @@
 
 1. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/tabelaDerivadas.pdf)**
 2. **[O que são Integrais?](teoria/IntegraisIntroducao.md)**
-3. **[Tabela de Integrais Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegraisComuns.png)**
+3. **[Tabela de Integrais Comuns](pdfs/tabelaIntegrais.pdf)**
 4. **[Propriedades](teoria/PropriedadesIntegrais.md)**
 5. **[Sinal da Integral](teoria/SinalDaIntegral.md)**
 6. **[Teorema Fundamental do Cálculo - Derivar Integral](teoria/DerivarIntegral.md)**
