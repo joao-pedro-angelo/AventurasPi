@@ -35,25 +35,15 @@
 ---
 ## Listas de Exercícios
 
-#### 1º Estágio
-1. **[Lista de Revisão](pdfs/IntegraisEx01.pdf)**
-2. **[Lista do 1º Estágio](pdfs/Lista1.pdf)**
+1. **[Lista de Revisão sobre Integrais Básicas](pdfs/IntegraisEx01.pdf)**
+2. **[Lista sobre Técnicas de Integração](pdfs/Lista1.pdf)**
 3. **[Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)**
 4. **[Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)**
-
-#### 2º Estágio
-
-#### 3º Estágio
 
 ---
 ## Exercícios Resolvidos
 
-#### 1º Estágio
-1. **[Integrais por Substituição](pdfs/ExResolvidosIntegralSubst.pdf)**
-2. **[Integrais por Partes](pdfs/IntegraisPorPartesExerciciosResolvidos.pdf)**
-3. **[Integrais Trigonométricas]**
-4. **[Integrais Avançadas]**
-
-#### 2º Estágio
-
-#### 3º Estágio
+1. **[Ex. sobre Integrais por Substituição](pdfs/ExResolvidosIntegralSubst.pdf)**
+2. **[Ex. sobre Integrais por Partes](pdfs/IntegraisPorPartesExerciciosResolvidos.pdf)**
+3. **[Ex. sobre Integrais Trigonométricas]**
+4. **[Ex. sobre Integrais Avançadas]**
