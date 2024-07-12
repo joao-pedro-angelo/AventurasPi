@@ -1,4 +1,4 @@
-# Integrais com potência de Senos
+# Integrais com potências de Senos
 
 > Vídeo: https://youtu.be/FtJGJmKTkrI
 
