@@ -24,7 +24,8 @@
 3. **[Vídeo Explicativo - Integração por Substituição](https://youtu.be/fHom2rFJGjg)**
 4. **[Vídeo Explicativo - Integração por Partes](https://youtu.be/E3ZILV7ER54)**
 5. **[Integrais Trigonométricas]**
-6. **[Frações Parciais]**
+6. **[Integração de Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
+7. **[Frações Parciais]**
 
 ---
 ## 2º Estágio 
