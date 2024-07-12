@@ -22,9 +22,9 @@
 1. **[Integração por Substituição](pdfs/Metodo-da-substituicao.pdf)**
 2. **[Integração por Partes](pdfs/Integracao-por-partes.pdf)**
 3. **[Integrais Trigonométricas](pdfs/integraistrigonometricas.pdf)**
-4. **[Integração do Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
-5. **[Integrais da Função Cosseno elevada a um inteiro](teoria/CossenoCasosEspeciaisDeIntegrais.md)**
-6. **[Integrais da Função Seno elevada a um inteiro](teoria/SenoCasosEspeciaisDeIntegrais.md)**
+4. **[Integrais de Potências da Função Cosseno](teoria/CossenoCasosEspeciaisDeIntegrais.md)**
+5. **[Integrais de Potências da Função Seno](teoria/SenoCasosEspeciaisDeIntegrais.md)**
+6. **[Integrais do Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
 7. **[Frações Parciais]**
 8. **[Playlist de Exercícios](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
 
