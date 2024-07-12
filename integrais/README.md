@@ -21,9 +21,9 @@
 
 1. **[Playlist de Exercícios 01](https://www.youtube.com/watch?v=wUspP1YBE5E&list=PLSP4PNEIJatWzWppVTkcpW-1xsIlSDGvI&pp=iAQB)**
 2. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
-3. **[Vídeo Explicativo - Integração por Substituição](https://youtu.be/fHom2rFJGjg)**
-4. **[Vídeo Explicativo - Integração por Partes](https://youtu.be/E3ZILV7ER54)**
-5. **[Integrais Trigonométricas]**
+3. **[Integração por Substituição](pdfs/Metodo-da-substituicao.pdf)**
+4. **[Integração por Partes](pdfs/Integracao-por-partes.pdf)**
+5. **[Integrais Trigonométricas](pdfs/integraistrigonometricas.pdf)**
 6. **[Integração de Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
 7. **[Frações Parciais]**
 
