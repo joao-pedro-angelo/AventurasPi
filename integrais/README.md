@@ -24,8 +24,9 @@
 3. **[Integrais Trigonométricas](pdfs/integraistrigonometricas.pdf)**
 4. **[Integração do Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
 5. **[Integrais da Função Cosseno elevada a um inteiro](teoria/CossenoCasosEspeciaisDeIntegrais.md)**
-6. **[Frações Parciais]**
-7. **[Playlist de Exercícios](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+6. **[Integrais da Função Seno elevada a um inteiro](teoria/SenoCasosEspeciaisDeIntegrais.md)**
+7. **[Frações Parciais]**
+8. **[Playlist de Exercícios](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
 
 ---
 ## 2º Estágio 
