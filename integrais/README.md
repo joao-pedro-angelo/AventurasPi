@@ -22,9 +22,10 @@
 1. **[Integração por Substituição](pdfs/Metodo-da-substituicao.pdf)**
 2. **[Integração por Partes](pdfs/Integracao-por-partes.pdf)**
 3. **[Integrais Trigonométricas](pdfs/integraistrigonometricas.pdf)**
-4. **[Integração de Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
-5. **[Frações Parciais]**
-6. **[Playlist de Exercícios](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+4. **[Integração do Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
+5. **[Integrais da Função Cosseno elevada a um inteiro](teoria/CossenoCasosEspeciaisDeIntegrais.md)**
+6. **[Frações Parciais]**
+7. **[Playlist de Exercícios](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
 
 ---
 ## 2º Estágio 
