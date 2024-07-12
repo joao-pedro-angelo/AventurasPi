@@ -1,6 +1,6 @@
 # Integrais com Cosseno
 
-> Lembre que a integral do cosseno de x é seno de x
+> Vídeo: https://youtu.be/FtJGJmKTkrI<br>
 
 ## Cosseno elevado a um inteiro par
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno01.png)<br>
