@@ -21,10 +21,10 @@
 
 1. **[Integração por Substituição](pdfs/Metodo-da-substituicao.pdf)**
 2. **[Integração por Partes](pdfs/Integracao-por-partes.pdf)**
-3. **[Integrais Trigonométricas](pdfs/integraistrigonometricas.pdf)**
-4. **[Integrais de Potências da Função Cosseno](teoria/CossenoCasosEspeciaisDeIntegrais.md)**
-5. **[Integrais de Potências da Função Seno](teoria/SenoCasosEspeciaisDeIntegrais.md)**
-6. **[Integrais do Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
+3. **[Integrais de Potências da Função Cosseno](teoria/CossenoCasosEspeciaisDeIntegrais.md)**
+4. **[Integrais de Potências da Função Seno](teoria/SenoCasosEspeciaisDeIntegrais.md)**
+5. **[Integrais do Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
+6. **[Mais algumas Integrais Trigonométricas](pdfs/integraistrigonometricas.pdf)**
 7. **[Frações Parciais]**
 8. **[Playlist de Exercícios](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
 
