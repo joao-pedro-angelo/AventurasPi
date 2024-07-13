@@ -1,6 +1,6 @@
 ## Transposta
 
-As colunas de uma matriz, viram as linhas de outra e vice-versa.
+As colunas de uma matriz, viram as linhas da outra e vice-versa.
 
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/matrizTransposta.png)
 
