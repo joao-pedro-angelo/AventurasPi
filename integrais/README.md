@@ -48,5 +48,5 @@
 
 1. **[Ex. sobre Integrais por Substituição](pdfs/ExResolvidosIntegralSubst.pdf)**
 2. **[Ex. sobre Integrais por Partes](pdfs/IntegraisPorPartesExerciciosResolvidos.pdf)**
-3. **[Exercícios com Integrais envolvendo Seno e Cosseno](pdfs/ExSenoCossenoIntegrais.pdf)**
+3. **[Exercícios com Integrais Trigonométricas](pdfs/ExSenoCossenoIntegrais.pdf)**
 4. **[Ex. sobre Integrais Avançadas]**
