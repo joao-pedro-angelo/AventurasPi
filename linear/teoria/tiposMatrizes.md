@@ -11,8 +11,8 @@ Mesmo número de linhas e de colunas.
 Apenas matrizes quadradas possuem diagonal.
 
 A ordem de uma matriz é a quantidade de linhas e colunas que ela possui.<br>
-Normalmente, identificados a ordem de uma matriz com 2 números naturais, MxN.<br>
-No caso das matrizes quadradas, como M = N, então basta um número natural.
+Normalmente, identificamos a ordem de uma matriz com 2 números naturais, M x N.<br>
+No caso das matrizes quadradas, como M = N, basta um número natural.
 
 ---
 ## Matriz Nula
@@ -65,7 +65,7 @@ Não importa o valor dos outros elementos, o importante são os elementos acima 
 ---
 ## Matriz Simétrica
 
-A diagonal da matriz atua como um espelho, na matriz simétrica.
+A diagonal da matriz simétrica atua como um espelho.
 
 ![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/matrizSimetrica.png)
 
@@ -75,3 +75,8 @@ A diagonal da matriz atua como um espelho, na matriz simétrica.
 É a matriz cujo os elementos são multiplicados por -1. Não confunda com matriz inversa.
 
 ![img08](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/matrizOposta.png)
+
+---
+## Matriz Linha Equivalente
+
+São matrizes que, por meio de operações elementares em suas linhas, podem se tornar a mesma matriz.
