@@ -9,7 +9,7 @@
 2. **[Tipos de Matrizes](teoria/tiposMatrizes.md)**
 3. **[Operações com Matrizes](teoria/operacoesMatrizes.md)**
 4. **[Transposta, Simétrica e Antissimétrica](teoria/transpostaSimetricaAntissimetrica.md)**
-5. **[Forma Escada, Posto e Nulidade]**
+5. **[Forma Escada, Posto e Nulidade](teoria/formaEscadaPostoNulidade.md)**
 6. **[Inverter Matrizes]**
 7. **[Sistemas Lineares - Introdução]**
 8. **[Solução de Sistemas Lineares]**
