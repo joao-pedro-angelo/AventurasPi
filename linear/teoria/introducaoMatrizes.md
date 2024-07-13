@@ -3,7 +3,7 @@
 ---
 ## O que são Matrizes?
 
-Sendo *M*, *N* pertencente aos naturais positivos, definimos uma matriz *MxN* como sendo uma tabela de *M linhas e N colunas*,
+Sendo *M*, *N* pertencentes aos naturais positivos, definimos uma matriz *M x N* como sendo uma tabela de *M linhas e N colunas*,
 que é preenchida por números.
 
 ---
