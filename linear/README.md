@@ -10,7 +10,7 @@
 3. **[Operações com Matrizes](teoria/operacoesMatrizes.md)**
 4. **[Transposta, Simétrica e Antissimétrica](teoria/transpostaSimetricaAntissimetrica.md)**
 5. **[Forma Escada, Posto e Nulidade](teoria/formaEscadaPostoNulidade.md)**
-6. **[Inverter Matrizes](teoria/matrizes_inversas.pdf)**
+6. **[Inverter Matrizes](listas/matrizes_inversas.pdf)**
 7. **[Sistemas Lineares - Introdução](teoria/SistemasLineares.pdf)**
 8. **[Solução de Sistemas Lineares](teoria/escalonamento.pdf)**
 9. **[Determinantes](teoria/Determinantes.pdf)**
