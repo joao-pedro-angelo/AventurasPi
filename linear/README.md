@@ -26,3 +26,4 @@
 ## Exercícios Resolvidos
 
 1. **[Resolução Lista - Matrizes](listas/ResolucaoLista01Linear.pdf)**
+2. **[Resolução Lista - Sistemas Lineares](listas/ResolucaoLista02Linear.pdf)**
