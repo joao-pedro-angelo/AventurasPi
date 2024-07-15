@@ -16,6 +16,12 @@
 9. **[Determinantes](teoria/Determinantes.pdf)**
 
 ---
+## 2º Estágio
+
+---
+## 3º Estágio
+
+---
 ## Listas de Exercícios
 
 1. **[Lista - Matrizes](listas/linear1.pdf)**
