@@ -31,6 +31,8 @@
 ---
 ## Exercícios Resolvidos
 
+> A lista do item 03 foi feita por Catarina Ramalho, ex-monitora de Linear.
+
 1. **[Resolução Lista - Matrizes](listas/ResolucaoLista01Linear.pdf)**
 2. **[Resolução Lista - Sistemas Lineares](listas/ResolucaoLista02.pdf)**
 3. **[Resolução de melhor qualidade - Lista de Sistemas Lineares](listas/ResolucaoLista02CatarinaRamalho.pdf)**
