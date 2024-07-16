@@ -25,7 +25,7 @@
 4. **[Integrais de Potências da Função Seno](teoria/SenoCasosEspeciaisDeIntegrais.md)**
 5. **[Integrais do Produto de Funções Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
 6. **[Mais algumas Integrais Trigonométricas](pdfs/integraistrigonometricas.pdf)**
-7. **[Frações Parciais]**
+7. **[Integração por Frações Parciais](pdfs/IntegracaoPorFracoesParciais.pdf)**
 8. **[Playlist de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
 9. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
 
