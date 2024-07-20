@@ -1,6 +1,6 @@
 # Introdução às Integrais
 
-> Integrais são usadas para calcular a área delimitada por funções.
+Integrais são usadas para calcular a área delimitada por funções.
 
 ---
 ## Forma de uma integral
