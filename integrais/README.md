@@ -24,8 +24,8 @@
 3. **[Integrais Trigonométricas](teoria/SenoCasosEspeciaisDeIntegrais.md)**
 4. **[Integração por Frações Parciais](pdfs/IntegracaoPorFracoesParciais.pdf)**
 5. **[Integrais Impróprias](pdfs/integraisimproprias.pdf)**
-6. **[Playlist de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
-7. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
+6. **[Playlist - Resolução de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+7. **[Playlist - Resolução de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
 
 ---
 ## 2º Estágio 
