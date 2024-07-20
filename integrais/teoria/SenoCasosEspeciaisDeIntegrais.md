@@ -14,20 +14,17 @@
 
 > Vídeo: https://youtu.be/FtJGJmKTkrI
 
-![img](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/senoECosseno.png)
-
 #### Seno elevado a um inteiro par
 
-> Para o seno elevado a um inteiro par, basta usar a relação abaixo.
-
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/seno01.png)
+Para o seno elevado a um inteiro par, basta usar a relação abaixo:<br>
+**seno²x = (1 - cos2x) / 2**
 
 #### Seno elevado a um inteiro ímpar
 
-> Para o seno elevado a um inteiro ímpar, use a propriedade de multiplicação de potências de mesma base.<br>
-> Com essa propriedade, você obtém um seno elevado a um inteiro par e outro elevado a 1.<br>
-> O seno que está elevado ao inteiro par, você vai substituir pela relação fundamental trigonométrica.<br>
-> Agora, basta usar substituição simples, o seno que ficou sobrando fará parte do du.
+Para o seno elevado a um inteiro ímpar, use a propriedade de multiplicação de potências de mesma base.<br>
+Com essa propriedade, você obtém um seno elevado a um inteiro par e outro elevado a 1.<br>
+O seno que está elevado ao inteiro par, você vai substituir pela relação fundamental trigonométrica.<br>
+Agora, basta usar substituição simples, o seno que ficou sobrando fará parte do du.
 
 ![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/seno02.png)
 
@@ -36,21 +33,19 @@
 
 > Vídeo: https://youtu.be/FtJGJmKTkrI<br>
 
-![img](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/senoECosseno.png)
-
 #### Cosseno elevado a um inteiro par
 
-> Para o cosseno elevado a um inteiro par, basta usar a relação abaixo.
+Para o cosseno elevado a um inteiro par, basta usar a relação abaixo:<br>
+**cos²x = (1 + cos2x)/2**
 
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno01.png)<br>
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno02.png)<br>
 
 #### Cosseno elevado a um inteiro ímpar
 
-> Para o cosseno elevado a um inteiro ímpar, use a propriedade de multiplicação de potências de mesma base.<br>
-> Com essa propriedade, você obtém um cosseno elevado a um inteiro par e outro elevado a 1.<br>
-> O cosseno que está elevado ao inteiro par, você vai substituir pela relação fundamental trigonométrica.<br>
-> Agora, basta usar substituição simples, o cosseno que ficou sobrando fará parte do *du*.
+Para o cosseno elevado a um inteiro ímpar, use a propriedade de multiplicação de potências de mesma base.<br>
+Com essa propriedade, você obtém um cosseno elevado a um inteiro par e outro elevado a 1.<br>
+O cosseno que está elevado ao inteiro par, você vai substituir pela relação fundamental trigonométrica.<br>
+Agora, basta usar substituição simples, o cosseno que ficou sobrando fará parte do *du*.
 
 ![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno03.png)<br>
 ![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno04.png)<br>
@@ -95,8 +90,8 @@ Então o *u* seria o cosseno.
 ---
 ## Secante e Tangente
 
-> A principal relação para o cálculo de integrais envolvendo secante e tangente é:<br>
-> tg²x + 1 = sec²x
+A principal relação para o cálculo de integrais envolvendo secante e tangente é:<br>
+**tg²x + 1 = sec²x**
 
 Com a relação acima, é possível resolver qualquer integral que envolva tangente e secante.
 
