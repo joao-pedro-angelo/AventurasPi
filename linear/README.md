@@ -31,7 +31,8 @@
 ---
 ## Exercícios Resolvidos
 
-> A lista do item 02 foi feita por Catarina Ramalho, ex-monitora de Linear.
+> A lista do item 02 foi feita por Catarina Ramalho, ex-monitora de Linear.<br>
+> https://github.com/catarinaramalho
 
 1. **[Resolução Lista - Matrizes](listas/ResolucaoLista01Linear.pdf)**
 2. **[Resolução Lista - Sistemas Lineares](listas/ResolucaoLista02CatarinaRamalho.pdf)**
