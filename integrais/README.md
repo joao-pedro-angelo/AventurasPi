@@ -44,7 +44,7 @@
 ---
 ## Exercícios Resolvidos
 
-1. **[Exercícios sobre Integração por Substituição](pdfs/ExResolvidosIntegralSubst.pdf)**
+1. **[Exercícios sobre Integração por Substituição](pdfs/ExerciciosIntegraisPorSubstituicao.pdf)**
 2. **[Exercícios sobre Integração por Partes](pdfs/ExerciciosIntegraisPorPartesMQ.pdf)**
 3. **[Exercícios com Integrais Trigonométricas](pdfs/ExerciciosBasicosIntegraisTrigonometricasMQ.pdf)**
 4. **[Mais exercícios com Integrais Trigonométricas](pdfs/MaisExIntegraisTrigonometricas.pdf)**
