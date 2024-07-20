@@ -21,15 +21,11 @@
 
 1. **[Integração por Substituição](pdfs/Metodo-da-substituicao.pdf)**
 2. **[Integração por Partes](pdfs/Integracao-por-partes.pdf)**
-3. **[Integrais de Potências da Função Cosseno](teoria/CossenoCasosEspeciaisDeIntegrais.md)**
-4. **[Integrais de Potências da Função Seno](teoria/SenoCasosEspeciaisDeIntegrais.md)**
-5. **[Integrais do tipo Seno(mx) * Cosseno(nx)](teoria/SenoVezesCosseno.md)**
-6. **[Integrais envolvendo Secante e Tangente](teoria/SecanteTangenteIntegrais.md)**
-7. **[Revisão Geral Integrais Trigonométricas](pdfs/integracaoProdutoPotencia.pdf)**
-8. **[Integração por Frações Parciais](pdfs/IntegracaoPorFracoesParciais.pdf)**
-9. **[Integrais Impróprias](pdfs/integraisimproprias.pdf)**
-10. **[Playlist de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
-11. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
+3. **[Integrais Trigonométricas](teoria/SenoCasosEspeciaisDeIntegrais.md)**
+4. **[Integração por Frações Parciais](pdfs/IntegracaoPorFracoesParciais.pdf)**
+5. **[Integrais Impróprias](pdfs/integraisimproprias.pdf)**
+6. **[Playlist de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+7. **[Playlist de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
 
 ---
 ## 2º Estágio 
