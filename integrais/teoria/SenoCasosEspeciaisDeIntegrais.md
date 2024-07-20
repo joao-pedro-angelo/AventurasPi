@@ -62,7 +62,7 @@ Caso ambos forem pares, use alguma das relações abaixo:
 **sen²x = (1 - cos2x)/2**<br>
 
 Caso ao menos um dos expoentes for um inteiro ímpar, separe a função cujo expoente é impar em um produto de mesma base.<br>
-Exemplo: sen⁵x = sen⁴x * sen²x<br>
+Exemplo: sen⁵x = sen⁴x * sen x<br>
 A parte com expoente ímpar será usada para compor o *du* na substituição simples.<br>
 A parte com expoente par deve ser substituída pela relação fundamental trigonométrica, que está abaixo.
 
