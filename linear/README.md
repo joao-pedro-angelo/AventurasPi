@@ -13,7 +13,8 @@
 6. **[Inverter Matrizes](listas/matrizes_inversas.pdf)**
 7. **[Sistemas Lineares e suas Soluções](teoria/SistemasLineares.pdf)**
 8. **[Determinantes](teoria/Determinantes.pdf)**
-9. **[Regra de Cramer](teoria/RegradeCramer.pdf)**
+9. **[Propriedades dos Determinantes](teoria/PropriedadeDeterminantes.pdf)**
+10. **[Regra de Cramer](teoria/RegradeCramer.pdf)**
 
 ---
 ## 2º Estágio
