@@ -22,7 +22,7 @@
 1. **[Integração por Substituição](pdfs/Metodo-da-substituicao.pdf)**
 2. **[Integração por Partes](pdfs/Integracao-por-partes.pdf)**
 3. **[Integrais Trigonométricas](teoria/SenoCasosEspeciaisDeIntegrais.md)**
-4. **[Substituição Trigonométrica](pdfs/SubstituicaoTrigonometrica.pdf)**
+4. **[Substituição Trigonométrica](pdfs/SubstituicaoTrigonometrica1.pdf)**
 5. **[Integração por Frações Parciais](pdfs/IntegracaoPorFracoesParciais.pdf)**
 6. **[Integrais Impróprias](pdfs/integraisimproprias.pdf)**
 7. **[Playlist - Resolução de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
