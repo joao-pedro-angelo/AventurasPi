@@ -15,6 +15,6 @@ Um elemento da matriz é identificado pela sua posição na tabela, ou seja, a l
 Normalmente, nomeamos uma matriz com uma letra maiúscula e os elementos com letras minúsculas.<br>
 Sendo *A* uma matriz 2x3 (2 linhas e 3 colunas), temos que o elemento *a12* está na linha 1 e coluna 2.
 
-Para construir uma matriz, podemos usar parênteses, colchetes ou retas paralelas verticais.<br>
+Para construir uma matriz, podemos usar parênteses, colchetes...<br>
 ![imgMatriz](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/matrizIMG.png)<br>
 Na imagem acima, *i* é o índice da linha e *j* o índice da coluna.
