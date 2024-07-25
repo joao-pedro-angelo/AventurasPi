@@ -28,6 +28,8 @@
 1. **[Lista - Matrizes](listas/linear1.pdf)**
 2. **[Lista - Sistemas Lineares](listas/linear2.pdf)**
 3. **[Lista - Determinantes](listas/linear3.pdf)**
+4. **[Prova 1º Estágio 2022.1](listas/2022_1Tarde.pdf)**
+5. **[Prova 1º Estágio 2018.1](listas/2018_1Tarde.pdf)**
 
 ---
 ## Exercícios Resolvidos
