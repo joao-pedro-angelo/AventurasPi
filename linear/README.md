@@ -41,3 +41,4 @@
 1. **[Resolução Lista - Matrizes](listas/ResolucaoLista01Linear.pdf)**
 2. **[Resolução Lista - Sistemas Lineares](listas/ResolucaoLista02CatarinaRamalho.pdf)**
 3. **[Resolução Lista - Determinantes](listas/ListaDeterminantesSolucao.pdf)**
+4. **[Resolução Prova 2022.1 - 1º Estágio](listas/ResolucaoProva2022_1.pdf)**
