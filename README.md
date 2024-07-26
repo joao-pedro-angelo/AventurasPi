@@ -17,7 +17,6 @@ Caso não tenha essa indicação, o redirecionamento será para um arquivo *md* 
 ## Guia
 
 1. **Aprimorar a Matemática Básica:** [Tópicos em álgebra](/algebra)
-2. **Pré-Cálculo:** [Pré-Cálculo](/pre-calculo)
-3. **Cálculo 1:** [Cálculo 1](/calculo1)
-4. **Cálculo 2:** [Cálculo 2](/integrais)
-5. **Álgebra Linear:** [Álgebra Linear](/linear)
+2. **Cálculo 1:** [Cálculo 1](/calculo1)
+3. **Cálculo 2:** [Cálculo 2](/integrais)
+4. **Álgebra Linear:** [Álgebra Linear](/linear)
