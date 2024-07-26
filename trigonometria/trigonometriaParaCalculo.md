@@ -32,3 +32,9 @@ Para conseguir concluir as disciplinas de cálculo, é necessário conhecer ao m
 ## Gráfico função cosseno
 
 ![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/05Trigonometria.png)
+
+---
+## Identidades Trigonométricas
+
+![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/identidadeTrigonometricaBasica.png)<br>
+![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/identidadeTrigonometrica.png)
