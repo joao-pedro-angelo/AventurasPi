@@ -11,10 +11,11 @@
 4. **[Transposta, Simétrica e Antissimétrica](teoria/transpostaSimetricaAntissimetrica.md)**
 5. **[Forma Escada, Posto e Nulidade](teoria/formaEscadaPostoNulidade.md)**
 6. **[Inverter Matrizes](listas/matrizes_inversas.pdf)**
-7. **[Sistemas Lineares e suas Soluções](teoria/SistemasLineares.pdf)**
-8. **[Determinantes](teoria/Determinantes.pdf)**
-9. **[Propriedades dos Determinantes](teoria/PropriedadeDeterminantes.md)**
-10. **[Regra de Cramer](teoria/RegradeCramer.pdf)**
+7. **[Propriedades Matrizes](teoria/propriedadesMatrizes.pdf)**
+8. **[Sistemas Lineares e suas Soluções](teoria/SistemasLineares.pdf)**
+9. **[Determinantes](teoria/Determinantes.pdf)**
+10. **[Propriedades dos Determinantes](teoria/PropriedadeDeterminantes.md)**
+11. **[Regra de Cramer](teoria/RegradeCramer.pdf)**
 
 ---
 ## 2º Estágio
