@@ -37,8 +37,8 @@
 ---
 ## Listas de Exercícios
 
-1. **[Lista de Revisão sobre Integrais Básicas](pdfs/IntegraisEx01.pdf)**
-2. **[Lista sobre Técnicas de Integração](pdfs/Lista1.pdf)**
+1. **[Lista 00 - Revisão sobre Integrais Básicas](pdfs/IntegraisEx01.pdf)**
+2. **[Lista 01 - Técnicas de Integração](pdfs/Lista1.pdf)**
 3. **[Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)**
 4. **[Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)**
 
@@ -50,3 +50,4 @@
 3. **[Exercícios com Integrais Trigonométricas](pdfs/ExerciciosBasicosIntegraisTrigonometricasMQ.pdf)**
 4. **[Mais exercícios com Integrais Trigonométricas](pdfs/MaisExIntegraisTrigonometricas.pdf)**
 5. **[Montagem da Fração Parcial](pdfs/fracoesParciaisExercicios.pdf)**
+6. **[Resolução Parcial da Lista de Técnicas de Integração](pdfs/resolucaoParcialLista01.pdf)**
