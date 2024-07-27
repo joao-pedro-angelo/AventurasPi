@@ -49,3 +49,4 @@
 2. **[Exercícios sobre Integração por Partes](pdfs/ExerciciosIntegraisPorPartesMQ.pdf)**
 3. **[Exercícios com Integrais Trigonométricas](pdfs/ExerciciosBasicosIntegraisTrigonometricasMQ.pdf)**
 4. **[Mais exercícios com Integrais Trigonométricas](pdfs/MaisExIntegraisTrigonometricas.pdf)**
+5. **[Exercícios com Frações Parciais](pdfs/fracoesParciaisExercicios.pdf)**
