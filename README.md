@@ -19,5 +19,5 @@ Caso não tenha essa indicação, o redirecionamento será para um arquivo *md* 
 1. **Aprimorar a Matemática Básica:** [Tópicos em álgebra](/algebra)
 2. **Trigonometria para Cálculo:** [Trigonometria](/trigonometria/trigonometriaParaCalculo.md)
 3. **Cálculo 1:** [Cálculo 1](/calculo1)
-4. **Cálculo 2:** [Cálculo 2](/integrais)
+4. **Cálculo 2:** [Cálculo 2](/calculo2)
 5. **Álgebra Linear:** [Álgebra Linear](/linear)
