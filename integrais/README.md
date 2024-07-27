@@ -46,8 +46,4 @@
 ## Exercícios Resolvidos
 
 1. **[Exercícios sobre Integração por Substituição](pdfs/ExerciciosIntegraisPorSubstituicao.pdf)**
-2. **[Exercícios sobre Integração por Partes](pdfs/ExerciciosIntegraisPorPartesMQ.pdf)**
-3. **[Exercícios com Integrais Trigonométricas](pdfs/ExerciciosBasicosIntegraisTrigonometricasMQ.pdf)**
-4. **[Mais exercícios com Integrais Trigonométricas](pdfs/MaisExIntegraisTrigonometricas.pdf)**
-5. **[Montagem da Fração Parcial](pdfs/fracoesParciaisExercicios.pdf)**
-6. **[Resolução Parcial da Lista de Técnicas de Integração](resolucaoLista01/README.md)**
+2. **[Resolução Parcial da Lista de Técnicas de Integração](resolucaoLista01/README.md)**
