@@ -33,7 +33,7 @@
 ## Terceiro estágio - Integrais
 
 > Há um diretório apenas para integrais neste repositório, veja:<br>
-[Integrais](https://github.com/joao-pedro-angelo/AventurasPi/tree/main/integrais)
+[Integrais](https://github.com/joao-pedro-angelo/AventurasPi/tree/main/calculo2)
 
 ---
 ## Listas de Exercícios
