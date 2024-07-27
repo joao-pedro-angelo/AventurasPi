@@ -45,6 +45,4 @@
 ---
 ## Exercícios Resolvidos
 
-1. **[Exercícios sobre Integração por Substituição](resolucoes/resolucaoIntegraisSubstituicaoSimples/README.md)**
-2. **[Exercícios Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
-3. **[Resolução Parcial da Lista de Técnicas de Integração](resolucoes/resolucaoLista01/README.md)**
+1. **[Resolução Parcial da Lista de Técnicas de Integração](resolucoes/resolucaoLista01/README.md)**
