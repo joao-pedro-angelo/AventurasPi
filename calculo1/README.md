@@ -38,5 +38,5 @@
 ---
 ## Listas de Exercícios
 
-1. **[Lista - Limites e Continuidade](calculo1/pdfs/Lista%201%20-%20Limite%20e%20continuidade.pdf)**
-2. **[Lista - Derivadas](calculo1/pdfs/Lista%202%20-%20Derivadas.pdf)**
+1. **[Lista - Limites e Continuidade](pdfs/Lista%201%20-%20Limite%20e%20continuidade.pdf)**
+2. **[Lista - Derivadas](pdfs/Lista%202%20-%20Derivadas.pdf)**
