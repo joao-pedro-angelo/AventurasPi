@@ -50,4 +50,4 @@
 3. **[Exercícios com Integrais Trigonométricas](pdfs/ExerciciosBasicosIntegraisTrigonometricasMQ.pdf)**
 4. **[Mais exercícios com Integrais Trigonométricas](pdfs/MaisExIntegraisTrigonometricas.pdf)**
 5. **[Montagem da Fração Parcial](pdfs/fracoesParciaisExercicios.pdf)**
-6. **[Resolução Parcial da Lista de Técnicas de Integração](pdfs/resolucaoParcialLista01.pdf)**
+6. **[Resolução Parcial da Lista de Técnicas de Integração](resolucaoLista01/README.md)**
