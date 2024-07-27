@@ -35,10 +35,6 @@
 ---
 ## Exercícios Resolvidos
 
-> A lista do item 02 foi feita por Catarina Ramalho, ex-monitora de Linear.<br>
-> https://github.com/catarinaramalho
-
-1. **[Resolução Lista - Matrizes](listas/ResolucaoLista01Linear.pdf)**
-2. **[Resolução Lista - Sistemas Lineares](listas/ResolucaoLista02CatarinaRamalho.pdf)**
-3. **[Resolução Lista - Determinantes](listas/ListaDeterminantesSolucao.pdf)**
-4. **[Resolução Prova 2022.1 - 1º Estágio](listas/ResolucaoProva2022_1.pdf)**
+1. **[Resolução Lista - Matrizes](resolucoes/ResolucaoLista01/README.md)**
+2. **[Resolução Lista - Determinantes](resolucoes/ResolucaoLista03/README.md)**
+3. **[Resolução Prova 2022.1 - 1º Estágio](resolucoes/ResolucaoProva2022_1/README.md)**
