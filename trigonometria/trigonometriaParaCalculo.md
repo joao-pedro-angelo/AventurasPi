@@ -1,4 +1,4 @@
-# Trigonometria suficiente para Cálculo
+# Trigonometria para Cálculo
 
 Para conseguir concluir as disciplinas de cálculo, é necessário conhecer ao menos o básico da Trigonometria.
 
