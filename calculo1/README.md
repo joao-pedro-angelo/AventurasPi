@@ -25,7 +25,7 @@
 > Caso deseje aprofundar, há esta playlist: [Playlist - Derivadas](https://www.youtube.com/playlist?list=PLmtT_GZAQdt-YD3msXQiJ_GMlKyOjm3XV)
 
 1. **[Vídeo - O que são Derivadas?](https://youtu.be/4kjaMznGUnY)**
-2. **[Tabela de Derivadas](tabelaDerivadas.pdf)**
+2. **[Tabela de Derivadas](pdfs/tabelaDerivadas.pdf)**
 3. **[Regra de L'Hospital](teoria/Lhospital.md)**
 4. **[Vídeo - Resolvendo 40 Derivadas](https://youtu.be/W2AuEsUxSc0)**
 
