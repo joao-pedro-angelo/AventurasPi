@@ -20,7 +20,7 @@
 ---
 ## 2º Estágio
 
-1. **[Espaços Vetoriais e suas propriedades](teoria/espacosVetoriais.pdf)**
+1. **[Espaços Vetoriais e suas Propriedades](teoria/espacosVetoriais.pdf)**
 
 ---
 ## 3º Estágio
