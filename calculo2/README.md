@@ -42,9 +42,11 @@
 2. **[Lista 01 - Técnicas de Integração](pdfs/Lista1.pdf)**
 3. **[Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)**
 4. **[Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)**
+5. **[Prova C2 1º Estágio 2023.2 Tarde - UFCG](pdfs/calc2prova1.pdf)**
 
 ---
 ## Exercícios Resolvidos
 
 1. **[Resolução Parcial da Lista de Técnicas de Integração](resolucoes/resolucaoLista01/README.md)**
 2. **[Exercícios Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
+3. **[Resolução Prova C2 1º Estágio 2023.2 Tarde - UFCG](pdfs/calc2Prova1Resol.jpeg)**
