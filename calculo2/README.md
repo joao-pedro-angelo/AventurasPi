@@ -32,6 +32,14 @@
 ---
 ## 2º Estágio 
 
+1. **[Área entre Curvas]**
+2. **[Volume por Fatiamento]**
+3. **[Volume de Sólidos de Revolução]**
+4. **[Volume por Cascas Cilíndricas]**
+5. **[Comprimento de Curvas Planas]**
+6. **[Área de Superfícies de Revolução]**
+7. **[Playlist - Aplicações de Integrais - Todo Conteúdo do 2º Estágio](https://www.youtube.com/playlist?list=PLUdN13q_LrwpyA861yPkeFl6j8UW-37a7)**
+
 ---
 ## 3º Estágio
 
