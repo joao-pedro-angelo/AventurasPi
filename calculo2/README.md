@@ -25,9 +25,10 @@
 4. **[Substituição Trigonométrica](pdfs/SubstituicaoTrigonometrica1.pdf)**
 5. **[Integração por Frações Parciais](pdfs/IntegracaoPorFracoesParciais.pdf)**
 6. **[Integrais Impróprias](pdfs/integraisimproprias.pdf)**
-7. **[Integrais e Fórmulas para Decorar](teoria/Decorar.md)**
-8. **[Playlist - Resolução de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
-9. **[Playlist - Resolução de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
+7. **[Critérios de Convergência de Integrais](teoria/CriteriosConvergenciaDeIntegrais.md)**
+8. **[Integrais e Fórmulas para Decorar](teoria/Decorar.md)**
+9. **[Playlist - Resolução de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+10. **[Playlist - Resolução de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
 
 ---
 ## 2º Estágio 
