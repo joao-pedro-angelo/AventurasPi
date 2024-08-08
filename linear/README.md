@@ -21,6 +21,8 @@
 ## 2º Estágio
 
 1. **[Espaços Vetoriais e suas Propriedades](teoria/espacosVetoriais.pdf)**
+2. **[Subespaços Vetoriais, União e Intersecção](teoria/Subespaços_Uniao_Interseccao.pdf)**
+3. **[Soma de Subespaços](teoria/somaDeSubespaços.pdf)**
 
 ---
 ## 3º Estágio
