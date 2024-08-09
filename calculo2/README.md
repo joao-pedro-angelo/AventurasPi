@@ -57,6 +57,6 @@
 ---
 ## Exercícios Resolvidos
 
-1. **[Resolução Parcial da Lista de Técnicas de Integração](resolucoes/resolucaoLista01/README.md)**
-2. **[Exercícios Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
-3. **[Resolução Prova C2 1º Estágio 2023.2 Tarde - UFCG](pdfs/calc2Prova1Resol.jpeg)**
+1. **[Resolução - Técnicas de Integração](resolucoes/resolucaoLista01/README.md)**
+2. **[Resolução - Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
+3. **[Resolução - Prova C2 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
