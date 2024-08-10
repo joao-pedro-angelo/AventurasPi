@@ -47,12 +47,12 @@
 ---
 ## Listas de Exercícios
 
-1. **[Lista 00 - Revisão sobre Integrais Básicas](pdfs/IntegraisEx01.pdf)**
+1. **[Lista Revisão sobre Integrais Básicas](pdfs/IntegraisEx01.pdf)**
 2. **[Lista 1º Estágio](pdfs/Lista1.pdf)**
-3. **[Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)**
-4. **[Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)**
-5. **[Prova C2 1º Estágio 2023.2 Tarde - UFCG](pdfs/calc2prova1.pdf)**
-6. **[Lista 2º Estágio](pdfs/Lista2.pdf)**
+3. **[Lista 2º Estágio](pdfs/Lista2.pdf)**
+4. **[Prova C2 1º Estágio 2021.2 Manhã - UFCG](pdfs/Prova01.1C2.pdf)**
+5. **[Prova C2 1º Estágio 2021.2 Tarde - UFCG](pdfs/Prova01.2C2.pdf)**
+6. **[Prova C2 1º Estágio 2023.2 Tarde - UFCG](pdfs/calc2prova1.pdf)**
 
 ---
 ## Exercícios Resolvidos
