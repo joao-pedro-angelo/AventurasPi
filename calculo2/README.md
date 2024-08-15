@@ -34,9 +34,9 @@
 ---
 ## 2º Estágio 
 
-1. **[Área entre Curvas]**
-2. **[Volume por Fatiamento]**
-3. **[Volume de Sólidos de Revolução]**
+1. **[Área entre Curvas](teoria/areaEntreCurvas.pdf)**
+2. **[Volume por Fatiamento](teoria/VolumePorFatiamento.pdf)**
+3. **[Volume de Sólidos de Revolução](teoria/VolumeSolidosRevolucao.pdf)**
 4. **[Volume por Cascas Cilíndricas]**
 5. **[Comprimento de Curvas Planas]**
 6. **[Área de Superfícies de Revolução]**
