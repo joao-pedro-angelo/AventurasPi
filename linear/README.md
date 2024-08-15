@@ -23,6 +23,8 @@
 1. **[Espaços Vetoriais e suas Propriedades](teoria/espacosVetoriais.pdf)**
 2. **[Subespaços Vetoriais, União e Intersecção](teoria/Subespaços_Uniao_Interseccao.pdf)**
 3. **[Soma de Subespaços](teoria/somaDeSubespaços.pdf)**
+4. **[Combinação Linear de Vetores](teoria/CombinacaoLinearVetores.pdf)**
+5. **[Dependência e Independência Linear](teoria/DependenciaIndependenciaLinear.pdf)**
 
 ---
 ## 3º Estágio
