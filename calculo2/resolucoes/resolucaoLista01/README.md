@@ -67,3 +67,30 @@
 ### 7ª c)
 ![img17](imgs/017.png)
 
+---
+### 15ª a)
+![img18](imgs/15A.jpg)<br>
+
+---
+### 15ª b)
+![img19](imgs/15B.jpg)<br>
+
+---
+### 15ª c)
+![img20](imgs/15C.jpg)<br>
+
+---
+### 15ª d)
+![img21](imgs/15D.jpg)<br>
+
+---
+### 15ª e)
+![img22](imgs/15E.jpg)<br>
+
+---
+### 16ª a)
+![img23](imgs/16A.jpg)<br>
+
+---
+### 16ª b)
+![img24](imgs/16B.jpg)<br>
