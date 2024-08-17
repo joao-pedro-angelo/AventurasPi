@@ -58,6 +58,6 @@
 ---
 ## Exercícios Resolvidos
 
-1. **[Resolução - Técnicas de Integração](resolucoes/resolucaoLista01/README.md)**
+1. **[Resolução Parcial - Lista do 1º Estágio](resolucoes/resolucaoLista01/README.md)**
 2. **[Resolução - Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
 3. **[Resolução - Prova C2 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
