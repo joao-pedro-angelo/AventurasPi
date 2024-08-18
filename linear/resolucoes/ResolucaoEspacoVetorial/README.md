@@ -83,3 +83,35 @@
 ---
 ## 9ª a)
 ![img21](imgs/00021.jpg)
+
+---
+## 9ª b)
+![img22](imgs/9B.jpg)
+
+---
+## 10ª Dica
+![img23](imgs/10Dica.jpg)
+
+---
+## 10ª a)
+![img24](imgs/10A.jpg)
+
+---
+## 10ª b)
+![img25](imgs/10B.jpg)
+
+---
+## 10ª c)
+![img26](imgs/10C.jpg)
+
+---
+## 10ª d)
+![img27](imgs/10D.jpg)
+
+---
+## 10ª e)
+![img28](imgs/10E.jpg)
+
+---
+## 10ª f)
+![img29](imgs/10F.jpg)
