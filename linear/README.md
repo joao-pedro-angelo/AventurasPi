@@ -25,6 +25,7 @@
 3. **[Soma de Subespaços](teoria/somaDeSubespaços.pdf)**
 4. **[Combinação Linear de Vetores](teoria/CombinacaoLinearVetores.pdf)**
 5. **[Dependência e Independência Linear](teoria/DependenciaIndependenciaLinear.pdf)**
+6. **[Base e Dimensão de Espaços Vetoriais](teoria/BaseDimensao.pdf)**
 
 ---
 ## 3º Estágio
