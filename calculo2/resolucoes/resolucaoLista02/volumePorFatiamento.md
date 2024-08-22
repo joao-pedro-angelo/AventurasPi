@@ -8,24 +8,30 @@
 
 ---
 ### Macetes
-#### 1. Cone
-Sempre que tiver um cone, a seção transversal será um **círculo**. A área do círculo é `πR²`.
+#### 1. Fórmula Geral da Circunferência
+A fórmula geral da circunferência é `X² + Y² = R²`. Sendo `R` o raio do sólido dado no enunciado.<br>
+Use esta informação sempre que a seção transversal for uma circunferência e você não souber o raio dessa seção.<br>
+Lembre que a área da circunferência é `πr²`, isole o Y da fórmula geral e terá uma fórmula para o raio da seção.<br>
+Teremos: `Y = sqrt(R² - X²)`<br>
+O X será o valor do plano carteasiano. 
+
+#### 2. Cone
+Sempre que tiver um cone, a seção transversal será uma **círcunferência**. 
 
 #### 2. Pirâmide de Base Quadrada ou Retangular
-A seção transversal será sempre um **quadrado** (ou retângulo), e o lado do quadrado (ou os lados do retângulo) diminuem linearmente com a altura. 
+A seção transversal será sempre um **quadrado** (ou retângulo).
 
 #### 3. Esfera
-A seção transversal em qualquer altura `z` será um **círculo**. O raio desse círculo é dado por `r(z) = sqrt(R^2 - z^2)`, onde `R` é o raio da esfera.
+A seção transversal será uma **círcunferência**.
 
 #### 4. Sólido de Revolução
-Quando o sólido é obtido pela rotação de uma curva em torno de um eixo, a seção transversal perpendicular ao eixo de rotação é sempre um **círculo**. O raio desse círculo é dado pelo valor da função que foi rotacionada.
+Quando o sólido é obtido pela rotação de uma curva em torno de um eixo, a seção transversal perpendicular ao eixo de rotação é sempre uma **círcunferência**. O raio dessa círcunferência é dado pelo valor da função que foi rotacionada.
 
 #### 5. Paraboloide
-Se a função que gera o sólido é da forma `y = ax^2 + bx + c`, ao rotacioná-la em torno do eixo X, a seção transversal será um **círculo** com raio `r(x) = y = ax^2 + bx + c`.
+Se a função que gera o sólido é da forma `y = ax^2 + bx + c`, ao rotacioná-la em torno do eixo X, a seção transversal será uma **círcunferência** com raio `r(x) = y = ax^2 + bx + c`.
 
 #### 6. Semiesfera ou Casca Esférica
-A seção transversal ao longo do eixo de simetria (geralmente o eixo Z) será um **círculo** com raio `r(z) = sqrt(R^2 - z^2)`. Este macete é útil tanto para calcular o volume de uma esfera inteira quanto de uma casca esférica.
-
+A seção transversal ao longo do eixo de simetria (geralmente o eixo Z) será uma **círcunferência**.
 
 ---
 ### 1º Exemplo
