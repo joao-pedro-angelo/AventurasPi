@@ -18,19 +18,19 @@ O X será o valor do plano carteasiano.
 #### 2. Cone
 Sempre que tiver um cone, a seção transversal será uma **círcunferência**. 
 
-#### 2. Pirâmide de Base Quadrada ou Retangular
+#### 3. Pirâmide de Base Quadrada ou Retangular
 A seção transversal será sempre um **quadrado** (ou retângulo).
 
-#### 3. Esfera
+#### 4. Esfera
 A seção transversal será uma **círcunferência**.
 
-#### 4. Sólido de Revolução
+#### 5. Sólido de Revolução
 Quando o sólido é obtido pela rotação de uma curva em torno de um eixo, a seção transversal perpendicular ao eixo de rotação é sempre uma **círcunferência**. O raio dessa círcunferência é dado pelo valor da função que foi rotacionada.
 
-#### 5. Paraboloide
+#### 6. Paraboloide
 Se a função que gera o sólido é da forma `y = ax^2 + bx + c`, ao rotacioná-la em torno do eixo X, a seção transversal será uma **círcunferência** com raio `r(x) = y = ax^2 + bx + c`.
 
-#### 6. Semiesfera ou Casca Esférica
+#### 7. Semiesfera ou Casca Esférica
 A seção transversal ao longo do eixo de simetria (geralmente o eixo Z) será uma **círcunferência**.
 
 ---
