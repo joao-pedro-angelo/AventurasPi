@@ -36,3 +36,44 @@ Logo, a integral que calcula o volume do sólido acima é:<br>
 2 * Integral de Raiz de X dx, a = 0 e b = 4<br>
 
 ---
+### 3º Exemplo
+> O sólido está entre os planos X = -1 e X = 1.<br>
+> As Seções Transversais que cortam este sólido têm diametros que vão de Y = X² até Y = 2 - X².
+
+Esboce o sólido: <br>
+![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220804.png)
+
+O que foi feito acima?<br>
+Foi desenhada a curva Y = X² e a curva Y = 2 - X².<br>
+As curvas se intesectam nos pontos X = -1 e X = 1.<br>
+
+Como a curva Y = 2 - X² é quem está no topo, o diâmetro da seção transversal é dado por:<br>
+D = (2 - X²) - (X²) = 2 - 2X²<br>
+
+Logo, o raio da seção transversal é 1 - X².<br>
+Sendo assim, a área da seção transversal é dada por πR² = π(1 - x²)²<br>
+
+Portanto, a fórmula que calcula o volume do sólido acima é:<br>
+π * Integral de (1 - x²)² dx, a = -1 e b = 1
+
+---
+### 4º Exemplo
+> O sólido está situado no plano carteasiano entre X = -1 e X = 1.<br>
+> As seções transversais são quadrados cuja base se estende do semi-círculo Y = Raiz de -(1 - x²) até Y = (1 - x²).<br>
+
+Esboço do sólido: <br>
+![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220805.png)
+
+O que foi feito acima?<br>
+Foi desenhado ambos os semi-círculos, formando uma circunferência situada entre X = -1 e X = 1.<br>
+Em seguida, foi encontrado o lado do quadrado que corta a circunferência.<br>
+
+Agora, sabendo que a área do quadrado é dada por lado², temos que:<br>
+Área do quadrado que fatia a circunferência acima é dada por: (2 * raiz de [1 - x²])²<br>
+
+Sendo assim, a integral que calcula o volume do sólido deste exemplo é:<br>
+Integral de (2 * raiz de [1 - x²])² dx, a = -1 e b = 1<br>
+4 * Integral de (raiz de [1 - x²])² dx, a = -1 e b = 1<br>
+
+---
+### 5º Exemplo
