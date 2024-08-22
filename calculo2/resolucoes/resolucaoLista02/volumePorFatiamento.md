@@ -7,6 +7,33 @@
 4. Monte a integral.
 
 ---
+### Macetes
+#### 1. Cone
+Sempre que tiver um cone, a seção transversal será um **círculo**. O raio do círculo varia linearmente com a altura do cone. Se o raio na base é `r` e a altura é `h`, o raio a uma altura `z` será `r(z) = r * (h-z) / h`.
+
+#### 2. Pirâmide de Base Quadrada ou Retangular
+A seção transversal será sempre um **quadrado** (ou retângulo), e o lado do quadrado (ou os lados do retângulo) diminuem linearmente com a altura. Se o lado da base é `l` e a altura da pirâmide é `h`, o lado do quadrado a uma altura `z` será `l(z) = l * (h-z) / h`.
+
+#### 3. Esfera
+A seção transversal em qualquer altura `z` será um **círculo**. O raio desse círculo é dado por `r(z) = sqrt(R^2 - z^2)`, onde `R` é o raio da esfera.
+
+#### 4. Sólido de Revolução
+Quando o sólido é obtido pela rotação de uma curva em torno de um eixo, a seção transversal perpendicular ao eixo de rotação é sempre um **círculo**. O raio desse círculo é dado pelo valor da função que foi rotacionada.
+
+#### 5. Paraboloide
+Se a função que gera o sólido é da forma `y = ax^2 + bx + c`, ao rotacioná-la em torno do eixo X, a seção transversal será um **círculo** com raio `r(x) = y = ax^2 + bx + c`.
+
+#### 6. Semiesfera ou Casca Esférica
+A seção transversal ao longo do eixo de simetria (geralmente o eixo Z) será um **círculo** com raio `r(z) = sqrt(R^2 - z^2)`. Este macete é útil tanto para calcular o volume de uma esfera inteira quanto de uma casca esférica.
+
+#### 7. Funções Polinomiais
+Se a função geradora do sólido é um polinômio, como `y = x^2`, ao rotacioná-la em torno de um eixo, as seções transversais serão **círculos** e a área será uma função polinomial elevada ao quadrado, como `π x^4` no exemplo da parábola rotacionada.
+
+#### 8. Sólidos com Seções Transversais Iguais
+Se o problema menciona que todas as seções transversais são iguais, como quadrados, círculos ou retângulos, então basta encontrar a área de uma seção transversal e integrar essa área ao longo da altura (ou comprimento) do sólido.
+
+
+---
 ### 1º Exemplo
 > Encontre a integral que calcula o volume de uma pirámide de 3 metros de altura, com base quadrada de lado 3.<br>
 > A pirâmide é cortada por uma seção transversal que é um quadrado de lado x.
@@ -59,7 +86,7 @@ Portanto, a fórmula que calcula o volume do sólido acima é:<br>
 ---
 ### 4º Exemplo
 > O sólido está situado no plano carteasiano entre X = -1 e X = 1.<br>
-> As seções transversais são quadrados cuja base se estende do semi-círculo Y = Raiz de -(1 - x²) até Y = (1 - x²).<br>
+> As seções transversais são quadrados cujas bases se estendes do semi-círculo Y = Raiz de -(1 - x²) até Y = (1 - x²).<br>
 
 Esboço do sólido: <br>
 ![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220805.png)
@@ -77,3 +104,15 @@ Integral de (2 * raiz de [1 - x²])² dx, a = -1 e b = 1<br>
 
 ---
 ### 5º Exemplo
+> O sólido está situado no plano carteasiano entre X = -1 e X = 1.<br>
+> As seções transversais são quadrados cujas diagonais se estendem do semi-círculo Y = Raiz de -(1 - x²) até Y = (1 - x²).<br>
+
+Observe que é quase o mesmo problema do 4º exemplo.<br>
+Porém, agora o problema nos diz que as diagonais dos quadrados que se estendem no plano, não os lados.<br>
+Assim, precisamos saber que Diagonal² = 2 * Lado².
+
+Logo, o valor de (2 * raiz de [1 - x²]), que antes era o lado do quadrado, agora é a diagonal do mesmo.<br>
+
+Sabendo disso, você terá condições de resolver o problema 5.
+
+---
