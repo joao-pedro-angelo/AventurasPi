@@ -9,10 +9,10 @@
 ---
 ### Macetes
 #### 1. Cone
-Sempre que tiver um cone, a seção transversal será um **círculo**. O raio do círculo varia linearmente com a altura do cone. Se o raio na base é `r` e a altura é `h`, o raio a uma altura `z` será `r(z) = r * (h-z) / h`.
+Sempre que tiver um cone, a seção transversal será um **círculo**. A área do círculo é `πR²`.
 
 #### 2. Pirâmide de Base Quadrada ou Retangular
-A seção transversal será sempre um **quadrado** (ou retângulo), e o lado do quadrado (ou os lados do retângulo) diminuem linearmente com a altura. Se o lado da base é `l` e a altura da pirâmide é `h`, o lado do quadrado a uma altura `z` será `l(z) = l * (h-z) / h`.
+A seção transversal será sempre um **quadrado** (ou retângulo), e o lado do quadrado (ou os lados do retângulo) diminuem linearmente com a altura. 
 
 #### 3. Esfera
 A seção transversal em qualquer altura `z` será um **círculo**. O raio desse círculo é dado por `r(z) = sqrt(R^2 - z^2)`, onde `R` é o raio da esfera.
@@ -25,12 +25,6 @@ Se a função que gera o sólido é da forma `y = ax^2 + bx + c`, ao rotacioná-
 
 #### 6. Semiesfera ou Casca Esférica
 A seção transversal ao longo do eixo de simetria (geralmente o eixo Z) será um **círculo** com raio `r(z) = sqrt(R^2 - z^2)`. Este macete é útil tanto para calcular o volume de uma esfera inteira quanto de uma casca esférica.
-
-#### 7. Funções Polinomiais
-Se a função geradora do sólido é um polinômio, como `y = x^2`, ao rotacioná-la em torno de um eixo, as seções transversais serão **círculos** e a área será uma função polinomial elevada ao quadrado, como `π x^4` no exemplo da parábola rotacionada.
-
-#### 8. Sólidos com Seções Transversais Iguais
-Se o problema menciona que todas as seções transversais são iguais, como quadrados, círculos ou retângulos, então basta encontrar a área de uma seção transversal e integrar essa área ao longo da altura (ou comprimento) do sólido.
 
 
 ---
