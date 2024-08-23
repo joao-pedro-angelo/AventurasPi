@@ -28,7 +28,7 @@ A área de um disco é calculada da mesma forma que a **circunferência**: πr²
 > A região entre a curva y = √x, de x = 0 até x = 4, é girada em torno do eixo x, gerando um sólido.<br>
 > Determine a integral que calcula o volume deste sólido.
 
-Primeiramente, monte o gráfico desde problema.<br>
+Primeiramente, monte o gráfico.<br>
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/graficoQuestao01.png)
 
 Como a função foi girada em torno do eixo X = 0, então o raio será a própria função √x.<br>
