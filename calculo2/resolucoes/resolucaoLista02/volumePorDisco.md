@@ -12,9 +12,10 @@ A área de um disco é calculada da mesma forma que a **circunferência**: πr²
 ---
 ## Passo a Passo
 1. Desenhar o Plano Cartesiano e a curva dada no enunciado;<br>
-2. Determinar o Raio do Disco;<br>
-3. Identificar os Limites de Integração;<br>
-4. Montar a Integral.<br>
+2. Saber se a rotação é em torno do eixo X, Y, de uma reta horizontal ou vertical;<br>
+3. Determinar o Raio do Disco;<br>
+4. Identificar os Limites de Integração;<br>
+5. Montar a Integral.<br>
 
 > O raio do disco quase sempre será a função que foi rotacionada.<br>
 > Porém, em alguns casos, pequenos ajustes devem ser feitos.<br>
@@ -45,7 +46,7 @@ Logo, a integral que calcula o volume do sólido acima é:<br>
 > Sólido obtido com a rotação, em torno do eixo y, da região compreendida entre Y = 1 e Y = 4, e a curva X = 2/Y.
 
 Observe que desta vez, a rotação é em torno do eixo Y. Neste caso, o raio do disco deve ser em função de Y.<br>
-Assim, devemos ter R(Y) e não R(X). A questão já nos deu a função em torno de Y.
+A questão já nos deu a função em torno de Y.
 
 Assim, identificamos o raio:<br>
 O raio será a função (curva) que foi rotacionada. 
