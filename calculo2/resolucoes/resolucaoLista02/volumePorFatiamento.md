@@ -32,12 +32,13 @@ Quando o sólido é obtido pela rotação de uma função em torno de um eixo, a
 > A pirâmide é cortada por uma seção transversal que é um quadrado de lado x.
 
 Pelo enunciado, sabemos que a seção transversal é um quadrado de lado X. Logo, a fórmula da área dessa seção é X².<br>
-Como a pirâmide tem 3 metros de altura, podemos desenhá-la no plano cartesiado do X = 0 até o X = 3.<br>
+
+Como a pirâmide tem 3 metros de altura, podemos desenhá-la no plano cartesiano do X = 0 até o X = 3.<br>
 Sendo assim, os limites de integração são a = 0 e b = 3.<br>
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220801.png)
 
 
-Logo, a integral que resulta no volume desta pirâmide é: Integral de X² dx, a = 0 e b = 3.<br>
+Logo, a integral que resulta no volume desta pirâmide é:<br>
 ![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220802.png)
 
 ---
@@ -63,7 +64,7 @@ Logo, a integral que calcula o volume do sólido acima é:<br>
 Esboce o sólido: <br>
 ![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220804.png)
 
-O que foi feito acima?<br>
+**O que foi feito acima?**<br>
 Foi desenhada a curva Y = X² e a curva Y = 2 - X².<br>
 As curvas se intesectam nos pontos X = -1 e X = 1.<br>
 
@@ -79,16 +80,16 @@ Portanto, a fórmula que calcula o volume do sólido acima é:<br>
 ---
 ### 4º Exemplo
 > O sólido está situado no plano carteasiano entre X = -1 e X = 1.<br>
-> As seções transversais são quadrados cujas bases se estendes do semi-círculo Y = Raiz de -(1 - x²) até Y = (1 - x²).<br>
+> As seções transversais são quadrados cujas bases se estendem do semi-círculo Y = √-(1 - x²) até Y = √(1 - x²).<br>
 
 Esboço do sólido: <br>
 ![img08](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220805.png)
 
-O que foi feito acima?<br>
+**O que foi feito acima?**<br>
 Foi desenhado ambos os semi-círculos, formando uma circunferência situada entre X = -1 e X = 1.<br>
 Em seguida, foi encontrado o lado do quadrado que corta a circunferência.<br>
 
-Agora, sabendo que a área do quadrado é dada por lado², temos que a área é:<br>
+Agora, sabendo que a área do quadrado é dada por **lado²**, temos que a área é:<br>
 ![img09](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230803.jpg)
 
 Sendo assim, a integral que calcula o volume do sólido deste exemplo é:<br>
@@ -100,8 +101,8 @@ Sendo assim, a integral que calcula o volume do sólido deste exemplo é:<br>
 > As seções transversais são quadrados cujas diagonais se estendem do semi-círculo Y = Raiz de -(1 - x²) até Y = (1 - x²).<br>
 
 Observe que é quase o mesmo problema do 4º exemplo.<br>
-Porém, agora o problema nos diz que as diagonais dos quadrados que se estendem no plano, não os lados.<br>
-Assim, precisamos saber que Diagonal² = 2 * Lado².
+Porém, agora o problema nos diz que as **diagonais** dos quadrados que se estendem no plano, não os lados.<br>
+Assim, precisamos saber que **Diagonal² = 2 * Lado²**.
 
 Logo, o valor abaixo, que antes era o lado do quadrado, agora é a diagonal do mesmo.<br>
 ![img11](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230802.jpg)
