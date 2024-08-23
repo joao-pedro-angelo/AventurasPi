@@ -90,9 +90,10 @@ Desse modo, temos o seguinte gráfico:<br>
 ![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/graficoQuestao02.png)
 
 O raio do disco será a própria função, subtraída de 1 unidade, pois o sólido começa a girar em X = 1.<br>
-Assim, a área do disco será dada por: π * √(x - 1)²
+Logo, o raio será √x - 1<br>
+Assim, a área do disco será dada por: π * (√x - 1)²
 
 Os limites de integração serão: x = 1 e x = 4.<br>
 Logo, a integral que calcula o volume do sólido é:<br>
-![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/integralQuestao02Disco.png)
+![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/00.png)
 
