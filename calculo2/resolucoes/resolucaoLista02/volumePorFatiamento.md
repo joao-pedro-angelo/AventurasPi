@@ -9,11 +9,10 @@
 ---
 ### Macetes
 #### 1. Fórmula Geral da Circunferência
-A fórmula geral da circunferência é `X² + Y² = R²`. Sendo `R` o raio do sólido dado no enunciado.<br>
+A fórmula geral da circunferência é `X² + Y² = R²`. Sendo `R` o raio do sólido dado no enunciado, o `X` e o `Y` sendo os pontos no plano cartesiano.<br>
 Use esta informação sempre que a seção transversal for uma circunferência e você não souber o raio dessa seção.<br>
 Lembre que a área da circunferência é `πr²`, isole o Y da fórmula geral e terá uma fórmula para o raio da seção.<br>
 Teremos: `Y = sqrt(R² - X²)`<br>
-O X será o valor do plano carteasiano. 
 
 #### 2. Cone
 Sempre que tiver um cone, a seção transversal será uma **círcunferência**. 
@@ -21,17 +20,11 @@ Sempre que tiver um cone, a seção transversal será uma **círcunferência**.
 #### 3. Pirâmide de Base Quadrada ou Retangular
 A seção transversal será sempre um **quadrado** (ou retângulo).
 
-#### 4. Esfera
+#### 4. Esfera, semi-esfera ou casca esférica
 A seção transversal será uma **círcunferência**.
 
 #### 5. Sólido de Revolução
-Quando o sólido é obtido pela rotação de uma curva em torno de um eixo, a seção transversal perpendicular ao eixo de rotação é sempre uma **círcunferência**. O raio dessa círcunferência é dado pelo valor da função que foi rotacionada.
-
-#### 6. Paraboloide
-Se a função que gera o sólido é da forma `y = ax^2 + bx + c`, ao rotacioná-la em torno do eixo X, a seção transversal será uma **círcunferência** com raio `r(x) = y = ax^2 + bx + c`.
-
-#### 7. Semiesfera ou Casca Esférica
-A seção transversal ao longo do eixo de simetria (geralmente o eixo Z) será uma **círcunferência**.
+Quando o sólido é obtido pela rotação de uma função em torno de um eixo, a seção transversal é sempre uma **círcunferência**. O raio dessa círcunferência é dado pelo valor da função que foi rotacionada.
 
 ---
 ### 1º Exemplo
@@ -57,10 +50,10 @@ O esboço do sólido é o seguinte:<br>
 ![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220803.png)
 
 As seções transversais são quadrados cujos lados são:<br>
-Raiz de X - (- Raiz de X) = 2 Raiz de X<br>
+![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230801.jpg)
 
 Logo, a integral que calcula o volume do sólido acima é:<br>
-2 * Integral de Raiz de X dx, a = 0 e b = 4<br>
+![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230804.png)
 
 ---
 ### 3º Exemplo
@@ -68,7 +61,7 @@ Logo, a integral que calcula o volume do sólido acima é:<br>
 > As Seções Transversais que cortam este sólido têm diametros que vão de Y = X² até Y = 2 - X².
 
 Esboce o sólido: <br>
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220804.png)
+![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220804.png)
 
 O que foi feito acima?<br>
 Foi desenhada a curva Y = X² e a curva Y = 2 - X².<br>
@@ -81,7 +74,7 @@ Logo, o raio da seção transversal é 1 - X².<br>
 Sendo assim, a área da seção transversal é dada por πR² = π(1 - x²)²<br>
 
 Portanto, a fórmula que calcula o volume do sólido acima é:<br>
-π * Integral de (1 - x²)² dx, a = -1 e b = 1
+![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230805.png)
 
 ---
 ### 4º Exemplo
@@ -89,18 +82,17 @@ Portanto, a fórmula que calcula o volume do sólido acima é:<br>
 > As seções transversais são quadrados cujas bases se estendes do semi-círculo Y = Raiz de -(1 - x²) até Y = (1 - x²).<br>
 
 Esboço do sólido: <br>
-![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220805.png)
+![img08](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220805.png)
 
 O que foi feito acima?<br>
 Foi desenhado ambos os semi-círculos, formando uma circunferência situada entre X = -1 e X = 1.<br>
 Em seguida, foi encontrado o lado do quadrado que corta a circunferência.<br>
 
-Agora, sabendo que a área do quadrado é dada por lado², temos que:<br>
-Área do quadrado que fatia a circunferência acima é dada por: (2 * raiz de [1 - x²])²<br>
+Agora, sabendo que a área do quadrado é dada por lado², temos que a área é:<br>
+![img09](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230803.jpg)
 
 Sendo assim, a integral que calcula o volume do sólido deste exemplo é:<br>
-Integral de (2 * raiz de [1 - x²])² dx, a = -1 e b = 1<br>
-4 * Integral de (raiz de [1 - x²])² dx, a = -1 e b = 1<br>
+![img10](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230806.png)
 
 ---
 ### 5º Exemplo
@@ -111,8 +103,9 @@ Observe que é quase o mesmo problema do 4º exemplo.<br>
 Porém, agora o problema nos diz que as diagonais dos quadrados que se estendem no plano, não os lados.<br>
 Assim, precisamos saber que Diagonal² = 2 * Lado².
 
-Logo, o valor de (2 * raiz de [1 - x²]), que antes era o lado do quadrado, agora é a diagonal do mesmo.<br>
+Logo, o valor abaixo, que antes era o lado do quadrado, agora é a diagonal do mesmo.<br>
+![img11](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230802.jpg)
 
-Sabendo disso, você terá condições de resolver o problema 5.
+Sabendo disso, você terá condições de resolver o problema 5
 
 ---
