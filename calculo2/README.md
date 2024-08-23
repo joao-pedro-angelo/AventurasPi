@@ -35,7 +35,7 @@
 ## 2º Estágio 
 
 1. **[Cálculo do Volume por Fatiamento](resolucoes/resolucaoLista02/volumePorFatiamento.md)**
-2. **[Volume de Sólidos de Revolução - Método Disco]**
+2. **[Volume de Sólidos de Revolução - Método Disco](resolucoes/resolucaoLista02/volumePorDisco.md)**
 3. **[Volume de Sólidos de Revolução - Método Anel]**
 4. **[Volume por Cascas Cilíndricas]**
 5. **[Comprimento de Curvas Planas]**
