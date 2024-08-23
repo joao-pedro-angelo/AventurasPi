@@ -34,9 +34,9 @@
 ---
 ## 2º Estágio 
 
-1. **[Área entre Curvas](teoria/areaEntreCurvas.pdf)**
-2. **[Volume por Fatiamento](teoria/VolumePorFatiamento.pdf)**
-3. **[Volume de Sólidos de Revolução](teoria/VolumeSolidosRevolucao.pdf)**
+1. **[Cálculo do Volume por Fatiamento](resolucoes/resolucaoLista02/volumePorFatiamento.md)**
+2. **[Volume de Sólidos de Revolução - Método Disco]**
+3. **[Volume de Sólidos de Revolução - Método Anel]**
 4. **[Volume por Cascas Cilíndricas]**
 5. **[Comprimento de Curvas Planas]**
 6. **[Área de Superfícies de Revolução]**
@@ -60,5 +60,4 @@
 
 1. **[Resolução Parcial - Lista do 1º Estágio](resolucoes/resolucaoLista01/README.md)**
 2. **[Exemplos - Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
-3. **[Exemplos - Cálculo de Volume por Fatiamento](resolucoes/resolucaoLista02/volumePorFatiamento.md)**
-4. **[Resolução - Prova C2 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
+3. **[Resolução - Prova C2 - 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
