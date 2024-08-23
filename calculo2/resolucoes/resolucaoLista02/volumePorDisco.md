@@ -11,8 +11,8 @@ A área de um disco é calculada da mesma forma que a **circunferência**: πr²
 
 ---
 ## Passo a Passo
-1. Desenhar o Plano Cartesiano e desenhar a curva dada no enunciado;<br>
-2. Determinar o Raio do Disco ;<br>
+1. Desenhar o Plano Cartesiano e a curva dada no enunciado;<br>
+2. Determinar o Raio do Disco;<br>
 3. Identificar os Limites de Integração;<br>
 4. Montar a Integral.<br>
 
@@ -43,13 +43,13 @@ Logo, a integral que calcula o volume do sólido acima é:<br>
 
 > Determine a integral que calcula o volume do sólido obtido com a rotação da curva y = √x, em torno da reta y = 1 e x = 4.
 
-Observe que, dessa vez, a rotação em torno da reta Y = 1, não em torno do eixo X.<br>
-Sabendo que a função dada é √x, qual o valor de X para Y ser 1? É 1, por √1 = 1.<br>
+Observe que, dessa vez, a rotação é em torno da reta Y = 1, não em torno do eixo X.<br>
+Sabendo que a função dada é √x, qual o valor de X para Y ser 1?<br> É 1, pois √1 = 1.<br>
 
 Desse modo, temos o seguinte gráfico:<br>
 ![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/graficoQuestao02.png)
 
-O raio do disco será a própria função, subtraída de 1 unidade, pois o sólido começa a girar em X = 1.<br>
+O raio do disco será a própria função, subtraída de 1 unidade, pois o sólido começa a girar em X = 1, já que f(1) = 1.<br>
 Assim, a área do disco será dada por: π * √(x - 1)²
 
 Os limites de integração serão: x = 1 e x = 4.<br>
