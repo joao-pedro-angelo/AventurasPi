@@ -49,9 +49,31 @@ Sabendo que a função dada é √x, qual o valor de X para Y ser 1?<br> É 1, p
 Desse modo, temos o seguinte gráfico:<br>
 ![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/graficoQuestao02.png)
 
-O raio do disco será a própria função, subtraída de 1 unidade, pois o sólido começa a girar em X = 1, já que f(1) = 1.<br>
+O raio do disco será a própria função, subtraída de 1 unidade, pois o sólido começa a girar em X = 1.<br>
 Assim, a área do disco será dada por: π * √(x - 1)²
 
 Os limites de integração serão: x = 1 e x = 4.<br>
 Logo, a integral que calcula o volume do sólido é:<br>
 ![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/integralQuestao02Disco.png)
+
+---
+## Exemplo 3
+
+> Determine a integral que calcula o volume do seguinte sólido:<br>
+> Sólido obtido com a rotação, em torno do eixo y, da região compreendida entre Y = 1 e Y = 4, e a curva X = 2/Y.
+
+Observe que desta vez, a rotação é em torno do eixo Y. Neste caso, o raio do disco deve ser em função de Y.<br>
+Até por isso a curva dada está em função de Y.
+
+Assim, identificamos o raio:<br>
+O raio será a função (curva) que foi rotacionada. Porém, lembre que a função deve estar em função de Y.<br>
+Assim, o raio é 2/Y.
+
+O limite de integração é Y = 1 e Y = 4.
+
+Assim, temos o seguinte gráfico e a seguinte integral:
+
+![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/GraficoDesafio03.png)
+![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegralDesafio03.png)
+
+---
