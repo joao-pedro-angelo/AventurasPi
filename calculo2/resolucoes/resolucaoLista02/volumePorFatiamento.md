@@ -54,7 +54,7 @@ As seções transversais são quadrados cujos lados são:<br>
 ![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230801.jpg)
 
 Logo, a integral que calcula o volume do sólido acima é:<br>
-![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230804.png)
+![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/000.png)
 
 ---
 ### 3º Exemplo
