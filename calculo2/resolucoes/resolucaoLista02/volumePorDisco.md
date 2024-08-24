@@ -17,9 +17,10 @@ A área de um disco é calculada da mesma forma que a **circunferência**: πr²
 4. Identificar os Limites de Integração;<br>
 5. Montar a Integral.<br>
 
-> O raio do disco quase sempre será a função que foi rotacionada.<br>
-> Porém, em alguns casos, pequenos ajustes devem ser feitos.<br>
-> Esses casos normalmente ocorrem quando o giro da função não é em torno do eixo X = 0.<br>
+> Caso o sólido seja rotacionado em torno do eixo X, o raio do disco será a própria função rotacionada, no formato r(x);<br>
+> Caso o sólido seja rotacionado em torno do eixo Y, o raio do disco será a própria função rotacionada, no formato r(y);<br>
+> Caso o sólido seja rotacionado em torno de uma reta L vertical, o raio do disco será: L - r(y);<br>
+> Caso o sólido seja ratocacionado em torno de uma rela L horizontal, o raio do disco será: r(x) - L;<br>
 
 > Não é preciso desenhar o sólido em si, mas sim desenhar o gráfico com a curva e os limites de integração.
 
@@ -66,10 +67,13 @@ Assim, temos o seguinte gráfico e a seguinte integral:
 > Parábola X = Y² + 1 rotacionada em torno da reta X = 3. Determine a integral que calcula o vólume do sólido.
 
 Neste caso, temos uma reta vertical X = 3.<br>
+Já que a rotação é em torno de uma reta vertical, a função deve estar em razão do y.<br>
 Quando a rotação é em torno de uma reta vertical, o valor da reta (no caso, X = 3), deve ser subtraído pela função dada.<br>
 Fazendo isso, teremos o raio do disco.
 
 Assim, temos que o raio deste exemplo é: **3 - (Y² + 1)**
+
+Observe que a função dada já está em razão do Y, logo só foi preciso realizar a subtração do valor da reta vertical.
 
 Para encontrar os limites de integração, como não foi nos dado no enunciado, basta fazer o seguinte:<br>
 Substitua na função dada (X = Y² + 1), o valor da reta vertical (X = 3).<br>
