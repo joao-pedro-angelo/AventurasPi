@@ -36,7 +36,7 @@
 
 1. **[Cálculo do Volume por Fatiamento](resolucoes/resolucaoLista02/volumePorFatiamento.md)**
 2. **[Volume de Sólidos de Revolução - Método Disco](resolucoes/resolucaoLista02/volumePorDisco.md)**
-3. **[Volume de Sólidos de Revolução - Método Anel]**
+3. **[Volume de Sólidos de Revolução - Método Anel](resolucoes/resolucaoLista02/volumeMetodoAnel.md)**
 4. **[Volume por Cascas Cilíndricas]**
 5. **[Comprimento de Curvas Planas]**
 6. **[Área de Superfícies de Revolução]**
