@@ -48,3 +48,22 @@ Assim, a integral que calcula o volume do sólido é:<br>
 
 ---
 ## Exemplo 2
+
+> A região compreendida entre a parábola f(x) = X² e g(x) = 2X no 1º quadrante gira em torno do eixo Y.<br>
+> Determine o volume do sólido.
+
+Montando o gráfico:<br>
+![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240802.png)
+
+Encontrar qual o raio externo e o interno:<br> 
+> Observe que, dessa vez, a rotação é em torno do eixo Y, logo as funções devem estar em função do Y.<br>
+> Na imagem abaixo, é isso que está sendo feito. Pega a função que foi dada e isola o Y.<br>
+
+![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240803.png)
+![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240804.png)
+
+Limites de Integração:<br>
+![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240805.png)
+
+Montagem da Integral:<br>
+![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240806.png)
