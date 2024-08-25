@@ -80,7 +80,7 @@ Portanto, a fórmula que calcula o volume do sólido acima é:<br>
 ---
 ### 4º Exemplo
 > O sólido está situado no plano carteasiano entre X = -1 e X = 1.<br>
-> As seções transversais são quadrados cujas bases se estendem do semi-círculo Y = √-(1 - x²) até Y = √(1 - x²).<br>
+> As seções transversais são quadrados cujas bases se estendem do semi-círculo Y = -√(1 - x²) até Y = √(1 - x²).<br>
 
 Esboço do sólido: <br>
 ![img08](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220805.png)
