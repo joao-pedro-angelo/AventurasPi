@@ -37,7 +37,7 @@
 1. **[Cálculo do Volume por Fatiamento](resolucoes/resolucaoLista02/volumePorFatiamento.md)**
 2. **[Volume de Sólidos de Revolução - Método Disco](resolucoes/resolucaoLista02/volumePorDisco.md)**
 3. **[Volume de Sólidos de Revolução - Método Anel](resolucoes/resolucaoLista02/volumeMetodoAnel.md)**
-4. **[Volume por Cascas Cilíndricas]**
+4. **[Volume por Cascas Cilíndricas](resolucoes/resolucaoLista02/volumeCascaCilindrica.md)**
 5. **[Comprimento de Curvas Planas]**
 6. **[Área de Superfícies de Revolução]**
 7. **[Playlist - Aplicações de Integrais - Todo Conteúdo do 2º Estágio](https://www.youtube.com/playlist?list=PLUdN13q_LrwpyA861yPkeFl6j8UW-37a7)**
