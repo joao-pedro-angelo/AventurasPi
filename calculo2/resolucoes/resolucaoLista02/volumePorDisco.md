@@ -22,6 +22,9 @@ A área de um disco é calculada da mesma forma que a **circunferência**: πr²
 > Caso o sólido seja rotacionado em torno de uma reta L vertical, o raio do disco será: L - r(y);<br>
 > Caso o sólido seja ratocacionado em torno de uma rela L horizontal, o raio do disco será: r(x) - L;<br>
 
+> Se o sólido for girado em torno de um eixo vertical (Y ou uma reta L qualquer), os limites de integração estarão na vertical;<br>
+> Se o sólido for girado em torno de um eixo horizontal (X ou uma reta L qualquer), os limites de integração estarão na horizontal;<br>
+
 > Não é preciso desenhar o sólido em si, mas sim desenhar o gráfico com a curva e os limites de integração.
 
 ---
