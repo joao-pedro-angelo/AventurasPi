@@ -26,6 +26,8 @@
 4. **[Combinação Linear de Vetores](teoria/CombinacaoLinearVetores.pdf)**
 5. **[Dependência e Independência Linear](teoria/DependenciaIndependenciaLinear.pdf)**
 6. **[Base e Dimensão de Espaços Vetoriais](teoria/BaseDimensao.pdf)**
+7. **[Mudança de Base](teoria/aula-6-Mudanc%CC%A7a%20de%20base.pdf)**
+8. **[Exemplos de Mudança de Base](teoria/exemplos_muda_base.pdf)**
 
 ---
 ## 3º Estágio
