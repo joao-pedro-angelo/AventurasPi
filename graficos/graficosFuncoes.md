@@ -30,32 +30,16 @@
 
 ---
 ## Função Seno
-![img08](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/senoGeogebra.png)
+![img08](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/04Trigonometria.png)
 
 ---
 ## Função Cosseno
-![img09](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cossenoGeogebra.png)
+![img09](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/05Trigonometria.png)
 
 ---
 ## Função Tangente
 ![img10](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/tgGeogebra.png)
 
 ---
-## Função Arco Seno
-![img11](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/arcSen.png)
-
----
-## Função Arco Cosseno
-![img12](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/arcCossenoGeogebra.png)
-
----
-## Função Secante
-![img13](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/secGeogebra.png)
-
----
-## Função Cossecante
-![img14](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cossecGeogebra.png)
-
----
 ## Função Logarítmica
-![img15](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/logGeogebra.png)
+![img11](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/logGeogebra.png)
