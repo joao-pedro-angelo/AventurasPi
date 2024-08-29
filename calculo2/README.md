@@ -51,8 +51,8 @@
 1. **[Lista Revisão sobre Integrais Básicas](pdfs/IntegraisEx01.pdf)**
 2. **[Lista 1º Estágio](pdfs/Lista1.pdf)**
 3. **[Lista 2º Estágio](pdfs/Lista2.pdf)**
-4. **[Prova C2 1º Estágio 2021.2 - UFCG](pdfs/Prova01.1C2.pdf)**
 6. **[Prova C2 1º Estágio 2023.2 - UFCG](pdfs/calc2prova1.pdf)**
+7. **[Prova C2 2º Estágio 2023.2 - UFCG](pdfs/calc2prova2.pdf)**
 
 ---
 ## Exercícios Resolvidos
@@ -60,3 +60,4 @@
 1. **[Resolução Parcial - Lista do 1º Estágio](resolucoes/resolucaoLista01/README.md)**
 2. **[Exemplos - Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
 3. **[Resolução - Prova C2 - 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
+4. **[Resolução - Prova C2 - 2º Estágio 2023.2](pdfs/calc2Prova2Resol.jpeg)**
