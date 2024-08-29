@@ -40,7 +40,6 @@
 3. **[Lista - Determinantes](listas/linear3.pdf)**
 4. **[Lista - Espaços Vetoriais](listas/linear4.pdf)**
 5. **[Prova 1º Estágio 2022.1](listas/2022_1Tarde.pdf)**
-6. **[Prova 1º Estágio 2018.1](listas/2018_1Tarde.pdf)**
 
 ---
 ## Exercícios Resolvidos
