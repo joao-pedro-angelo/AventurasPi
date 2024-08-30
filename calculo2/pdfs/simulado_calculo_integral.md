@@ -2,10 +2,10 @@
 # Simulado de Prova - Cálculo Integral
 
 ## Assuntos:
-1. Questão 1 foca em integrais impróprias e testa sua habilidade de avaliar a convergência e calcular integrais que envolvem limites infinitos.
-2. Questão 2 e Questão 3 exploram o cálculo de volume de sólidos de revolução usando os métodos de Disco e Anel, respectivamente.
-3. Questão 4 aborda o método das Casca Cilíndrica, especialmente útil quando a rotação é em torno do eixo perpendicular à função dada.
-4. Questão 5 é analítica, pedindo justificativas sobre a escolha do método de cálculo de volume.
+> Questão 1 foca em integrais impróprias e testa sua habilidade de avaliar a convergência.<br>
+> Questão 2 e Questão 3 exploram o cálculo de volume de sólidos de revolução usando os métodos de Disco e Anel, respectivamente.<br>
+> Questão 4 aborda o método das Casca Cilíndrica.<br>
+> Questão 5 é analítica, pedindo justificativas sobre a escolha do método de cálculo de volume.<br>
 
 ---
 ### Questão 1: Integrais Impróprias
