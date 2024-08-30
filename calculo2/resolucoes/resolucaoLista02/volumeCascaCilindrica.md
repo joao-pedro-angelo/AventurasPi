@@ -44,3 +44,10 @@
 
 ---
 ## Exemplos
+
+Problema: Determinar o volume do sólido obtido com a rotação em torno do eixo y da região limitada pela curva y = x², de x = 0 até x = 2.
+
+**Justificativa:**  
+Quando a rotação é em torno do eixo \(y\), e a região a ser rotacionada é descrita em termos de \(x\) (como \(y = x^2\) e \(y = 2 - x\)), o método das cascas cilíndricas se torna conveniente.
+
+
