@@ -51,8 +51,9 @@
 1. **[Lista Revisão sobre Integrais Básicas](pdfs/IntegraisEx01.pdf)**
 2. **[Lista 1º Estágio](pdfs/Lista1.pdf)**
 3. **[Lista 2º Estágio](pdfs/Lista2.pdf)**
-6. **[Prova C2 1º Estágio 2023.2 - UFCG](pdfs/calc2prova1.pdf)**
-7. **[Prova C2 2º Estágio 2023.2 - UFCG](pdfs/calc2prova2.pdf)**
+4. **[Simulado 2º Estágio](pdfs/simulado_calculo_integral.md)**
+5. **[Prova C2 1º Estágio 2023.2 - UFCG](pdfs/calc2prova1.pdf)**
+6. **[Prova C2 2º Estágio 2023.2 - UFCG](pdfs/calc2prova2.pdf)**
 
 ---
 ## Exercícios Resolvidos
