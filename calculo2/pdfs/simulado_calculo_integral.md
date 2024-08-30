@@ -2,10 +2,11 @@
 # Simulado de Prova - Cálculo Integral
 
 ## Assuntos:
-> Questão 1 foca em integrais impróprias e testa sua habilidade de avaliar a convergência.<br>
-> Questão 2 e Questão 3 exploram o cálculo de volume de sólidos de revolução usando os métodos de Disco e Anel, respectivamente.<br>
-> Questão 4 aborda o método das Casca Cilíndrica.<br>
-> Questão 5 é analítica, pedindo justificativas sobre a escolha do método de cálculo de volume.<br>
+> Questão 1 - Integrais Impróprias e Convergência<br>
+> Questão 2 - Método do Disco<br>
+> Questão 3 - Método do Anel<br>
+> Questão 4 - Método das Cascas Cilíndricas<br>
+> Questão 5 - Teoria<br>
 
 ---
 ### Questão 1: Integrais Impróprias
@@ -49,7 +50,7 @@ Justifique a escolha pelo método da Casca Cilíndrica.
 1. Justifique qual método (Disco, Anel ou Casca Cilíndrica) é mais apropriado para calcular o volume gerado pela rotação de uma região limitada pela função
 **(y = e^x)** em torno do **eixo y**.
 
-3. Explique em que situações o método das cascas cilíndricas se torna mais conveniente em comparação aos métodos de disco e de anel.
+2. Explique quando usar cada um dos métodos de cálculo de volume (Disco, Anel ou Casca Cilíndrica). 
 ---
 
 **Boa sorte na sua prova!**
