@@ -21,6 +21,10 @@
 
     a) Integral de **(1 / x²)**, de x = -infinito até x = +infinito
 
+   > Dica: Separe a Integral acima em duas, uma indo de -infinito até 0, a outra de 0 até +infinito.<br>
+   > Com isso, resolva cada uma separadamente.<br>
+   > Assim, se ao menos uma das duas divergir, o todo também diverge.
+
 ---
 ### Questão 2: Volume por Disco
 
