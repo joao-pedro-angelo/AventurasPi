@@ -53,3 +53,4 @@
 3. **[Resolução Lista - Espaços Vetoriais](resolucoes/ResolucaoEspacoVetorial/README.md)**
 4. **[Resolução Lista - Espaços Vetoriais - Feita pelo GPT](resolucoes/ResolucaoEspacoVetorial/resolucaoGPT.md)**
 5. **[Resolução Prova 2022.1 - 1º Estágio](resolucoes/ResolucaoProva2022_1/README.md)**
+6. **[Resolução Prova 2024.1 - 2º Estágio](linear/resolucoes/Resolucao20241/resolucao.md)**
