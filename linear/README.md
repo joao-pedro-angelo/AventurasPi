@@ -27,8 +27,9 @@
 5. **[Dependência e Independência Linear](teoria/DependenciaIndependenciaLinear.pdf)**
 6. **[Base e Dimensão de Espaços Vetoriais](teoria/BaseDimensao.pdf)**
 7. **[Verificar se um Conjunto é uma Base](teoria/ComoConfirmarBase.md)**
-8. **[Mudança de Base](teoria/aula-6-Mudanc%CC%A7a%20de%20base.pdf)**
-9. **[Exemplos de Mudança de Base](teoria/exemplos_muda_base.pdf)**
+8. **[Verificar se um Conjunto é Gerador](teoria/VerificarSeGeraEspaco.md)
+9. **[Mudança de Base](teoria/aula-6-Mudanc%CC%A7a%20de%20base.pdf)**
+10. **[Exemplos de Mudança de Base](teoria/exemplos_muda_base.pdf)**
 
 ---
 ## 3º Estágio
