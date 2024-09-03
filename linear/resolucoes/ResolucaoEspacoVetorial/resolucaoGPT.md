@@ -243,9 +243,9 @@ Encontrando a, b, e c, podemos verificar que p(t) pode ser escrito como combina�
 
 ### Resolução:
 
-(a) Para mostrar que o conjunto é uma base, precisamos verificar que é linearmente independente e que gera P2.
+**(a)** Para mostrar que o conjunto é uma base, precisamos verificar que é linearmente independente e que gera P2.
 
-(b) Precisamos resolver o sistema:
+**(b)** Precisamos resolver o sistema:
 
 a(1 + t) + b(1 - t) + c(t^2) = 2 - t + 3t^2
 
@@ -293,17 +293,17 @@ Para verificar a independência linear, montamos a matriz associada e verificamo
 
 Para ser uma base de um espaço vetorial, um conjunto deve ser linearmente independente (LI) e deve gerar o espaço vetorial.
 
-(a) O conjunto {(1, 0, 2), (1, 1, 2), (1, 1, 4)} não é linearmente independente, pois (1, 1, 4) pode ser escrito como combinação linear dos outros dois vetores. Logo, não é uma base de R^3.
+**(a)** O conjunto {(1, 0, 2), (1, 1, 2), (1, 1, 4)} não é linearmente independente, pois (1, 1, 4) pode ser escrito como combinação linear dos outros dois vetores. Logo, não é uma base de R^3.
 
-(b) O conjunto {(2, 1, -1), (1, 0, -1), (1, 1, 0)} é linearmente independente e gera R^3, então é uma base de R^3.
+**(b)** O conjunto {(2, 1, -1), (1, 0, -1), (1, 1, 0)} é linearmente independente e gera R^3, então é uma base de R^3.
 
-(c) O conjunto {[1 0; 0 1], [0 1; 1 0], [1 1; 0 1], [1 0; 1 1]} tem mais de 4 elementos, mas o espaço vetorial M(2, 2) tem dimensão 4, logo, não pode ser uma base.
+**(c)** O conjunto {[1 0; 0 1], [0 1; 1 0], [1 1; 0 1], [1 0; 1 1]} tem mais de 4 elementos, mas o espaço vetorial M(2, 2) tem dimensão 4, logo, não pode ser uma base.
 
-(d) O conjunto {[1 0; 0 1], [0 -1; 1 0], [1 1; 1 -1], [2 1; 1 0]} também tem mais de 4 elementos, então não é uma base de M(2, 2).
+**(d)** O conjunto {[1 0; 0 1], [0 -1; 1 0], [1 1; 1 -1], [2 1; 1 0]} também tem mais de 4 elementos, então não é uma base de M(2, 2).
 
-(e) O conjunto {t, 1 + t, t - t^2} é linearmente independente e gera P2, então é uma base de P2.
+**(e)** O conjunto {t, 1 + t, t - t^2} é linearmente independente e gera P2, então é uma base de P2.
 
-(f) O conjunto {1, 2 - t, 3 - t^2, t + 2t^2} tem mais de 3 elementos e P2 tem dimensão 3, então não pode ser uma base.
+**(f)** O conjunto {1, 2 - t, 3 - t^2, t + 2t^2} tem mais de 3 elementos e P2 tem dimensão 3, então não pode ser uma base.
 
 **Conclusão da Questão 11:** Os conjuntos que são bases são (b) e (e).
 
@@ -319,13 +319,13 @@ Para ser uma base de um espaço vetorial, um conjunto deve ser linearmente indep
 
 ### Resolução:
 
-(a) Falso. O conjunto não é fechado sob adição ou multiplicação escalar, portanto, não é um subespaço vetorial.
+**(a)** Falso. O conjunto não é fechado sob adição ou multiplicação escalar, portanto, não é um subespaço vetorial.
 
-(b) Falso. O conjunto não gera R^2 porque tem três vetores em um espaço de dimensão 2.
+**(b)** Falso. O conjunto não gera R^2 porque tem três vetores em um espaço de dimensão 2.
 
-(c) Falso. O vetor (1, 0, 0) não pode ser escrito como combinação linear dos vetores dados.
+**(c)** Falso. O vetor (1, 0, 0) não pode ser escrito como combinação linear dos vetores dados.
 
-(d) Verdadeiro. O conjunto é linearmente independente e tem 3 vetores em R^3, portanto, é uma base.
+**(d)** Verdadeiro. O conjunto é linearmente independente e tem 3 vetores em R^3, portanto, é uma base.
 
 **Conclusão da Questão 12:** (a) F, (b) F, (c) F, (d) V.
 
@@ -340,11 +340,11 @@ Para ser uma base de um espaço vetorial, um conjunto deve ser linearmente indep
 
 ### Resolução:
 
-(a) Resolver o sistema para encontrar o valor de k que permite que u seja uma combinação linear de v1 e v2. O sistema é consistente para k = 13.
+**(a)** Resolver o sistema para encontrar o valor de k que permite que u seja uma combinação linear de v1 e v2. O sistema é consistente para k = 13.
 
-(b) O conjunto é uma base se e somente se for linearmente independente. Para ser linearmente independente, k não pode ser 0 ou 1.
+**(b)** O conjunto é uma base se e somente se for linearmente independente. Para ser linearmente independente, k não pode ser 0 ou 1.
 
-(c) O conjunto é linearmente independente se o determinante da matriz formada pelos vetores for diferente de zero. Isso ocorre para todos os k diferentes de 2.
+**(c)** O conjunto é linearmente independente se o determinante da matriz formada pelos vetores for diferente de zero. Isso ocorre para todos os k diferentes de 2.
 
 **Conclusão da Questão 13:** (a) k = 13, (b) k != 0, k != 1, (c) k != 2.
 
@@ -358,9 +358,9 @@ Para ser uma base de um espaço vetorial, um conjunto deve ser linearmente indep
 
 ### Resolução:
 
-(a) Falso. O vetor não pode ser expresso como combinação linear dos vetores dados.
+**(a)** Falso. O vetor não pode ser expresso como combinação linear dos vetores dados.
 
-(b) Falso. Dois vetores não podem gerar R^3 porque R^3 é um espaço de dimensão 3.
+**(b)** Falso. Dois vetores não podem gerar R^3 porque R^3 é um espaço de dimensão 3.
 
 **Conclusão da Questão 14:** (a) F, (b) F.
 
@@ -393,9 +393,9 @@ Verificação:
 
 ### Resolução:
 
-(a) A condição x + y + z = 0 define um plano em R^3, que tem dimensão 2. Uma base é {(-1, 1, 0), (-1, 0, 1)}.
+**(a)** A condição x + y + z = 0 define um plano em R^3, que tem dimensão 2. Uma base é {(-1, 1, 0), (-1, 0, 1)}.
 
-(b) A condição x = y = z define uma linha em R^3. A base é {(1, 1, 1)}, com dimensão 1.
+**(b)** A condição x = y = z define uma linha em R^3. A base é {(1, 1, 1)}, com dimensão 1.
 
 **Conclusão da Questão 16:** (a) Base: {(-1, 1, 0), (-1, 0, 1)}, Dimensão: 2. (b) Base: {(1, 1, 1)}, Dimensão: 1.
 
