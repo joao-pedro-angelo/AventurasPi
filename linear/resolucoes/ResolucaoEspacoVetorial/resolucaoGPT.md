@@ -233,7 +233,8 @@ a(0, -2, 2) + b(1, 3, -1) = (0, 0, 0)
 
 Para que p(t) pertença a S, devemos ter:
 
-p(t) = a(t) + b(1 - t) + c(4 + t^2)
+p(t) = a(t) + b(1 - t) + c(4 + t^2)<br>
+(3 + 4t + 10t²) = a(t) + b(1 - t) + c(4 + t²)
 
 Sistema de equações:
 
@@ -242,6 +243,8 @@ Sistema de equações:
 3. c = 10
 
 Encontrando a, b, e c, podemos verificar que p(t) pode ser escrito como combinação linear dos vetores em S.
+
+> Basta ver que o sistema de equações é possível.
 
 **Conclusão da Questão 8:** Sim, p(t) pertence a S.
 
@@ -256,6 +259,11 @@ Encontrando a, b, e c, podemos verificar que p(t) pode ser escrito como combina�
 ### Resolução:
 
 **(a)** Para mostrar que o conjunto é uma base, precisamos verificar que é linearmente independente e que gera P2.
+
+> Existe um teorema na Álgebra Linear que diz que:<br>
+> Se um conjunto tem a mesma quantidade de elementos que a dimensão do espaço e este conjunto é Li, então o conjunto é base do espaço.<br>
+> Todo espaço Pn tem dimensão (n+1), logo P2 tem dimensão 3. Assim, o conjunto {1+t, 1-t, t²}, por ter 3 elementos, basta ser Li para ser base de P2.<br>
+> Comprove que o conjunto dado é Li e saberemos que ele é uma base de P2.
 
 **(b)** Precisamos resolver o sistema:
 
@@ -286,6 +294,8 @@ Resolva para encontrar a, b e c.
 ### Resolução:
 
 Para verificar a independência linear, montamos a matriz associada e verificamos se a única solução é a trivial (coeficientes nulos).
+
+> Se o conjunto tiver só 2 elementos, basta provar que eles não são múltiplos um do outro.
 
 **Conclusão da Questão 10:** (a), (b), (c), (e), (f) são linearmente independentes, (d) é linearmente dependente.
 
