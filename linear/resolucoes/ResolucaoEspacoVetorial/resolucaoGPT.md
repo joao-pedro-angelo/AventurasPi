@@ -51,6 +51,9 @@ Portanto, o conjunto (a) é um subespaço de M(2,2).
 
 **(b)** Este conjunto não é um subespaço vetorial porque a condição a + d <= b + c não é fechada sob adição ou multiplicação escalar.
 
+> Geralmente, quando uma das condições de existência do conjunto é uma inequação, então este conjunto não será subespaço.<br>
+> Pois a inequação, quando multiplicada por um escalar real negativo, terá seu sinal invertido.
+
 **(c)** O conjunto de todas as matrizes simétricas (onde A = A^T) é um subespaço de M(2, 2). Para duas matrizes A, B em W, temos que A + B é simétrica e kA é simétrica para qualquer escalar k.
 
 **Conclusão da Questão 2:** Apenas os conjuntos (a) e (c) são subespaços vetoriais de M(2, 2).
@@ -72,13 +75,13 @@ Este conjunto consiste de todos os polinômios de grau no máximo 2 que passam p
 
 **(b) W = {p(t) em P2 | p(0) = 2p(1)}**
 
-Este não é um subespaço vetorial, pois a condição p(0) = 2p(1) não é necessariamente preservada pela adição ou multiplicação por escalar.
+Este conjunto é um subespaço vetorial, pois a condição p(0) = 2p(1) é preservada pela adição ou multiplicação por escalar.
 
 **(c) W = {p(t) em P2 | p(t) + p'(t) = 0}**
 
 Este conjunto é um subespaço, pois qualquer combinação linear de polinômios cuja derivada é o negativo do próprio polinômio também satisfará essa condição. Além disso, a multiplicação por um escalar não altera a condição.
 
-**Conclusão da Questão 3:** Apenas os conjuntos (a) e (c) são subespaços vetoriais de P2.
+**Conclusão da Questão 3:** Todos os conjuntos (a), (b) e (c) são subespaços vetoriais de P2.
 
 ---
 ## Questão 4
@@ -91,7 +94,7 @@ Este conjunto é um subespaço, pois qualquer combinação linear de polinômios
 
 ### Resolução:
 
-Para um conjunto ser um subespaço vetorial, ele deve satisfazer as três condições mencionadas anteriormente: conter o vetor nulo, ser fechado sob adição e ser fechado sob multiplicação escalar.
+> Para um conjunto ser um subespaço vetorial, ele deve satisfazer as três condições mencionadas anteriormente: conter o vetor nulo, ser fechado sob adição e ser fechado sob multiplicação escalar.
 
 **(a) Para W = {(x, y, z, t) em R^4 | x + y = 0 e z - t = 0}**
 
