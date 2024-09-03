@@ -295,7 +295,10 @@ Resolva para encontrar a, b e c.
 
 Para verificar a independência linear, montamos a matriz associada e verificamos se a única solução é a trivial (coeficientes nulos).
 
-> Se o conjunto tiver só 2 elementos, basta provar que eles não são múltiplos um do outro.
+> Se o conjunto tiver só 2 elementos, basta provar que eles não são múltiplos um do outro.<br>
+> Se o número de elementos do conjunto for maior que a dimensão do espaço, então o conjunto será LD.<br>
+> Se o conjunto incluir o vetor nulo, então o conjunto será LD.<br>
+> Se dois vetores do conjunto forem múltiplos um do outro, então o conjunto será LD.<br>
 
 **Conclusão da Questão 10:** (a), (b), (c), (e), (f) são linearmente independentes, (d) é linearmente dependente.
 
@@ -313,21 +316,12 @@ Para verificar a independência linear, montamos a matriz associada e verificamo
 
 ### Resolução:
 
-Para ser uma base de um espaço vetorial, um conjunto deve ser linearmente independente (LI) e deve gerar o espaço vetorial.
+> Para ser uma base de um espaço vetorial, um conjunto deve ser linearmente independente (LI) e deve gerar o espaço vetorial.
 
-**(a)** O conjunto {(1, 0, 2), (1, 1, 2), (1, 1, 4)} não é linearmente independente, pois (1, 1, 4) pode ser escrito como combinação linear dos outros dois vetores. Logo, não é uma base de R^3.
+> Existe um teorema na Álgebra Linear que diz que:<br>
+> Se um conjunto tem a mesma quantidade de elementos que a dimensão do espaço e este conjunto é Li, então o conjunto é base do espaço.
 
-**(b)** O conjunto {(2, 1, -1), (1, 0, -1), (1, 1, 0)} é linearmente independente e gera R^3, então é uma base de R^3.
-
-**(c)** O conjunto {[1 0; 0 1], [0 1; 1 0], [1 1; 0 1], [1 0; 1 1]} tem mais de 4 elementos, mas o espaço vetorial M(2, 2) tem dimensão 4, logo, não pode ser uma base.
-
-**(d)** O conjunto {[1 0; 0 1], [0 -1; 1 0], [1 1; 1 -1], [2 1; 1 0]} também tem mais de 4 elementos, então não é uma base de M(2, 2).
-
-**(e)** O conjunto {t, 1 + t, t - t^2} é linearmente independente e gera P2, então é uma base de P2.
-
-**(f)** O conjunto {1, 2 - t, 3 - t^2, t + 2t^2} tem mais de 3 elementos e P2 tem dimensão 3, então não pode ser uma base.
-
-**Conclusão da Questão 11:** Os conjuntos que são bases são (b) e (e).
+**Resposta da Questão 11:** Os conjuntos que são bases são (a) e (e).
 
 ---
 ## Questão 12
@@ -341,15 +335,7 @@ Para ser uma base de um espaço vetorial, um conjunto deve ser linearmente indep
 
 ### Resolução:
 
-**(a)** Falso. O conjunto não é fechado sob adição ou multiplicação escalar, portanto, não é um subespaço vetorial.
-
-**(b)** Falso. O conjunto não gera R^2 porque tem três vetores em um espaço de dimensão 2.
-
-**(c)** Falso. O vetor (1, 0, 0) não pode ser escrito como combinação linear dos vetores dados.
-
-**(d)** Verdadeiro. O conjunto é linearmente independente e tem 3 vetores em R^3, portanto, é uma base.
-
-**Conclusão da Questão 12:** (a) F, (b) F, (c) F, (d) V.
+**Conclusão da Questão 12:** (a) F, (b) V, (c) V, (d) F.
 
 ---
 ## Questão 13
@@ -391,6 +377,10 @@ Para ser uma base de um espaço vetorial, um conjunto deve ser linearmente indep
 
 **Sejam W1 = [(1, 0, 0)] e W2 = [(1, 1, 0), (0, 1, 1)] subespaços de R^3. Mostre que R^3 = W1 ⊕ W2.**
 
+> O símbolo de soma direta é ⊕<br>
+> Dados dois subespaços W1 e W2 do espaço vetorial V, a soma direta entre W1 e W2 ocorre se:<br>
+> A intersecção entre W1 e W2 é somente o vetor nulo.
+
 ### Resolução:
 
 Para mostrar que R^3 = W1 ⊕ W2, precisamos verificar que:
@@ -423,3 +413,4 @@ Verificação:
 
 ---
 ## Questão 17
+
