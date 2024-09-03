@@ -41,7 +41,7 @@ Este conjunto não é fechado sob multiplicação escalar. Por exemplo, se consi
 
 ### Resolução:
 
-**(a) Para verificar se é um subespaço, precisamos checar as três condições mencionadas anteriormente.**
+**(a) Para verificar se o conjunto dado é um subespaço, precisamos checar as três condições mencionadas anteriormente.**
 
 - Contém o vetor nulo: Se a = c = 0 e b + d = 0, então temos a matriz nula.
 - Fechamento sob adição: Se A1 = [a1 b1; a1 d1] e A2 = [a2 b2; a2 d2] estão em W, então a1 + a2 = c1 + c2 e (b1 + b2) + (d1 + d2) = 0. Portanto, A1 + A2 está em W.
