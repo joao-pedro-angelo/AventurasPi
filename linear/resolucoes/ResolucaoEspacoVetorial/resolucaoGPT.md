@@ -18,7 +18,7 @@ Para ser um subespaço vetorial, um conjunto deve satisfazer três condições:
 
 **(a) W = {(x, y, z) em R^3 | x - 3z = 0}**
 
-Este conjunto contém todos os vetores de R^3 que satisfazem a equação x - 3z = 0. Podemos reescrever como x = 3z. Qualquer combinação linear de dois vetores em W também satisfará esta equação, assim como a multiplicação por um escalar. Portanto, W é um subespaço de R^3.
+Este conjunto contém todos os vetores de R^3 que satisfazem a equação x - 3z = 0. Podemos reescrever como x = 3z. Qualquer adição de dois vetores em W também satisfará esta equação, assim como a multiplicação por um escalar. Portanto, W é um subespaço de R^3.
 
 **(b) W = {(x, y, z) em R^3 | x em Z}**
 
