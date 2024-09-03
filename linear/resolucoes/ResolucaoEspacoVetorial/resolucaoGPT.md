@@ -412,5 +412,65 @@ Verificação:
 **Conclusão da Questão 16:** (a) Base: {(-1, 1, 0), (-1, 0, 1)}, Dimensão: 2. (b) Base: {(1, 1, 1)}, Dimensão: 1.
 
 ---
-## Questão 17
+## Questão 17 - Gabarito
 
+**(a)** W1 = [(1, 1, 0),(0, 0, 1)]
+**(b)** W2 = [(−1, −1/2, 1)]
+**(c)** W3 = [(−2, 1, 0),(3, 0, 1)]
+**(d)** W1 ∩ W2 = [(0, 0, 0)]
+**(e)** W2 + W3 = [(−1, −1/2, 1),(−2, 1, 0),(3, 0, 1)]
+
+---
+## Questão 18 - Gabarito
+
+**(a)** Uma base para W1 ∩ W2  é {(1/2, 1/2, 1)}. Logo, dim(W1 ∩ W2) = 1
+**(b)** Uma base para W1 + W2  é {(1, 0, 1),(0, 1, 1),(1, 1, 0)}. Logo, dim(W1 + W2) = 3
+**(c)** Sim. Justifique.
+**(d)** Não. Justifique.
+
+---
+## Questão 19 - Gabarito
+
+**(a)** Uma base para W1 ∩ W2  é {(0, 0, 1, 1)}. Logo, dim(W1 ∩ W2) = 1
+**(b)** Uma base para W1 + W2  é {(−1, 1, 0, 0),(0, 0, 1, 1),(1, 1, 0, 0),(1, 0, 1, 0)}. Logo,
+dim(W1 + W2) = 4
+**(c)** Sim. Justifique.
+**(d)** Não. Justifique.
+
+---
+## Questão 20 - Gabarito
+
+[(4, -1)β] = [1, 2]
+
+---
+## Questão 21 - Gabarito
+
+**(a)** Como dim R³ = 3, basta mostrar que os vetores s ̃ao LI
+**(b)** [5, -6, -1]
+**(c)** v = (2, 1, 4)
+
+---
+## Questão 22 - Gabarito
+
+[5, -3, 0]
+
+---
+## Questão 23 - Gabarito
+
+α = {(1, 5),(0, 6)}
+
+---
+## Questão 24 - Gabarito
+
+[4, 2] e [2, 1]
+
+---
+## Questão 25 - Gabarito
+
+19
+
+---
+## Gabaritos das Questões Restantes
+
+![img](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/2627.png)<br>
+![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/28ate30.png)
