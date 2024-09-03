@@ -129,9 +129,9 @@ Logo, W é um subespaço vetorial de R^4.
 
 ### Resolução:
 
-Devemos encontrar escalares a, b, c tais que:
+Devemos encontrar escalares **a, b, c** tais que:
 
-a(1, 0, 0) + b(1, 1, 0) + c(2, -3, 5) = (1, -3, 10)
+**a(1, 0, 0) + b(1, 1, 0) + c(2, -3, 5) = (1, -3, 10)**
 
 Sistema de equações:
 
@@ -160,7 +160,7 @@ Portanto, (1, -3, 10) = -6u + 3v + 2w.
 
 ### Resolução:
 
-**(a) Para u = a*v1 + b*v2:**
+**(a) Para u = a(1, -3, 2) + b(2, 4, -1):**
 
 a(1, -3, 2) + b(2, 4, -1) = (-4, -18, 7)
 
@@ -188,7 +188,7 @@ Sistema inconsistente (contradição). Logo, v não é combinação linear de v1
 
 **(c)** O sistema linear deve ser resolvido em termos de a e b para encontrar uma relação entre x, y, z que satisfaça as combinações lineares.
 
-**Conclusão da Questão 6:** (a) u = 2v1 - 3v2; (b) v não é combinação linear de v1 e v2; (c) A condição para (x, y, z) dependerá da solução do sistema.
+Uma solução seria: x − y − 2z = 0
 
 ---
 ## Questão 7
@@ -208,12 +208,21 @@ a(0, -2, 2) + b(1, 3, -1) = (x, y, z)
 
 Para cada vetor:
 
-(a) Resolver para (2, 2, 2):
-- Sistema: b = 2; -2a + 3b = 2; 2a - b = 2.
+**(a)** Resolver para (2, 2, 2):
+a(0, -2, 2) + b(1, 3, -1) = (2, 2, 2)
 
-Encontramos a e b para satisfazer o sistema.
+**(b)** Resolver para (3, 1, 5):
+a(0, -2, 2) + b(1, 3, -1) = (3, 1, 5)
+
+**(c)** Resolver para (0, 4, 5):
+a(0, -2, 2) + b(1, 3, -1) = (0, 4, 5)
+
+**(d)** Resolver para (0, 0, 0):
+a(0, -2, 2) + b(1, 3, -1) = (0, 0, 0)
 
 **Conclusão da Questão 7:** Apenas os vetores (a), (b) e (d) são combinações lineares de u e v.
+
+> O sistema da letra c) será impossível. Lembre que um sistema impossível, o posto da matriz dos coeficientes é diferente do posto da ampliada.
 
 ---
 ## Questão 8
