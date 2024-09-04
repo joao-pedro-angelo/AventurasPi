@@ -156,6 +156,15 @@ Logo, dim(W1 + W2) = 2 + 1 - 0 = 3.
   - A base 𝛾 = {𝑤1, 𝑤2, 𝑤3}
 
 **2. Interpretar a matriz de mudança de base**
+
+> Observação: O GPT interpretou a matriz de mudança de base de forma invertida.<br>
+> Veja que a questão da uma matriz de mudança de base de Beta para Gama.<br>
+> A IA interpretou como sendo uma matriz de Gama para Beta.<br>
+> Porém, a lógica segue a mesma. O importante é entender o processo.
+
+> Na questão, para encontrar [u1] (que está em base Beta) na sua versão em base Gama, basta multiplicar [u1] pela matriz dada.<br>
+> A inversão será para encontrar [u2].
+
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/40901.png)
 
 ![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/40902.png)
