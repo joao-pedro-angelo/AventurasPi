@@ -5,9 +5,10 @@
 
 > Para que um conjunto seja um subespaco, ele precisa satisfazer tres propriedades: conter o vetor nulo, ser fechado para adicao e ser fechado para multiplicacao escalar.
 
-1. Vetor Nulo:
+**1. Vetor Nulo:**
   (0, 0, 0) está presente em W, pois z = x*y e 0 = 0*0
-2. Fechamento Sob Adição:<br>
+  
+**2. Fechamento Sob Adição:**
   - Sendo (x, y, z) e (a, b, c) elementos de W, temos:<br>
     - (x, y, z) = (x, y, xy)<br>
     - (a, b, c) = (a, b, ab)<br>
@@ -23,15 +24,15 @@
 > Sabemos que a dimensão de Pn é (n+1). Assim, a dimensão de P2 = 3.<br>
 > Desse modo, como o conjunto apresentado tem 3 elementos, basta provarmos que é um conjunto LI.<br>
 
-1. Provar a Lineariedade:<br>
+**1. Provar a Lineariedade:**
   - a(1 + t) + b(2t - t²) + c*3t² = 0
   - a + at + b2t - bt² + c3t²
   - (c - b)t² + (a + 2b)t + a = 0
 
-  - Temos o sistema:
-    - a = 0
-    - a + 2b = 0
-    - c - b = 0
+**2. Resolver o sistema:**
+  - a = 0
+  - a + 2b = 0
+  - c - b = 0
 
   Resolvendo este sistema, iremos encontrar a = 0, b = 0 e c = 0. Logo, o conjunto é LI.
 
@@ -40,9 +41,10 @@
 ---
 ## 2ª a) Dimensão de um Subespaço
 
-1. Reescrever a Matriz dada como uma combinação linear:<br>
-  - a[1 0] + b[1 -1] + c[0 2]
-     [1 0]    [0  0]    [2 0]
+**1. Reescrever a Matriz dada como uma combinação linear:**
+  - a[1 0];[1 0]  + b[1 -1];[0  0] + c[0 2];[2 0]
+
+> O ponto e vírgula (;) separa as linhas das matrizes. É uma limitação do Markdown.
 
   - Agora, temos que as 3 matrizes acima formam um conjunto gerador do subespaço dado.<br>
   - Para que este conjunto seja uma base, é preciso que além de gerador, ele seja LI.<br>
