@@ -8,5 +8,6 @@
 4. União entre subespaços;
 5. Dimensão de um determinado subespaço;
 6. Dimensão da interseção entre subespaços;
-7. Construção da matriz de mudança de base;
-8. Usar a matriz de mudança de base.
+7. Dado um determinado conjunto, saber completar este conjunto até formar uma base;
+8. Construção da matriz de mudança de base;
+9. Usar a matriz de mudança de base.
