@@ -56,7 +56,7 @@
 9. **[Teste da Raiz]**
 10. **[Teste da Convergência Absoluta]**
 11. **[Séries Alternadas]**
-12. **[Séres de Potência]**
+12. **[Séries de Potência]**
 
 ---
 ## Listas de Exercícios
