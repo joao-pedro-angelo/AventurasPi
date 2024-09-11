@@ -38,12 +38,25 @@
 2. **[Volume de Sólidos de Revolução - Método Disco](resolucoes/resolucaoLista02/volumePorDisco.md)**
 3. **[Volume de Sólidos de Revolução - Método Anel](resolucoes/resolucaoLista02/volumeMetodoAnel.md)**
 4. **[Volume por Cascas Cilíndricas](resolucoes/resolucaoLista02/volumeCascaCilindrica.md)**
-5. **[Comprimento de Curvas Planas]**
-6. **[Área de Superfícies de Revolução]**
+5. **[Comprimento de Curvas Planas](teoria/curvasPlanas.pdf)**
+6. **[Área de Superfícies de Revolução](teoria/areaSuperficiesCalc2.pdf)**
 7. **[Playlist - Aplicações de Integrais - Todo Conteúdo do 2º Estágio](https://www.youtube.com/playlist?list=PLUdN13q_LrwpyA861yPkeFl6j8UW-37a7)**
 
 ---
 ## 3º Estágio
+
+1. **[Sequências]**
+2. **[Limites de Sequência]**
+3. **[Séries Infinitas]**
+4. **[Teste do n-ésimo termo]**
+5. **[Teste da Integral]**
+6. **[Teste da Comparação Direta]**
+7. **[Teste da Comparação no Limite]**
+8. **[Teste da Razão]**
+9. **[Teste da Raiz]**
+10. **[Teste da Convergência Absoluta]**
+11. **[Séries Alternadas]**
+12. **[Séres de Potência]**
 
 ---
 ## Listas de Exercícios
