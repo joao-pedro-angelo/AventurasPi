@@ -63,3 +63,5 @@ Como discutido anteriormente, as propriedades dos limites podem ser usadas para 
 ## Teorema do Confronto
 
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/TeoremaConfrontoSequencias.png)
+
+![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/MaisExemplosTeoremaConfrontoSeq.png)
