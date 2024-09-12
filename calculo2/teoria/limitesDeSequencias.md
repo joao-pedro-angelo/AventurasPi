@@ -70,3 +70,8 @@ Como discutido anteriormente, as propriedades dos limites podem ser usadas para 
 ## Teorema da Função Contínua
 
 ![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/teoremaDaFuncaoContinua.png)
+
+---
+## Regra de L'Hospital
+
+![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/lhospitalEmSeq.png)
