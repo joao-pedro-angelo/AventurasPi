@@ -65,3 +65,5 @@ Como discutido anteriormente, as propriedades dos limites podem ser usadas para 
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/TeoremaConfrontoSequencias.png)
 
 ![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/MaisExemplosTeoremaConfrontoSeq.png)
+
+![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/teoremaDaFuncaoContinua.png)
