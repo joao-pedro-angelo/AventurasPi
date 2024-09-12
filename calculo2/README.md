@@ -69,6 +69,7 @@
 6. **[Simulado 2º Estágio](pdfs/simulado_calculo_integral.md)**
 7. **[Prova C2 1º Estágio 2023.2 - UFCG](pdfs/calc2prova1.pdf)**
 8. **[Prova C2 2º Estágio 2023.2 - UFCG](pdfs/calc2prova2.pdf)**
+9. **[Prova C2 3º Estágio 2023.2 - UFCG](pdfs/teste3-20232.pdf)**
 
 ---
 ## Exercícios Resolvidos
