@@ -17,7 +17,7 @@
 8. **[Playlist - Resolução de Integrais Definidas](https://www.youtube.com/playlist?list=PLSP4PNEIJatVgEQUSTaSqp4D8I4ZQKcda)**
 
 ---
-## 1º Estágio - Métodos de integração
+## 1º Estágio
 
 1. **[Integração por Substituição](pdfs/Metodo-da-substituicao.pdf)**
 2. **[Integração por Partes](pdfs/Integracao-por-partes.pdf)**
