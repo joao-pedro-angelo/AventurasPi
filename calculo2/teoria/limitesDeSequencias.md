@@ -58,3 +58,8 @@ Considere a sequência `an = (3n^2 + 2) / (n^2 + 1)`. Dividindo o numerador e o 
 #### 2. Utilizar as Propriedades dos Limites
 
 Como discutido anteriormente, as propriedades dos limites podem ser usadas para simplificar o cálculo.
+
+---
+## Teorema do Confronto
+
+![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/TeoremaConfrontoSequencias.png)
