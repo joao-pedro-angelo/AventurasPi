@@ -45,18 +45,19 @@
 ---
 ## 3º Estágio
 
-1. **[Sequências]**
-2. **[Limites de Sequência]**
-3. **[Séries Infinitas]**
-4. **[Teste do n-ésimo termo]**
-5. **[Teste da Integral]**
-6. **[Teste da Comparação Direta]**
-7. **[Teste da Comparação no Limite]**
-8. **[Teste da Razão]**
-9. **[Teste da Raiz]**
-10. **[Teste da Convergência Absoluta]**
-11. **[Séries Alternadas]**
-12. **[Séries de Potência]**
+1. **[Sequências](teoria/sequenciasDefinicao.md)**
+2. **[Convergência e Divergência de Sequências](teoria/convergenciaDivergenciaSequencias.md)**
+3. **[Limites de Sequência]**
+4. **[Séries Infinitas]**
+5. **[Teste do n-ésimo termo]**
+6. **[Teste da Integral]**
+7. **[Teste da Comparação Direta]**
+8. **[Teste da Comparação no Limite]**
+9. **[Teste da Razão]**
+10. **[Teste da Raiz]**
+11. **[Teste da Convergência Absoluta]**
+12. **[Séries Alternadas]**
+13. **[Séries de Potência]**
 
 ---
 ## Listas de Exercícios
