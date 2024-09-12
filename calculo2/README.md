@@ -50,15 +50,16 @@
 3. **[Limites de Sequência](teoria/limitesDeSequencias.md)**
 4. **[Soma Parcial](teoria/somaParcial.md)**
 5. **[Séries Infinitas](teoria/seriesInfinitas.md)**
-6. **[Teste do n-ésimo termo]**
-7. **[Teste da Integral]**
-8. **[Teste da Comparação Direta]**
-9. **[Teste da Comparação no Limite]**
-10. **[Teste da Razão]**
-11. **[Teste da Raiz]**
-12. **[Teste da Convergência Absoluta]**
-13. **[Séries Alternadas]**
-14. **[Séries de Potência]**
+6. **[Séries Geométricas]**
+7. **[Teste do n-ésimo termo]**
+8. **[Teste da Integral]**
+9. **[Teste da Comparação Direta]**
+10. **[Teste da Comparação no Limite]**
+11. **[Teste da Razão]**
+12. **[Teste da Raiz]**
+13. **[Teste da Convergência Absoluta]**
+14. **[Séries Alternadas]**
+15. **[Séries de Potência]**
 
 ---
 ## Listas de Exercícios
