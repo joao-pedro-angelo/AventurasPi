@@ -48,16 +48,17 @@
 1. **[Sequências](teoria/sequenciasDefinicao.md)**
 2. **[Convergência e Divergência de Sequências](teoria/convergenciaDivergenciaSequencias.md)**
 3. **[Limites de Sequência](teoria/limitesDeSequencias.md)**
-4. **[Séries Infinitas]**
-5. **[Teste do n-ésimo termo]**
-6. **[Teste da Integral]**
-7. **[Teste da Comparação Direta]**
-8. **[Teste da Comparação no Limite]**
-9. **[Teste da Razão]**
-10. **[Teste da Raiz]**
-11. **[Teste da Convergência Absoluta]**
-12. **[Séries Alternadas]**
-13. **[Séries de Potência]**
+4. **[Exercícios Sequências](teoria/exSequencias.md)**
+5. **[Séries Infinitas]**
+6. **[Teste do n-ésimo termo]**
+7. **[Teste da Integral]**
+8. **[Teste da Comparação Direta]**
+9. **[Teste da Comparação no Limite]**
+10. **[Teste da Razão]**
+11. **[Teste da Raiz]**
+12. **[Teste da Convergência Absoluta]**
+13. **[Séries Alternadas]**
+14. **[Séries de Potência]**
 
 ---
 ## Listas de Exercícios
