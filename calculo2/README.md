@@ -47,7 +47,7 @@
 
 1. **[Sequências](teoria/sequenciasDefinicao.md)**
 2. **[Convergência e Divergência de Sequências](teoria/convergenciaDivergenciaSequencias.md)**
-3. **[Limites de Sequência]**
+3. **[Limites de Sequência](teoria/limitesDeSequencias.md)**
 4. **[Séries Infinitas]**
 5. **[Teste do n-ésimo termo]**
 6. **[Teste da Integral]**
