@@ -25,7 +25,7 @@ Essa soma pode convergir para um valor finito ou divergir.
 ![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/propriedadesReidenxacaoSeries.png)
 
 ---
-## Como calcular a soma de uma sequência infinita
+## Como calcular uma Série Infinita
 
 1. Descubra uma fórmula para a soma dos `n` primeiros termos da sequência.
 2. Calcule o limite tendendo ao infinito desta fórmula.
