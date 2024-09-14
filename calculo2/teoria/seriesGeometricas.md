@@ -33,7 +33,7 @@ A razão também pode ser encontrada dividindo o segundo termo da sequência pel
 `|r| < 1`
 
 ---
-## Termo Geral
+## Fórmula para encontrar o n-ésimo termo
 
 ![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/140904.png)
 
