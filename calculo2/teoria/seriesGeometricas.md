@@ -58,4 +58,4 @@ A razão também pode ser encontrada dividindo o segundo termo da sequência pel
 ![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/140908.png)
 
 A questão acima não deu a razão, mas deu a sequência.<br>
-Dividindo o segundo termo, `-1`, pelo primeiro `3`, encontramos a razão: `-1/3`
+Dividindo o segundo termo, que é `-1`, pelo primeiro, que é `3`, encontramos a razão: `-1/3`
