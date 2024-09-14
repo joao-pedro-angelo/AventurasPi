@@ -33,6 +33,3 @@ Essa soma pode convergir para um valor finito ou divergir.
 
 ---
 ![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/130901.png)
-
-> Observe que o n começa do 1.<br>
-> Use a reindexação, caso necessário.
