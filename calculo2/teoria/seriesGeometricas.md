@@ -53,9 +53,25 @@ A razão também pode ser encontrada dividindo o segundo termo da sequência pel
 ![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/140907.png)
 
 ---
+## Explicação da Fórmula acima
+
+Para calcular a soma de uma série infinita, usamos limites tendendo ao infinito.<br>
+Quando usamos o limite tendendo ao infinito em uma série geométrica, encontramos o seguinte:
+
+![img08](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/140909.png)
+
+---
+## Conclusão
+
+![img09](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/140910.png)
+
+---
 ## Exemplo
 
 ![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/140908.png)
+
+> Observe que o `n` está começando do 0.<br>
+> Se começasse do 1, teríamos o expoente igual a `n - 1`
 
 A questão acima não deu a razão, mas deu a sequência.<br>
 Dividindo o segundo termo, que é `-1`, pelo primeiro, que é `3`, encontramos a razão: `-1/3`
