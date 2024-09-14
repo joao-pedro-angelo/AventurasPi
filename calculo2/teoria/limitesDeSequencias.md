@@ -1,5 +1,7 @@
 # Limites de Sequências
 
+> Os limites deste tópico estão tendendo ao infinito.
+
 ---
 ## Definição
 
