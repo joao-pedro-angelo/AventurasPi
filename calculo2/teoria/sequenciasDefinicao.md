@@ -13,7 +13,9 @@ A notação mais comum para uma sequência é representá-la como uma lista de t
 
 `{an} = a1, a2, a3, a4, ..., an, ...`
 
-`an` é a função que gera a sequência.
+`{an}` é a função que gera a sequência.<br>
+`a1` é o primeiro termo.<br>
+`an` é o n-ésimo termo.
 
 ---
 ## Exemplos
