@@ -23,13 +23,14 @@
 2. **[Integração por Partes](pdfs/Integracao-por-partes.pdf)**
 3. **[Integrais Trigonométricas](teoria/SenoCasosEspeciaisDeIntegrais.md)**
 4. **[Substituição Trigonométrica](pdfs/SubstituicaoTrigonometrica1.pdf)**
-5. **[Integração por Frações Parciais](pdfs/IntegracaoPorFracoesParciais.pdf)**
-6. **[Integrais Impróprias](pdfs/integraisimproprias.pdf)**
-7. **[Critérios de Convergência de Integrais](teoria/CriteriosConvergenciaDeIntegrais.md)**
-8. **[Vídeo - Exercícios Testes de Convergência](https://youtu.be/7jhEVZt9_z4?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
-9. **[Integrais e Fórmulas para Decorar](teoria/Decorar.md)**
-10. **[Playlist - Resolução de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
-11. **[Playlist - Resolução de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
+5. **[Exemplos - Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
+6. **[Integração por Frações Parciais](pdfs/IntegracaoPorFracoesParciais.pdf)**
+7. **[Integrais Impróprias](pdfs/integraisimproprias.pdf)**
+8. **[Critérios de Convergência de Integrais](teoria/CriteriosConvergenciaDeIntegrais.md)**
+9. **[Vídeo - Exercícios Testes de Convergência](https://youtu.be/7jhEVZt9_z4?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+10. **[Integrais e Fórmulas para Decorar](teoria/Decorar.md)**
+11. **[Playlist - Resolução de Exercícios 01](https://www.youtube.com/playlist?list=PLUdN13q_LrwqmIekdg8Ncqp0PsV1MyxYd)**
+12. **[Playlist - Resolução de Exercícios 02](https://www.youtube.com/playlist?list=PLhSDZSsofXGNuFTlwweS7yGZRwAeRAX4V)**
 
 ---
 ## 2º Estágio 
@@ -48,18 +49,20 @@
 1. **[Sequências](teoria/sequenciasDefinicao.md)**
 2. **[Convergência e Divergência de Sequências](teoria/convergenciaDivergenciaSequencias.md)**
 3. **[Limites de Sequência](teoria/limitesDeSequencias.md)**
-4. **[Soma Parcial](teoria/somaParcial.md)**
-5. **[Séries Infinitas](teoria/seriesInfinitas.md)**
-6. **[Séries Geométricas](teoria/seriesGeometricas.md)**
-7. **[Teste do n-ésimo termo]**
-8. **[Teste da Integral]**
-9. **[Teste da Comparação Direta]**
-10. **[Teste da Comparação no Limite]**
-11. **[Teste da Razão]**
-12. **[Teste da Raiz]**
-13. **[Teste da Convergência Absoluta]**
-14. **[Séries Alternadas]**
-15. **[Séries de Potência]**
+4. **[Exemplos - Limites de Sequências](teoria/exSequencias.md)**
+5. **[Soma Parcial](teoria/somaParcial.md)**
+6. **[Séries Infinitas](teoria/seriesInfinitas.md)**
+7. **[Séries Geométricas](teoria/seriesGeometricas.md)**
+8. **[Exemplos - Séries Geométricas](teoria/exemplosSeriesGeometricas.md)**
+9. **[Teste do n-ésimo termo]**
+10. **[Teste da Integral]**
+11. **[Teste da Comparação Direta]**
+12. **[Teste da Comparação no Limite]**
+13. **[Teste da Razão]**
+14. **[Teste da Raiz]**
+15. **[Teste da Convergência Absoluta]**
+16. **[Séries Alternadas]**
+17. **[Séries de Potência]**
 
 ---
 ## Listas de Exercícios
@@ -78,7 +81,5 @@
 ## Exercícios Resolvidos
 
 1. **[Resolução Parcial - Lista do 1º Estágio](resolucoes/resolucaoLista01/README.md)**
-2. **[Exemplos - Integrais Trigonométricas](resolucoes/resolucaoIntegraisTrigonometricas/README.md)**
-3. **[Exemplos - Limites de Sequências](teoria/exSequencias.md)**
-4. **[Resolução - Prova C2 - 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
-5. **[Resolução - Prova C2 - 2º Estágio 2023.2](pdfs/calc2Prova2Resol.jpeg)**
+2. **[Resolução - Prova C2 - 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
+3. **[Resolução - Prova C2 - 2º Estágio 2023.2](pdfs/calc2Prova2Resol.jpeg)**
