@@ -36,7 +36,7 @@ Se `{an}` é uma sequência com limite finito e `c` é uma constante, então o l
 
 #### 6. Limite de uma Constante sobre n
 
-Se `{an} = K/n{`, então o limite será 0.
+Se `{an} = K/n`, então o limite será 0.
 
 #### 7. Limite Exponencial
 
