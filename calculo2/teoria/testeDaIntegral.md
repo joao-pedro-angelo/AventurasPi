@@ -14,7 +14,3 @@
 ## Exemplo 02
 
 ![image](https://github.com/user-attachments/assets/043a7f84-4667-4592-82ab-480541309396)
-
----
-## Exemplo 03
-
