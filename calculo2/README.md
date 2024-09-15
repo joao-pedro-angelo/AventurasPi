@@ -55,7 +55,7 @@
 7. **[Séries Geométricas](teoria/seriesGeometricas.md)**
 8. **[Exemplos - Séries Geométricas](teoria/exemplosSeriesGeometricas.md)**
 9. **[Teste do n-ésimo termo](teoria/testeDoNesimoTermo.md)**
-10. **[Teste da Integral]**
+10. **[Teste da Integral](teoria/testeDaIntegral.md)**
 11. **[Teste da Comparação Direta]**
 12. **[Teste da Comparação no Limite]**
 13. **[Teste da Razão]**
