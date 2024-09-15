@@ -58,7 +58,7 @@
 10. **[Teste da Integral](teoria/testeDaIntegral.md)**
 11. **[Teste da Comparação Direta](teoria/testeDaComparacaoDireta.md)**
 12. **[Teste da Comparação no Limite](teoria/testeDaComparacaoNoLimite.md)**
-13. **[Teste da Razão]**
+13. **[Teste da Razão](teoria/testeDaRazao.md)**
 14. **[Teste da Raiz]**
 15. **[Teste da Convergência Absoluta]**
 16. **[Séries Alternadas]**
