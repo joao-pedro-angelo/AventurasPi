@@ -57,7 +57,7 @@
 9. **[Teste do n-ésimo termo](teoria/testeDoNesimoTermo.md)**
 10. **[Teste da Integral](teoria/testeDaIntegral.md)**
 11. **[Teste da Comparação Direta](teoria/testeDaComparacaoDireta.md)**
-12. **[Teste da Comparação no Limite]**
+12. **[Teste da Comparação no Limite](teoria/testeDaComparacaoNoLimite.md)**
 13. **[Teste da Razão]**
 14. **[Teste da Raiz]**
 15. **[Teste da Convergência Absoluta]**
