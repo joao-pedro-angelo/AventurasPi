@@ -59,7 +59,7 @@
 11. **[Teste da Comparação Direta](teoria/testeDaComparacaoDireta.md)**
 12. **[Teste da Comparação no Limite](teoria/testeDaComparacaoNoLimite.md)**
 13. **[Teste da Razão](teoria/testeDaRazao.md)**
-14. **[Teste da Raiz]**
+14. **[Teste da Raiz](teoria/testeDaRaiz.md)**
 15. **[Teste da Convergência Absoluta]**
 16. **[Séries Alternadas]**
 17. **[Séries de Potência]**
