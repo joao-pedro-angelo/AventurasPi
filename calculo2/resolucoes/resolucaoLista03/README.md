@@ -22,7 +22,8 @@
 ---
 ## 1ª d)
 
-![image](https://github.com/user-attachments/assets/ba2a1045-d8a8-40f5-a18d-9b01d14b7296)
+![image](https://github.com/user-attachments/assets/0232a556-0215-4313-b6fa-bf20f0c0d9b7)<br>
+![image](https://github.com/user-attachments/assets/8bcb836f-9846-4011-99d5-2d47d8884ded)
 
 ---
 ## 1ª e)
