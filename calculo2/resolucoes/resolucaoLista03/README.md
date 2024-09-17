@@ -8,6 +8,9 @@
 ---
 ## 1ª b)
 
+> Quando tiver uma variável no expoente, calcule o ln de ambos os lados da igualdade.<br>
+> O expoente irá "tombar".<br>
+> Depois, basta calcular o limite da expressão encontrada.<br>
 ![image](https://github.com/user-attachments/assets/884ca897-46a7-449b-834c-41526b671248)<br>
 ![image](https://github.com/user-attachments/assets/9b3aac89-a4ff-4c55-8af0-886df6595fc8)<br>
 ![image](https://github.com/user-attachments/assets/fd57bad5-e66a-477c-8d51-912b34390231)
@@ -15,6 +18,9 @@
 ---
 ## 1ª c)
 
+> Quando tiver uma variável no expoente, calcule o ln de ambos os lados da igualdade.<br>
+> O expoente irá "tombar".<br>
+> Depois, basta calcular o limite da expressão encontrada.<br>
 ![image](https://github.com/user-attachments/assets/112477e6-268a-461b-833e-13718f88a524)<br>
 > No limite abaixo, basta observar que o denominador cresce muito mais rapidamente que o numerador.<br>
 > Logo, a sequência tende a zero.<br>
