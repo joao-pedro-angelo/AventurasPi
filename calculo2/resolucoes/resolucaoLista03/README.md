@@ -39,7 +39,8 @@
 ---
 ## 1ª g)
 
-![image](https://github.com/user-attachments/assets/c9e9adf9-dd62-46df-918f-36824d9a23bf)
+![image](https://github.com/user-attachments/assets/c9e9adf9-dd62-46df-918f-36824d9a23bf)<br>
+![image](https://github.com/user-attachments/assets/7baa868d-219b-4bc4-864c-18688d44fe65)
 
 ---
 ## 1ª h)
