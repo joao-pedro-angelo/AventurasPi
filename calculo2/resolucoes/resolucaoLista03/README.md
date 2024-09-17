@@ -58,7 +58,10 @@
 ## 2ª a)
 
 ![image](https://github.com/user-attachments/assets/93122441-e3c9-414c-ac71-dcf1af4c8264)<br>
-![image](https://github.com/user-attachments/assets/deda579e-5f32-4fc2-9293-cbba4fdca248)
+![image](https://github.com/user-attachments/assets/deda579e-5f32-4fc2-9293-cbba4fdca248)<br>
+![image](https://github.com/user-attachments/assets/a8fcc721-ecda-4e68-9ab0-db3e7cd0bcb2)<br>
+
+> Esse "1" que vem antes do último termo, é o primeiro termo da série telescópica.
 
 ---
 ## 2ª b)
