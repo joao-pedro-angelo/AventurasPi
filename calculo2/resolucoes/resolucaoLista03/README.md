@@ -16,6 +16,8 @@
 ## 1ª c)
 
 ![image](https://github.com/user-attachments/assets/112477e6-268a-461b-833e-13718f88a524)<br>
+> No limite abaixo, basta observar que o denominador cresce muito mais rapidamente que o numerador.<br>
+> Logo, a sequência tende a zero.<br>
 ![image](https://github.com/user-attachments/assets/2c866da7-c515-47aa-b6d7-f962ce0e98c7)<br>
 ![image](https://github.com/user-attachments/assets/98725ec7-bd0e-43e4-b0ee-65dc7f9f1e8f)
 
@@ -34,6 +36,8 @@
 ---
 ## 1ª f)
 
+> Basta observar que o denominador cresce muito mais rapidamente que o numerador.<br>
+> Logo, a sequência tende a zero.<br>
 ![image](https://github.com/user-attachments/assets/0fc0e83e-5ff1-486d-a016-98e92aa2970b)
 
 ---
@@ -45,6 +49,8 @@
 ---
 ## 1ª h)
 
+> Basta observar que o denominador cresce muito mais rapidamente que o numerador.<br>
+> Logo, a sequência tende a zero.<br>
 ![image](https://github.com/user-attachments/assets/3c3a9da0-5ece-4fc9-be3f-6c4fbe7dde25)
 
 ---
