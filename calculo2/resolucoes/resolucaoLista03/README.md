@@ -50,7 +50,9 @@
 ---
 ## 1ª i)
 
-![image](https://github.com/user-attachments/assets/3f00e5e7-d330-4233-800a-79d9b9b7e435)
+![image](https://github.com/user-attachments/assets/3f00e5e7-d330-4233-800a-79d9b9b7e435)<br>
+![image](https://github.com/user-attachments/assets/91592adc-60d7-47d6-9804-e14edade1879)<br>
+![image](https://github.com/user-attachments/assets/396ea267-619b-4378-9653-4a091a2279ad)
 
 ---
 ## 2ª a)
