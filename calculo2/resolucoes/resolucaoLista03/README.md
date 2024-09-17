@@ -28,7 +28,8 @@
 ---
 ## 1ª e)
 
-![image](https://github.com/user-attachments/assets/d372c986-5e3c-4fea-9807-e9cab241d4c6)
+![image](https://github.com/user-attachments/assets/55f52bf9-5912-4f40-b1c6-214193f5b893)<br>
+![image](https://github.com/user-attachments/assets/c07d4078-c33f-4b1c-b11f-f827e88c795b)
 
 ---
 ## 1ª f)
