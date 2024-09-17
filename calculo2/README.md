@@ -82,5 +82,6 @@
 
 1. **[Resolução - Lista 1º Estágio](resolucoes/resolucaoLista01/README.md)**
 2. **[Resolução - Lista 3º Estágio pt.1](resolucoes/resolucaoLista03/README.md)**
-3. **[Resolução - Prova C2 - 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
-4. **[Resolução - Prova C2 - 2º Estágio 2023.2](pdfs/calc2Prova2Resol.jpeg)**
+3. **[Resolução - Lista 3º Estágio pt.2](resolucoes/resolucaoLista04/README.md)**
+4. **[Resolução - Prova C2 - 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
+5. **[Resolução - Prova C2 - 2º Estágio 2023.2](pdfs/calc2Prova2Resol.jpeg)**
