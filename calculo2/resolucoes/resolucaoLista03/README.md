@@ -69,6 +69,7 @@
 ---
 ## 2ª a)
 
+> Qual teste usado? Teste da Série Telescópica.<br>
 ![image](https://github.com/user-attachments/assets/93122441-e3c9-414c-ac71-dcf1af4c8264)<br>
 ![image](https://github.com/user-attachments/assets/deda579e-5f32-4fc2-9293-cbba4fdca248)<br>
 ![image](https://github.com/user-attachments/assets/a8fcc721-ecda-4e68-9ab0-db3e7cd0bcb2)<br>
@@ -78,12 +79,15 @@
 ---
 ## 2ª b)
 
+> Em um primeiro momento, é feita a reescrita da série de forma mais simples.<br>
 ![image](https://github.com/user-attachments/assets/4f9d0bb0-c697-41aa-ac80-1fdbbb86d017)<br>
-![image](https://github.com/user-attachments/assets/f47a3d76-c1b3-409a-9873-67b75a67a123)
+> Qual teste usado? Teste da Comparação com Limite.<br>
+![image](https://github.com/user-attachments/assets/d9132f8e-9613-4f94-ab1d-9465ddd33e69)
 
 ---
 ## 2ª c)
 
+> Qual teste usado? Teste da Série Geométrica.<br>
 ![image](https://github.com/user-attachments/assets/ed87b6ba-e15e-402c-a0e7-857722b93bef)<br>
 ![image](https://github.com/user-attachments/assets/ae8d7cf1-010e-44aa-acc3-7f0b467329bc)<br>
 ![image](https://github.com/user-attachments/assets/8a303b86-cfd2-4140-988b-56df6cf0d0ae)
@@ -91,6 +95,8 @@
 ---
 ## 2ª d)
 
+> Qual teste usado? Teste da Série Geométrica.<br>
+![image](https://github.com/user-attachments/assets/22ac65c1-bb3c-47e3-a214-312740e558d3)
 ![image](https://github.com/user-attachments/assets/de27bd6f-600b-4a55-be61-82b922fae3de)<br>
 ![image](https://github.com/user-attachments/assets/1ca01df5-41e1-4feb-af47-b93e99cea624)<br>
 ![image](https://github.com/user-attachments/assets/17d9a409-a506-4f05-89ef-3413f0fa43b6)
@@ -98,16 +104,20 @@
 ---
 ## 2ª e)
 
-![image](https://github.com/user-attachments/assets/ef720443-871e-4568-a859-f8826e60403a)<br>
-![image](https://github.com/user-attachments/assets/a73c8115-c92c-426b-b71b-4865102968ec)
+> Qual teste usado? Teste da Comparação Direta e Teste da Série Geométrica.<br>
+![image](https://github.com/user-attachments/assets/9d39f147-3a5a-4f5d-9afa-a4e1a6e6bc91)<br>
 
 ---
 ## 2ª f)
 
-![image](https://github.com/user-attachments/assets/8f691624-7bd9-4240-b863-ff12ae70b142)
+> Qual teste usado? Teste da Série Geométrica.<br>
+![image](https://github.com/user-attachments/assets/e830b48c-f43b-4cbb-94cc-57d5653eb178)
 
 ---
 ## 3ª a)
+
+> Todas as séries da 3ª Questão são séries geométricas.<br>
+> Logo, usamos o teste da série geométrica.<br>
 
 ![image](https://github.com/user-attachments/assets/e9537472-a2ec-467a-81aa-712901929eed)<br>
 ![image](https://github.com/user-attachments/assets/a5f33082-b8e1-4625-819d-71a111c5bb5e)
