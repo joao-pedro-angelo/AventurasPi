@@ -81,8 +81,8 @@
 
 > Em um primeiro momento, é feita a reescrita da série de forma mais simples.<br>
 ![image](https://github.com/user-attachments/assets/4f9d0bb0-c697-41aa-ac80-1fdbbb86d017)<br>
-> Qual teste usado? Teste da Comparação com Limite.<br>
-![image](https://github.com/user-attachments/assets/d9132f8e-9613-4f94-ab1d-9465ddd33e69)
+> Qual teste usado? Teste da Comparação Direta.<br>
+![image](https://github.com/user-attachments/assets/b062214b-2145-4f46-8009-66c7a318ada1)
 
 ---
 ## 2ª c)
@@ -105,7 +105,7 @@
 ## 2ª e)
 
 > Qual teste usado? Teste da Comparação Direta e Teste da Série Geométrica.<br>
-![image](https://github.com/user-attachments/assets/9d39f147-3a5a-4f5d-9afa-a4e1a6e6bc91)<br>
+![image](https://github.com/user-attachments/assets/665041ee-cf14-4c2d-8cf0-2418326c171d)
 
 ---
 ## 2ª f)
