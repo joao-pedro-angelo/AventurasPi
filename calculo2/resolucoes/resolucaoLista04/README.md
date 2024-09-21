@@ -13,12 +13,17 @@
 ---
 ## 1ª b)
 
+> A série dada é menor que a série usada para comparação.<br>
+> Como a série *P* usada na comparação converge, então a série dada também converge.
 ![image](https://github.com/user-attachments/assets/a7fb8521-474c-4243-9b15-59dbd45f441e)
 
 ---
 ## 1ª c)
 
-![image](https://github.com/user-attachments/assets/e331a22b-1dd6-4729-b888-8c0d0ccf988a)
+![image](https://github.com/user-attachments/assets/685db2a8-987e-4a07-9aaa-7dcce65ae1eb)<br>
+![image](https://github.com/user-attachments/assets/19ce0c08-d775-496e-8ddd-cae5bf56c0f6)<br>
+![image](https://github.com/user-attachments/assets/a0d37e83-5bb3-4a9d-9a93-28ecd9b2f2c5)<br>
+![image](https://github.com/user-attachments/assets/8a659033-09a0-4d75-bbb4-200b943df4ae)
 
 ---
 ## 1ª d)
@@ -28,7 +33,7 @@
 ---
 ## 1ª e)
 
-![image](https://github.com/user-attachments/assets/e6144001-f174-4b9e-87a4-9f5efc5104b4)
+![image](https://github.com/user-attachments/assets/667f5714-24bc-47bd-9eed-555eb3393c35)
 
 ---
 ## 1ª f)
