@@ -82,7 +82,9 @@
 > Em um primeiro momento, é feita a reescrita da série de forma mais simples.<br>
 ![image](https://github.com/user-attachments/assets/4f9d0bb0-c697-41aa-ac80-1fdbbb86d017)<br>
 > Qual teste usado? Teste da Comparação Direta.<br>
-![image](https://github.com/user-attachments/assets/b062214b-2145-4f46-8009-66c7a318ada1)
+![image](https://github.com/user-attachments/assets/b062214b-2145-4f46-8009-66c7a318ada1)<br>
+> Quando *n* tende ao infinito, esta multiplicação por 2 não fará diferença.<br>
+> Assintoticamente, a série se comporta como a série harmônica.<br>
 
 ---
 ## 2ª c)
