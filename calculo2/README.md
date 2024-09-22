@@ -72,10 +72,11 @@
 3. **[Lista 2º Estágio](pdfs/Lista2.pdf)**
 4. **[Lista 3º Estágio pt.1](pdfs/Lista3.pdf)**
 5. **[Lista 3º Estágio pt.2](pdfs/Lista4.pdf)**
-6. **[Simulado 2º Estágio](pdfs/simulado_calculo_integral.md)**
-7. **[Prova C2 1º Estágio 2023.2 - UFCG](pdfs/calc2prova1.pdf)**
-8. **[Prova C2 2º Estágio 2023.2 - UFCG](pdfs/calc2prova2.pdf)**
-9. **[Prova C2 3º Estágio 2023.2 - UFCG](pdfs/teste3-20232.pdf)**
+6. **[Lista 3º Estágio pt.3](pdfs/lista05SeriesAlternadas.png)**
+7. **[Simulado 2º Estágio](pdfs/simulado_calculo_integral.md)**
+8. **[Prova C2 1º Estágio 2023.2 - UFCG](pdfs/calc2prova1.pdf)**
+9. **[Prova C2 2º Estágio 2023.2 - UFCG](pdfs/calc2prova2.pdf)**
+10. **[Prova C2 3º Estágio 2023.2 - UFCG](pdfs/teste3-20232.pdf)**
 
 ---
 ## Exercícios Resolvidos
@@ -83,6 +84,7 @@
 1. **[Resolução - Lista 1º Estágio](resolucoes/resolucaoLista01/README.md)**
 2. **[Resolução - Lista 3º Estágio pt.1](resolucoes/resolucaoLista03/README.md)**
 3. **[Resolução - Lista 3º Estágio pt.2](resolucoes/resolucaoLista04/README.md)**
-4. **[Resolução - Prova C2 - 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
-5. **[Resolução - Prova C2 - 2º Estágio 2023.2](pdfs/calc2Prova2Resol.jpeg)**
-6. **[Resolução - Prova C2 - 3º Estágio 2023.2](resolucoes/resolucaoProva3/README.md)**
+4. **[Resolução - Lista 3º Estágio pt.3](resolucoes/resolucaoLista05/README.md)**
+5. **[Resolução - Prova C2 - 1º Estágio 2023.2](pdfs/calc2Prova1Resol.jpeg)**
+6. **[Resolução - Prova C2 - 2º Estágio 2023.2](pdfs/calc2Prova2Resol.jpeg)**
+7. **[Resolução - Prova C2 - 3º Estágio 2023.2](resolucoes/resolucaoProva3/README.md)**
