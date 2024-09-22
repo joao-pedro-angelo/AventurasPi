@@ -7,7 +7,7 @@
 
 > Os conteúdos abaixo servem como estudo para o 3º estágio de Cálculo 1.<br>
 
-1. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/tabelaDerivadas.pdf)**
+1. **[Revisar Derivadas Comuns](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo1/pdfs/tabelaDerivadas.pdf)**
 2. **[O que são Integrais?](teoria/IntegraisIntroducao.md)**
 3. **[Tabela de Integrais Comuns](pdfs/tabelaIntegrais.pdf)**
 4. **[Propriedades](teoria/PropriedadesIntegrais.md)**
