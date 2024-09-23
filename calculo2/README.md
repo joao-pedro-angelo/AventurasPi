@@ -63,7 +63,6 @@
 15. **[Teste da Raiz](teoria/testeDaRaiz.md)**
 16. **[Teste da Convergência Absoluta](teoria/testeDaConvergenciaAbsoluta.md)**
 17. **[Séries Alternadas](teoria/SeriesAlternadasTeoria.md)**
-18. **[Séries de Potência]**
 
 ---
 ## Listas de Exercícios
