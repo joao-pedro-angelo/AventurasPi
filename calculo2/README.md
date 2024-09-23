@@ -62,7 +62,7 @@
 14. **[Teste da Razão](teoria/testeDaRazao.md)**
 15. **[Teste da Raiz](teoria/testeDaRaiz.md)**
 16. **[Teste da Convergência Absoluta](teoria/testeDaConvergenciaAbsoluta.md)**
-17. **[Séries Alternadas]**
+17. **[Séries Alternadas](teoria/SeriesAlternadasTeoria.md)**
 18. **[Séries de Potência]**
 
 ---
