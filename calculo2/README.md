@@ -81,6 +81,9 @@
 ---
 ## Exercícios Resolvidos
 
+> Se estiver precisando de exercícios do segundo estágio, basta abrir os arquivos do tópico *## 2º Estágio*<br>
+> Os exercícios da lista do 2º Estágio são mais complexos que os que caem na prova.
+
 1. **[Resolução - Lista 1º Estágio](resolucoes/resolucaoLista01/README.md)**
 2. **[Resolução - Lista 3º Estágio pt.1](resolucoes/resolucaoLista03/README.md)**
 3. **[Resolução - Lista 3º Estágio pt.2](resolucoes/resolucaoLista04/README.md)**
