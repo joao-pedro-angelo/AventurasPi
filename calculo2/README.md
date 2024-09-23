@@ -54,15 +54,16 @@
 6. **[Séries Infinitas](teoria/seriesInfinitas.md)**
 7. **[Séries Geométricas](teoria/seriesGeometricas.md)**
 8. **[Exemplos - Séries Geométricas](teoria/exemplosSeriesGeometricas.md)**
-9. **[Teste do n-ésimo termo](teoria/testeDoNesimoTermo.md)**
-10. **[Teste da Integral](teoria/testeDaIntegral.md)**
-11. **[Teste da Comparação Direta](teoria/testeDaComparacaoDireta.md)**
-12. **[Teste da Comparação no Limite](teoria/testeDaComparacaoNoLimite.md)**
-13. **[Teste da Razão](teoria/testeDaRazao.md)**
-14. **[Teste da Raiz](teoria/testeDaRaiz.md)**
-15. **[Teste da Convergência Absoluta](teoria/testeDaConvergenciaAbsoluta.md)**
-16. **[Séries Alternadas]**
-17. **[Séries de Potência]**
+9. **[Séries P]**(teoria/SeriesPTeoria.md)**
+10. **[Teste do n-ésimo termo](teoria/testeDoNesimoTermo.md)**
+11. **[Teste da Integral](teoria/testeDaIntegral.md)**
+12. **[Teste da Comparação Direta](teoria/testeDaComparacaoDireta.md)**
+13. **[Teste da Comparação no Limite](teoria/testeDaComparacaoNoLimite.md)**
+14. **[Teste da Razão](teoria/testeDaRazao.md)**
+15. **[Teste da Raiz](teoria/testeDaRaiz.md)**
+16. **[Teste da Convergência Absoluta](teoria/testeDaConvergenciaAbsoluta.md)**
+17. **[Séries Alternadas]**
+18. **[Séries de Potência]**
 
 ---
 ## Listas de Exercícios
