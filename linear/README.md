@@ -41,9 +41,12 @@
 2. **[Lista - Sistemas Lineares](listas/linear2.pdf)**
 3. **[Lista - Determinantes](listas/linear3.pdf)**
 4. **[Lista - Espaços Vetoriais](listas/linear4.pdf)**
-5. **[Prova 1º Estágio 2022.1](listas/2022_1Tarde.pdf)**
-6. **[Prova 2º Estágio 2023.2](resolucoes/ResolucaoEspacoVetorial/imgs/IMG_20240831_163709_812.jpg)**
-7. **[Prova 2º Estágio 2024.1](teoria/IMG_20240903_135151_737.jpg)**
+5. **[Lista - Transformação Linear pt.1](listas/listaTransformacaoLinear.pdf)**
+6. **[Lista - Transformação Linear pt.2](listas/listaTransformacaoLinearPt2.pdf)**
+7. **[Lista - Transformação Linear pt.3](listas/listaTransformacaoLinearPt3.pdf)**
+8. **[Prova 1º Estágio 2022.1](listas/2022_1Tarde.pdf)**
+9. **[Prova 2º Estágio 2023.2](resolucoes/ResolucaoEspacoVetorial/imgs/IMG_20240831_163709_812.jpg)**
+10. **[Prova 2º Estágio 2024.1](teoria/IMG_20240903_135151_737.jpg)**
 
 ---
 ## Exercícios Resolvidos
