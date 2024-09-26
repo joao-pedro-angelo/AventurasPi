@@ -54,5 +54,6 @@
 1. **[Resolução Lista - Matrizes](resolucoes/ResolucaoLista01/README.md)**
 2. **[Resolução Lista - Determinantes](resolucoes/ResolucaoLista03/README.md)**
 3. **[Resolução Lista - Espaços Vetoriais](resolucoes/ResolucaoEspacoVetorial/resolucaoGPT.md)**
-4. **[Resolução Prova 2022.1 - 1º Estágio](resolucoes/ResolucaoProva2022_1/README.md)**
-5. **[Resolução Prova 2024.1 - 2º Estágio](resolucoes/Resolucao20241/resolucao.md)**
+4. **[Resolução Lista - Transformação Linear pt.1](resolucoes/ResolucaoListaTransformacaoLinearPt1/README.md)**
+5. **[Resolução Prova 2022.1 - 1º Estágio](resolucoes/ResolucaoProva2022_1/README.md)**
+6. **[Resolução Prova 2024.1 - 2º Estágio](resolucoes/Resolucao20241/resolucao.md)**
