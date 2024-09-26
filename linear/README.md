@@ -34,6 +34,8 @@
 ---
 ## 3º Estágio
 
+1. **[Transformações Lineares](teoria/TransformacaoLinearPt1.md)**
+
 ---
 ## Listas de Exercícios
 
