@@ -38,6 +38,7 @@
 2. **[Propriedades das Transformações Lineares](teoria/PropriedadesTransformacaoLinear.md)**
 3. **[Imagem, Núcleo, Injetividade, Sobrejetividade e Isomorfismo](teoria/ConceitosImportantes.md)**
 4. **[Mais sobre Imagem e Núcleo](teoria/MaisSobreImagemNucleo.md)**
+5. **[Operações com Transformações Lineares](teoria/OperacoesComTransformacoesLineares.md)**
 
 ---
 ## Listas de Exercícios
