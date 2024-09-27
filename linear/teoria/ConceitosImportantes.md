@@ -1,15 +1,13 @@
-# Conceitos Relacionados às Transformacoes Lineares
-
-As transformacoes lineares sao funcoes que preservam a estrutura dos espacos vetoriais, ou seja, elas mantem a adicao de vetores e a multiplicacao por escalares. Varios conceitos estao associados a essas transformacoes, e entender cada um deles é crucial para compreender o comportamento dessas funcoes.
+# Conceitos Relacionados às Transformações Lineares
 
 ---
-## 1. Imagem de uma Transformacao Linear
+## 1. Imagem de uma Transformação Linear
 
-A **imagem** de uma transformacao linear T: V -> W é o conjunto de todos os vetores de W que sao alcancaveis pela aplicacao de T em vetores de V. Formalmente, a imagem e definida como:
+A **imagem** de uma transformação linear T: V -> W é o conjunto de todos os vetores de W que são alcançáveis pela aplicação de T em vetores de V. Formalmente, a imagem é definida como:
 
 - **Im(T) = {T(v) | v pertence a V}**
 
-A imagem representa todos os vetores que podem ser obtidos por meio da transformacao linear. Ela forma um subespaco vetorial de W.
+A imagem representa todos os vetores que podem ser obtidos por meio da transformação linear. Ela forma um subespaco vetorial de W.
 
 ### Exemplo:
 Se T: R^2 -> R^2 for dada por T(x, y) = (x + y, 2x), entao a imagem de T sera o conjunto de todos os vetores (x + y, 2x) para todo vetor (x, y) pertencente a R^2.
