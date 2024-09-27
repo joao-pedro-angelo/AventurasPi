@@ -76,6 +76,57 @@
 ![image](https://github.com/user-attachments/assets/43f4892b-73fd-4936-b0ce-7473aee500a8)
 
 ---
+## 8ª
+![image](https://github.com/user-attachments/assets/2864e6e9-0429-4c54-bda9-5e804c13dd4a)<br>
+![image](https://github.com/user-attachments/assets/6e4834c0-4970-48c1-9033-5bb8c80f762c)<br>
+![image](https://github.com/user-attachments/assets/8bfdee29-b588-4deb-9313-40bb6c040ce9)<br>
+![image](https://github.com/user-attachments/assets/d58c4548-137e-4856-8146-c8d0fa2e5cbf)<br>
+![image](https://github.com/user-attachments/assets/58f4a29d-aa1a-425e-accc-ebbed1ebdb53)<br>
+![image](https://github.com/user-attachments/assets/db9dc102-e808-41bb-8ae3-3f9772609748)
+
+---
+## 9ª 
+![image](https://github.com/user-attachments/assets/c9c444d2-4b03-4ff7-a7f2-035fd4ed5dc5)<br>
+![image](https://github.com/user-attachments/assets/93f6f38b-b5e1-413c-bc18-44e3dbca0d03)<br>
+![image](https://github.com/user-attachments/assets/cd192cdb-7426-4e78-803d-731db1cd35a6)
+
+---
+## 10ª
+![image](https://github.com/user-attachments/assets/4b5ace26-dcec-46e9-9b38-71de7f30b80a)<br>
+![image](https://github.com/user-attachments/assets/18c91389-f6de-4782-9568-d8277416fe00)<br>
+![image](https://github.com/user-attachments/assets/157dd425-fe5e-4de2-8d14-94101cb9e029)<br>
+![image](https://github.com/user-attachments/assets/9ce34788-c971-4f93-8f7a-3277394c59b0)
+
+---
+## 13ª
+![image](https://github.com/user-attachments/assets/11388bed-d91c-486b-9169-301097a33f08)<br>
+![image](https://github.com/user-attachments/assets/9ee03dd2-57c6-4f8d-949c-44dcc7156099)<br>
+![image](https://github.com/user-attachments/assets/3175f3d6-5d9d-4249-8e5f-19decbcba5a0)<br>
+![image](https://github.com/user-attachments/assets/3bfda773-c2e9-4610-951e-7796486f8294)<br>
+![image](https://github.com/user-attachments/assets/792f859d-3b53-410e-b4e6-9d8eddb6cc4e)<br>
+![image](https://github.com/user-attachments/assets/9599e59e-ea6e-4f6f-8086-65cd4f669c11)<br>
+![image](https://github.com/user-attachments/assets/5d08b537-da62-4531-933d-214053d9df39)
+
+---
+## 14ª
+![image](https://github.com/user-attachments/assets/eee51bad-3765-45cf-8b76-2612edb8b560)<br>
+![image](https://github.com/user-attachments/assets/c8eff815-d11a-43ee-b986-01207bc7143d)<br>
+![image](https://github.com/user-attachments/assets/7f1ab330-d4d9-4340-95c6-12003b38f9c2)<br>
+![image](https://github.com/user-attachments/assets/f2161f13-6815-46d1-bf16-5774c6ead937)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
