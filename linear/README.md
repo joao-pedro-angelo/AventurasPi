@@ -40,6 +40,7 @@
 4. **[Mais sobre Imagem e Núcleo](teoria/MaisSobreImagemNucleo.md)**
 5. **[Operações com Transformações Lineares](teoria/OperacoesComTransformacoesLineares.md)**
 6. **[Matrizes e Transformações Lineares](teoria/TransformacoesLinearesMatrizes.md)**
+7. **[Composição e Isomorfismo](teoria/ComposicaoIsomorfismo.md)**
 
 ---
 ## Listas de Exercícios
