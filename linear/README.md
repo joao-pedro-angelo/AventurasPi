@@ -35,6 +35,7 @@
 ## 3º Estágio
 
 1. **[Transformações Lineares - Definição e Exemplos](teoria/TransformacaoLinearPt1.md)**
+2. **[Propriedades das Transformações Lineares](teoria/PropriedadesTransformacaoLinear.md)**
 
 ---
 ## Listas de Exercícios
