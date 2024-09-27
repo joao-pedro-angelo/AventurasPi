@@ -24,3 +24,7 @@ A partir das duas propriedades fundamentais, podemos derivar algumas outras prop
 Para qualquer transformação linear T: V -> W, o vetor nulo de V sempre sera mapeado para o vetor nulo de W. 
 
 ![image](https://github.com/user-attachments/assets/720dceab-9103-4453-8494-7607e67ce934)
+
+---
+![image](https://github.com/user-attachments/assets/b58e5663-2049-414d-a137-6aef57a91e2c)<br>
+
