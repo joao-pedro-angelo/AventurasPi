@@ -1,7 +1,5 @@
 # Transformacoes Lineares
 
-Este documento aborda conceitos e exemplos de transformacoes lineares, conforme as questoes resolvidas.
-
 ---
 ## Definicao de Transformacao Linear
 
@@ -77,18 +75,6 @@ Vamos verificar se esta transformacao e linear:
 Como ambas as propriedades sao satisfeitas, T e uma transformacao linear.
 
 ---
-## Determinando Transformacoes
-
-Quando temos uma transformacao T com exemplos fornecidos para vetores de base, podemos determinar o comportamento da transformacao em outros vetores expressando-os como combinacoes lineares dos vetores de base conhecidos.
-
-Exemplo:
-Se T(0, 1, 2) = 6 - t + t^2, T(1, 1, 0) = 2 - t e T(0, 0, 1) = t, entao para encontrar T(1, 2, 3), escrevemos (1, 2, 3) como uma combinacao linear dos vetores dados:
-
-(1, 2, 3) = a(0, 1, 2) + b(1, 1, 0) + c(0, 0, 1)
-
-Resolvendo o sistema linear, determinamos os coeficientes e aplicamos a linearidade da transformacao para calcular T(1, 2, 3).
-
----
 ## Conclusao
 
-As transformacoes lineares preservam a aditividade e a homogeneidade, caracteristicas fundamentais para garantir que operacoes em espacos vetoriais sejam mantidas de maneira consistente. Atravess dos exemplos abordados, fica claro como essas propriedades podem ser usadas para verificar a linearidade e calcular a imagem de vetores sob uma transformacao linear.
+As transformacoes lineares preservam a aditividade e a homogeneidade, caracteristicas fundamentais para garantir que operacoes em espacos vetoriais sejam mantidas de maneira consistente.
