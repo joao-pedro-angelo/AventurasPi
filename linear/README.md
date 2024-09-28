@@ -41,6 +41,7 @@
 5. **[Operações com Transformações Lineares](teoria/OperacoesComTransformacoesLineares.md)**
 6. **[Matrizes e Transformações Lineares](teoria/TransformacoesLinearesMatrizes.md)**
 7. **[Composição e Isomorfismo](teoria/ComposicaoIsomorfismo.md)**
+8. **[Dicas para a Terceira Prova](teoria/dicasProvaTerceiroEstagio.md)**
 
 ---
 ## Listas de Exercícios
