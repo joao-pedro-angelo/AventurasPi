@@ -92,3 +92,14 @@ Veja um exemplo com matriz:<br>
 ![image](https://github.com/user-attachments/assets/ce135e2c-909f-46d3-b75b-84e7a1a3e28f)
 
 > Logo, para identificar se a função é sobrejetora, basta ver se a dimensão do conjunto imagem é igual a dimensão do domínio.
+
+---
+## Conclusão desta Parte 1
+
+1. Provar que é Transformação Linear
+2. Identificar determinado elemento
+3. Identificar um vetor que satisfaz uma condição
+4. Conjunto Imagem e seu gerador
+5. Núcleo
+6. Injetividade
+7. Sobrejetividade
