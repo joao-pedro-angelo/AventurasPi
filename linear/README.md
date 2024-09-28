@@ -34,14 +34,7 @@
 ---
 ## 3º Estágio
 
-1. **[Transformações Lineares - Definição e Exemplos](teoria/TransformacaoLinearPt1.md)**
-2. **[Propriedades das Transformações Lineares](teoria/PropriedadesTransformacaoLinear.md)**
-3. **[Imagem, Núcleo, Injetividade, Sobrejetividade e Isomorfismo](teoria/ConceitosImportantes.md)**
-4. **[Mais sobre Imagem e Núcleo](teoria/MaisSobreImagemNucleo.md)**
-5. **[Operações com Transformações Lineares](teoria/OperacoesComTransformacoesLineares.md)**
-6. **[Matrizes e Transformações Lineares](teoria/TransformacoesLinearesMatrizes.md)**
-7. **[Composição e Isomorfismo](teoria/ComposicaoIsomorfismo.md)**
-8. **[Dicas para a Terceira Prova](teoria/dicasProvaTerceiroEstagio.md)**
+1. **[Transformação Linear - Parte 1](teoria/dicasProvaTerceiroEstagio.md)**
 
 ---
 ## Listas de Exercícios
