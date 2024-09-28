@@ -34,8 +34,9 @@
 ---
 ## 3º Estágio
 
-1. **[Transformação Linear - Parte 1](teoria/dicasProvaTerceiroEstagio.md)**
-2. **[Transformação Linear - Parte 2](teoria/dicasTerceiraProvaPt2.md)**
+1. **[Transformação Linear - Definição e Provas](teoria/dicasProvaTerceiroEstagio.md)**
+2. **[Imagem, Núcleo, Teorema Núcleo-Imagem](teoria/dicasTerceiraProvaPt2.md)**
+3. **[Injetividade e Sobrejetividade](teoria/dicasProvaTerceiroEstPt3.md)**
 
 ---
 ## Listas de Exercícios
