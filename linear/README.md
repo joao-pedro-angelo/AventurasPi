@@ -35,6 +35,7 @@
 ## 3º Estágio
 
 1. **[Transformação Linear - Parte 1](teoria/dicasProvaTerceiroEstagio.md)**
+2. **[Transformação Linear - Parte 2](teoria/dicasTerceiraProvaPt2.md)**
 
 ---
 ## Listas de Exercícios
