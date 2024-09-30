@@ -39,6 +39,7 @@
 3. **[Injetividade e Sobrejetividade](teoria/dicasProvaTerceiroEstPt3.md)**
 4. **[Isomorfismo](teoria/Isomorfismo.md)**
 5. **[Transformação Linear Inversa](teoria/transformacaoLinearInversa.md)**
+6. **[Isomorfismo Inverso](teoria/isomorfismoInverso.md)**
 
 ---
 ## Listas de Exercícios
