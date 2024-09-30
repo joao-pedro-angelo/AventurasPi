@@ -38,6 +38,7 @@
 2. **[Imagem, Núcleo, Teorema Núcleo-Imagem](teoria/dicasTerceiraProvaPt2.md)**
 3. **[Injetividade e Sobrejetividade](teoria/dicasProvaTerceiroEstPt3.md)**
 4. **[Isomorfismo](teoria/Isomorfismo.md)**
+5. **[Transformação Linear Inversa](teoria/transformacaoLinearInversa.md)**
 
 ---
 ## Listas de Exercícios
