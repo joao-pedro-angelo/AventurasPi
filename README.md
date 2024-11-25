@@ -22,3 +22,4 @@ Caso não tenha essa indicação, o redirecionamento será para um arquivo *md* 
 4. **Cálculo 1:** [Cálculo 1](/calculo1)
 5. **Cálculo 2:** [Cálculo 2](/calculo2)
 6. **Álgebra Linear:** [Álgebra Linear](/linear)
+7. **Probabilidade:** [Probabilidade](/probabilidade)
