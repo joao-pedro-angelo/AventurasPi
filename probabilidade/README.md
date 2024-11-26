@@ -18,3 +18,4 @@ se for par, o anterior não se modifica; se for ímpar, o anterior incrementa-se
 ## 1º Estágio
 
 1. **[Tipos de Variáveis](teoria/tiposVariaveis.md)**<br>
+2. **[Tabela Distribuição de Frequências](teoria/tabelaDistribuicaoFreq.md)**<br>
