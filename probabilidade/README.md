@@ -19,4 +19,5 @@ se for par, o anterior não se modifica; se for ímpar, o anterior incrementa-se
 
 1. **[Tipos de Variáveis](teoria/tiposVariaveis.md)**<br>
 2. **[Tabela Distribuição de Frequências](teoria/tabelaDistribuicaoFreq.md)**<br>
-3. **[Tipos de Gráficos para cada Variável](teoria/tiposGraficos.md)**<br>
+3. **[Gráficos](teoria/tiposGraficosExemplos.md)**<br>
+4. **[Tipos de Gráficos para cada Variável](teoria/tiposGraficos.md)**<br>
