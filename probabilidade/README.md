@@ -1,8 +1,5 @@
 # Probabilidade
 
-> A disciplina de probabilidade tem um site muito bem organizado, logo, este diretório não será desenvolvido.<br>
-> Resolvi inserir apenas a regra de arredondamento ABNT.
-
 ---
 ## Site da Disciplina
 
@@ -16,3 +13,8 @@
 3. **Se os algarismos decimais seguintes forem maiores a 50, 500, 5000..., o anterior incrementa-se em uma unidade.** <br>
 4. **Se os algarismos decimais seguintes forem iguais a 50, 500, 5000..., verifica-se o anterior;
 se for par, o anterior não se modifica; se for ímpar, o anterior incrementa-se em uma unidade.** <br>
+
+---
+## 1º Estágio
+
+1. **[Tipos de Variáveis](teoria/tiposVariaveis.md)**<br>
