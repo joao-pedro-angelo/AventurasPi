@@ -1,5 +1,8 @@
 # Probabilidade
 
+> Esta disciplina possui um site muito bem desenvolvido, por isso não dei continuidade ao diretório de Probabilidade.<br>
+> Inseri apenas a Regra de Arredondamento ABNT, pois ela é usada ao longo de todo o curso.
+
 ---
 ## Site da Disciplina
 
@@ -15,10 +18,3 @@
 se for par, o anterior não se modifica; se for ímpar, o anterior incrementa-se em uma unidade.** <br>
 
 ---
-## 1º Estágio
-
-1. **[Tipos de Variáveis](teoria/tiposVariaveis.md)**<br>
-2. **[Tabela Distribuição de Frequências](teoria/tabelaDistribuicaoFreq.md)**<br>
-3. **[Gráficos](teoria/tiposGraficosExemplos.md)**<br>
-4. **[Tipos de Gráficos para cada Variável](teoria/tiposGraficos.md)**<br>
-5. **[Exemplo Geral - O que foi visto até agora](exemplos/ex01.md)**<br>
